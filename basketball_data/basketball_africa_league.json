@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Abidjan",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9bsouy1713954718.png",
+    "stadium": "Palais des Sports de Treichville",
+    "city": "Abidjan, Ivory Coast",
+    "country": "Ivory Coast"
+  },
+  {
+    "name": "Al Ahly",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yt9l371720507967.png",
+    "stadium": "",
+    "city": "",
+    "country": "Egypt"
+  },
+  {
+    "name": "Alahly Benghazi",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pl878a1750324802.png",
+    "stadium": "",
+    "city": "",
+    "country": "Libya"
+  },
+  {
+    "name": "APR BBC",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fye4pf1757058873.png",
+    "stadium": "BK Arena",
+    "city": "Kigali, Rwanda",
+    "country": "Rwanda"
+  },
+  {
+    "name": "AS Douanes",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/exwb2o1713954632.png",
+    "stadium": "Marius Ndiaye Stadium",
+    "city": "",
+    "country": "Senegal"
+  },
+  {
+    "name": "AS Salé",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bffyqz1649793187.png",
+    "stadium": "Salle El Bouâzzaoui",
+    "city": "Salé",
+    "country": "Morocco"
+  },
+  {
+    "name": "Bangui",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zrvtmo1750325029.png",
+    "stadium": "",
+    "city": "Bangui, Central African Republic",
+    "country": "Central African Republic"
+  },
+  {
+    "name": "BC Espoir Fukash",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2balae1649793213.png",
+    "stadium": "",
+    "city": "Kinshasa",
+    "country": "Congo"
+  },
+  {
+    "name": "Cape Town Tigers",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7brnob1649793194.png",
+    "stadium": "",
+    "city": "Gugulethu",
+    "country": "South Africa"
+  },
+  {
+    "name": "City Oilers",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9v1ah51745500570.png",
+    "stadium": "",
+    "city": "",
+    "country": "Uganda"
+  },
+  {
+    "name": "Cobra Sport",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pfd3uj1649793201.png",
+    "stadium": "Dr. Biar Sports Complex",
+    "city": "Juba",
+    "country": "South Sudan"
+  },
+  {
+    "name": "DUC Dakar",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hy21721649793208.png",
+    "stadium": "Marius Ndiaye Stadium",
+    "city": "Dakar",
+    "country": "Senegal"
+  },
+  {
+    "name": "Dynamo BC Bujumbura",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/adw33j1750324639.png",
+    "stadium": "",
+    "city": "",
+    "country": "Burundi"
+  },
+  {
+    "name": "FAP Basketball",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n6swvr1649793219.png",
+    "stadium": "Yaoundé Multipurpose Sports Complex",
+    "city": "Yaoundé",
+    "country": "Cameroon"
+  },
+  {
+    "name": "Ferroviário da Beira",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0xpqjh1649793225.png",
+    "stadium": "Estádio do Ferroviário",
+    "city": "Beira",
+    "country": "Mozambique"
+  },
+  {
+    "name": "FUS Rabat",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r194d31731671901.png",
+    "stadium": null,
+    "city": "",
+    "country": "Morocco"
+  },
+  {
+    "name": "Kwara Falcons",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zh10sf1713954821.png",
+    "stadium": "Kwara Stadium",
+    "city": "Ilorin, Kwara, Nigeria",
+    "country": "Nigeria"
+  },
+  {
+    "name": "Petro Atletico",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xum0wx1731671741.png",
+    "stadium": "",
+    "city": "",
+    "country": "Angola"
+  },
+  {
+    "name": "Petro de Luanda",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3g8qn41649793238.png",
+    "stadium": "",
+    "city": "Luanda",
+    "country": "Angola"
+  },
+  {
+    "name": "REG BBC",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fu094k1750325354.png",
+    "stadium": "Amahoro Indoor Stadium",
+    "city": "Kigali",
+    "country": "Rwanda"
+  },
+  {
+    "name": "SLAC",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nhl9zl1649793250.png",
+    "stadium": "Palais des Sports du Stade du 28 Septembre",
+    "city": "Conakry",
+    "country": "Guinea"
+  },
+  {
+    "name": "Stade Malien",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vnfsqw1713954916.png",
+    "stadium": "Stade 26 Mars",
+    "city": "Bamako, Mali",
+    "country": "Mali"
+  },
+  {
+    "name": "US Monastir",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xrqjcw1649793231.png",
+    "stadium": "Mohamed-Mzali Sports Hall",
+    "city": "Monastir",
+    "country": "Tunisia"
+  },
+  {
+    "name": "Zamalek SC Basketball",
+    "league": "Basketball Africa League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xw3hhp1649793258.png",
+    "stadium": "",
+    "city": "Zamalek",
+    "country": "Egypt"
+  }
+]

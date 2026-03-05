@@ -1,0 +1,194 @@
+[
+  {
+    "name": "AFC Wimbledon",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/md7iqx1684129667.png",
+    "stadium": "The Cherry Red Records Stadium",
+    "city": "Wimbledon, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Barnsley",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xvxsuv1447437855.png",
+    "stadium": "Oakwell",
+    "city": "Barnsley",
+    "country": "England"
+  },
+  {
+    "name": "Blackpool",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/utywru1448754934.png",
+    "stadium": "Bloomfield Road",
+    "city": "Seasiders Way, Blackpool, England",
+    "country": "England"
+  },
+  {
+    "name": "Bolton Wanderers",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png",
+    "stadium": "Toughsheet Community Stadium",
+    "city": "Horwich, Bolton, England",
+    "country": "England"
+  },
+  {
+    "name": "Bradford City",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png",
+    "stadium": "University of Bradford Stadium",
+    "city": "Valley Parade, Bradford",
+    "country": "England"
+  },
+  {
+    "name": "Burton Albion",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png",
+    "stadium": "Pirelli Stadium",
+    "city": "Burton-on-Trent, Staffordshire",
+    "country": "England"
+  },
+  {
+    "name": "Cardiff City",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff, Wales",
+    "country": "Wales"
+  },
+  {
+    "name": "Doncaster Rovers",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ssvpvx1424033260.png",
+    "stadium": "The Eco-Power Stadium",
+    "city": "Doncaster, South Yorkshire",
+    "country": "England"
+  },
+  {
+    "name": "Exeter City",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png",
+    "stadium": "St James Park Exeter",
+    "city": "Exeter, England",
+    "country": "England"
+  },
+  {
+    "name": "Huddersfield Town",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png",
+    "stadium": "Accu Stadium",
+    "city": "Stadium Way, Huddersfield, England",
+    "country": "England"
+  },
+  {
+    "name": "Leyton Orient",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/g4d9bi1688678797.png",
+    "stadium": "BetWright Stadium",
+    "city": "Leyton, London Borough of Waltham Forest",
+    "country": "England"
+  },
+  {
+    "name": "Lincoln City",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png",
+    "stadium": "LNER Stadium",
+    "city": "Lincoln, England",
+    "country": "England"
+  },
+  {
+    "name": "Luton Town",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png",
+    "stadium": "Kenilworth Road",
+    "city": "Kenilworth Road, Luton",
+    "country": "England"
+  },
+  {
+    "name": "Mansfield Town",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c1fpes1761709071.png",
+    "stadium": "One Call Stadium",
+    "city": "Quarry Lane, Mansfield,",
+    "country": "England"
+  },
+  {
+    "name": "Northampton Town",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/aa42641684131255.png",
+    "stadium": "Sixfields Stadium",
+    "city": "Northampton, Northamptonshire",
+    "country": "England"
+  },
+  {
+    "name": "Peterborough United",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png",
+    "stadium": "Weston Homes Stadium",
+    "city": "Peterborough",
+    "country": "England"
+  },
+  {
+    "name": "Plymouth Argyle",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png",
+    "stadium": "Home Park",
+    "city": "Plymouth, Devon, England",
+    "country": "England"
+  },
+  {
+    "name": "Port Vale",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/s1ke3v1761710614.png",
+    "stadium": "Vale Park",
+    "city": "Burslem, Stoke-on-Trent",
+    "country": "England"
+  },
+  {
+    "name": "Reading",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "country": "England"
+  },
+  {
+    "name": "Rotherham United",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sewy0z1752149213.png",
+    "stadium": "AESSEAL New York Stadium",
+    "city": "New York Way, Rotherham, South Yorkshire",
+    "country": "England"
+  },
+  {
+    "name": "Stevenage",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png",
+    "stadium": "Lamex Stadium",
+    "city": "Stevenage, Hertfordshire",
+    "country": "England"
+  },
+  {
+    "name": "Stockport County",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png",
+    "stadium": "Edgeley Park",
+    "city": "Stockport",
+    "country": "England"
+  },
+  {
+    "name": "Wigan Athletic",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wtxwyw1448759640.png",
+    "stadium": "The Brick Community Stadium",
+    "city": "Wigan, Lancashire, England",
+    "country": "England"
+  },
+  {
+    "name": "Wycombe Wanderers",
+    "league": "English League 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/avi3bu1688678934.png",
+    "stadium": "Adams Park",
+    "city": "High Wycombe, Buckinghamshire",
+    "country": "England"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bulldogs Liège",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vy64xm1649793373.png",
+    "stadium": "Patinoire de Liège",
+    "city": "Liège",
+    "country": "Belgium"
+  },
+  {
+    "name": "Diez-Limburg",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5ih2sh1747746980.png",
+    "stadium": "",
+    "city": "Diez",
+    "country": "Germany"
+  },
+  {
+    "name": "Eaters Limburg",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yhtl7x1649793379.png",
+    "stadium": "IJshal Glanerbrook",
+    "city": "Geleen",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "EHC Neuwied",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kaatiy1747746726.png",
+    "stadium": "Icehouse Neuwied",
+    "city": "Neuwied",
+    "country": "Germany"
+  },
+  {
+    "name": "HYC Herentals",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vkevii1747747406.png",
+    "stadium": "",
+    "city": "Herentals",
+    "country": "Belgium"
+  },
+  {
+    "name": "HYS The Hague",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wd1rip1649793350.png",
+    "stadium": "De Uithof",
+    "city": "The Hague",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "IHC Leuven",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/u4iv5a1649793368.png",
+    "stadium": "IJsbaan Leuven",
+    "city": "Leuven",
+    "country": "Belgium"
+  },
+  {
+    "name": "Mechelen Golden Sharks",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wfnchz1649793384.png",
+    "stadium": "Ice Skating Center Mechelen",
+    "city": "Mechelen",
+    "country": "Belgium"
+  },
+  {
+    "name": "UNIS Flyers",
+    "league": "BeNe League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xwflyj1649793357.png",
+    "stadium": "Thialf",
+    "city": "Heerenveen",
+    "country": "The Netherlands"
+  }
+]

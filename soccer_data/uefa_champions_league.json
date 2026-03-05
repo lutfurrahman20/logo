@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Ajax",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png",
+    "stadium": "Johan Cruijff ArenA",
+    "city": "Amsterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Arsenal",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "stadium": "Emirates Stadium",
+    "city": "Holloway, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Atalanta",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Athletic Bilbao",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+    "stadium": "San Mamés Barria",
+    "city": "Bilbao, Vizcaya",
+    "country": "Spain"
+  },
+  {
+    "name": "Atlético Madrid",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "stadium": "Riyadh Air Metropolitano",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "name": "Barcelona",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "stadium": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "Basel",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xppxwr1473791183.png",
+    "stadium": "St. Jakob-Park",
+    "city": "Basel, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "league": "German Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+    "stadium": "BayArena",
+    "city": "Leverkusen, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Bayern Munich",
+    "league": "German Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "stadium": "Allianz Arena",
+    "city": "Munich, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Benfica",
+    "league": "Portuguese Primeira Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png",
+    "stadium": "Estádio da Luz",
+    "city": "Lisboa, Portugal",
+    "country": "Portugal"
+  },
+  {
+    "name": "Bodø/Glimt",
+    "league": "Norwegian Eliteserien",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
+    "stadium": "Aspmyra Stadion",
+    "city": "Bodø, Norway",
+    "country": "Norway"
+  },
+  {
+    "name": "Borussia Dortmund",
+    "league": "German Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+    "stadium": "Signal Iduna Park",
+    "city": "Dortmund, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Brann",
+    "league": "Norwegian Eliteserien",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
+    "stadium": "Brann Stadion",
+    "city": "Bergen, Norway",
+    "country": "Norway"
+  },
+  {
+    "name": "Breiðablik",
+    "league": "Icelandic Úrvalsdeild karla",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fkbtng1512142899.png",
+    "stadium": "Kópavogsvöllur",
+    "city": "Kópavogur, Iceland",
+    "country": "Iceland"
+  },
+  {
+    "name": "Budućnost Podgorica",
+    "league": "Montenegrin First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kckpa11579467122.png",
+    "stadium": "Stadion pod Goricom",
+    "city": "Podgorica, Montenegro",
+    "country": "Montenegro"
+  },
+  {
+    "name": "Celtic",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    "stadium": "Celtic Park",
+    "city": "Parkhead, Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "name": "Chelsea",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "stadium": "Stamford Bridge",
+    "city": "Fulham, London",
+    "country": "England"
+  },
+  {
+    "name": "Club Brugge",
+    "league": "Belgian Pro League",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png",
+    "stadium": "Jan Breydel Stadium",
+    "city": "Bruges",
+    "country": "Belgium"
+  },
+  {
+    "name": "Crvena Zvezda",
+    "league": "Serbian Super Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gz650v1567023440.png",
+    "stadium": "Stadion Rajko Mitić",
+    "city": "Belgrade, Serbia",
+    "country": "Serbia"
+  },
+  {
+    "name": "Differdange 03",
+    "league": "Luxembourg National Division",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/micxvx1513257944.png",
+    "stadium": "Stade Municipal de la Ville de Differdange",
+    "city": "Differdange, Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "name": "Dinamo Minsk",
+    "league": "Belarus Vyscha Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8qt7b91655742503.png",
+    "stadium": "Dinamo National Olympic Stadium",
+    "city": "Minsk, Belarus",
+    "country": "Belarus"
+  },
+  {
+    "name": "Drita",
+    "league": "Kosovan Superleague",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o1gp0h1596487425.png",
+    "stadium": "Stadiumi me bar sintetik Gjilan",
+    "city": "Gjilan, Kosovo",
+    "country": "Kosovo"
+  },
+  {
+    "name": "Dynamo Kyiv",
+    "league": "Ukrainian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/stxrpx1447696362.png",
+    "stadium": "Stadion Dynamo im Valeriy Lobanovskyi",
+    "city": "Kyiv, Ukraine",
+    "country": "Ukraine"
+  },
+  {
+    "name": "Egnatia",
+    "league": "Albanian Superliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4tufos1639086825.png",
+    "stadium": "Arena Egnatia",
+    "city": "Rrogozhinë, Albania",
+    "country": "Albania"
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "league": "German Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    "stadium": "Deutsche Bank Park",
+    "city": "Frankfurt, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "FC Copenhagen",
+    "league": "Danish Superliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/styqtr1473535513.png",
+    "stadium": "Parken",
+    "city": "Copenhagen, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "FCSB",
+    "league": "Romanian Liga I",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/123g021759420850.png",
+    "stadium": "Arena Națională",
+    "city": "Bucharest, Romania",
+    "country": "Romania"
+  },
+  {
+    "name": "Fenerbahçe",
+    "league": "Turkish Super Lig",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+    "stadium": "Ülker Stadium",
+    "city": "Kadıköy, Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "name": "Ferencváros",
+    "league": "Hungarian NB I",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wk17od1688115265.png",
+    "stadium": "Groupama Aréna",
+    "city": "Budapest, Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "Feyenoord",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
+    "stadium": "Stadion Feyenoord",
+    "city": "Rotterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Galatasaray",
+    "league": "Turkish Super Lig",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png",
+    "stadium": "Rams Park",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "name": "Ħamrun Spartans",
+    "league": "Maltese Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mmqcjl1579535584.png",
+    "stadium": "",
+    "city": "Ħamrun, Malta",
+    "country": "Malta"
+  },
+  {
+    "name": "Iberia 1999",
+    "league": "Georgian Erovnuli Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ifxpmk1615900731.png",
+    "stadium": "Mikheil Meskhi Stadium",
+    "city": "Tbilisi, Georgia",
+    "country": "Georgia"
+  },
+  {
+    "name": "Inter Club d'Escaldes",
+    "league": "Andorran 1a Divisió",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/39f7xv1578827342.png",
+    "stadium": "Estadi Comunal d'Andorra la Vella",
+    "city": "Escaldes-Engordany, Andorra",
+    "country": "Andorra"
+  },
+  {
+    "name": "Inter Milan",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milan, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Juventus",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "stadium": "Allianz Stadium Turin",
+    "city": "Turin, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Kairat Almaty",
+    "league": "Kazakhstan Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sz5y1m1579285078.png",
+    "stadium": "Central Stadium",
+    "city": "Almaty, Kazakhstan",
+    "country": "Kazakhstan"
+  },
+  {
+    "name": "KuPS",
+    "league": "Finnish Veikkausliiga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qmrrop1717396470.png",
+    "stadium": "Väre Areena",
+    "city": "Kuopio, Finland",
+    "country": "Finland"
+  },
+  {
+    "name": "Lech Poznań",
+    "league": "Polish Ekstraklasa",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png",
+    "stadium": "ENEA Stadion",
+    "city": "Poznań, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Levadia Tallinn",
+    "league": "Estonian Meistriliiga",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/nsdow61769308517.png",
+    "stadium": "A. Le Coq Arena",
+    "city": "Tallinn, Estonia",
+    "country": "Estonia"
+  },
+  {
+    "name": "Lincoln Red Imps",
+    "league": "Gibraltarian National League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w1d87s1594393899.png",
+    "stadium": "Europa Point Stadium",
+    "city": "Winston Churchill Avenue, Gibraltar",
+    "country": "Gibraltar"
+  },
+  {
+    "name": "Linfield",
+    "league": "Northern Irish Premiership",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ltysm01595013702.png",
+    "stadium": "Windsor Park Belfast",
+    "city": "Belfast, Northern Ireland",
+    "country": "Northern Ireland"
+  },
+  {
+    "name": "Liverpool",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "stadium": "Anfield",
+    "city": "Anfield, Liverpool",
+    "country": "England"
+  },
+  {
+    "name": "Ludogorets Razgrad",
+    "league": "Bulgarian First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/35cw6l1752946925.png",
+    "stadium": "Huvepharma Arena",
+    "city": "Razgrad, Bulgaria",
+    "country": "Bulgaria"
+  },
+  {
+    "name": "Maccabi Tel Aviv",
+    "league": "Israeli Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lh08ob1625167121.png",
+    "stadium": "Bloomfield Stadium",
+    "city": "Tel Aviv, Israel",
+    "country": "Israel"
+  },
+  {
+    "name": "Malmo FF",
+    "league": "Swedish Allsvenskan",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wvvuqs1420764546.png",
+    "stadium": "Eleda Stadion",
+    "city": "Malmö, Sweden",
+    "country": "Sweden"
+  },
+  {
+    "name": "Manchester City",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "stadium": "Etihad Stadium",
+    "city": "Etihad Campus, Manchester",
+    "country": "England"
+  },
+  {
+    "name": "Marseille",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png",
+    "stadium": "Orange Vélodrome",
+    "city": "Marseille, France",
+    "country": "France"
+  },
+  {
+    "name": "Milsami Orhei",
+    "league": "Moldovan National Division",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rebsn21682081795.png",
+    "stadium": "CSR Orhei",
+    "city": "Orhei, Moldova",
+    "country": "Moldova"
+  },
+  {
+    "name": "Monaco",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+    "stadium": "Stade Louis II",
+    "city": "Fontvieille, Monaco",
+    "country": "Monaco"
+  }
+]

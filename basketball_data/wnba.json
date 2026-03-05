@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Atlanta Dream",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqjpk1702757695.png",
+    "stadium": "Gateway Center Arena",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Sky",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/h4e2t21552585926.png",
+    "stadium": "Wintrust Arena",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "name": "Connecticut Sun",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p4xzce1552679905.png",
+    "stadium": "Mohegan Sun Arena",
+    "city": "Uncasville, Connecticut",
+    "country": "United States"
+  },
+  {
+    "name": "Dallas Wings",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vg11pw1552585970.png",
+    "stadium": "College Park Center",
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Golden State Valkyries",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/24p2fj1738315525.png",
+    "stadium": "Chase Center",
+    "city": "San Francisco, California",
+    "country": "United States"
+  },
+  {
+    "name": "Indiana Fever",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9xp4y31552586027.png",
+    "stadium": "Gainbridge Fieldhouse",
+    "city": "Indianapolis, Indiana",
+    "country": "United States"
+  },
+  {
+    "name": "Las Vegas Aces",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png",
+    "stadium": "Mandalay Bay Events Center",
+    "city": "Paradise, Nevada. USA",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Sparks",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png",
+    "stadium": "Crypto.com Arena",
+    "city": "Los Angeles, California, USA",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota Lynx",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rzyqoj1552586193.png",
+    "stadium": "Target Center",
+    "city": "Minneapolis, Minnesota",
+    "country": "United States"
+  },
+  {
+    "name": "New York Liberty",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/s3y5hx1702757871.png",
+    "stadium": "Barclays Center",
+    "city": "Brooklyn, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Phoenix Mercury",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png",
+    "stadium": "PHX Arena",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "name": "Portland Fire",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0wqbhm1752599825.png",
+    "stadium": "Moda Center",
+    "city": "Portland, Oregon",
+    "country": "United States"
+  },
+  {
+    "name": "Seattle Storm",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ygz07x1624031566.png",
+    "stadium": "Climate Pledge Arena",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "name": "Toronto Tempo",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qlchtm1738497324.png",
+    "stadium": "Coca-Cola Coliseum",
+    "city": "Toronto, Ontario, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Washington Mystics",
+    "league": "WNBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2n9gep1552586413.png",
+    "stadium": "Entertainment and Sports Arena",
+    "city": "Washington, D.C.",
+    "country": "United States"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Berlin Thunder",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pyppzh1754811431.png",
+    "stadium": "Friedrich-Ludwig-Jahn-Sportpark",
+    "city": "Berlin, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Cologne Centurions",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/q7s6rh1625362340.png",
+    "stadium": "Südstadion",
+    "city": "Cologne, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Fehérvár Enthroners",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jyzimf1682334717.png",
+    "stadium": "First Field",
+    "city": "Székesfehérvár, Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "Frankfurt Galaxy",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cjb3mz1625362426.png",
+    "stadium": "PSD Bank Arena",
+    "city": "Frankfurt am Main, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Hamburg Sea Devils",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6s86v01625362501.png",
+    "stadium": "Stadion Hoheluft",
+    "city": "Hamburg, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Helvetic Mercenaries",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v36jjz1721307900.png",
+    "stadium": "Lidl Arena Wil",
+    "city": "Kriens, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Madrid Bravos",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bbrz5v1706192817.png",
+    "stadium": "",
+    "city": "Madrid, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Munich Ravens",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gdnuut1682334726.png",
+    "stadium": "Sportpark Unterhaching",
+    "city": "Munich, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Nordic Storm",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xnegp01739186058.png",
+    "stadium": "Gladsaxe Stadion",
+    "city": "Søborg, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "Paris Musketeers",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dk59f81682334729.png",
+    "stadium": "Stade Robert Bobin",
+    "city": "Paris, France",
+    "country": "France"
+  },
+  {
+    "name": "Prague Lions",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9nwj7x1721308229.png",
+    "stadium": "eFotbal Arena",
+    "city": "Prague, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Raiders Tirol",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tk80ru1648973672.png",
+    "stadium": "Tivoli Stadion Tirol",
+    "city": "Innsbruck, Austria",
+    "country": "Austria"
+  },
+  {
+    "name": "Rhein Fire",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y8jeuu1648973843.png",
+    "stadium": "Schauinsland-Reisen-Arena",
+    "city": "Düsseldorf, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Stuttgart Surge",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2cl2dz1629366700.png",
+    "stadium": "Gazi-Stadion auf der Waldau",
+    "city": "Stuttgart, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Vienna Vikings",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/g7cbkm1721309781.png",
+    "stadium": "Generali Arena",
+    "city": "Vienna, Austria",
+    "country": "Austria"
+  },
+  {
+    "name": "Wrocław Panthers",
+    "league": "European League of Football",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bwhywq1625363220.png",
+    "stadium": "Stadion Olimpijski",
+    "city": "Wrocław, Poland",
+    "country": "Poland"
+  }
+]

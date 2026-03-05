@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Islamabad United",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5bi3eb1709123559.png",
+    "stadium": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Karachi Kings",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tfuvu11709123541.png",
+    "stadium": "National Stadium Karachi",
+    "city": "Karachi, Sindh, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Kingsmen Hyderabad",
+    "league": "Pakistan Super League",
+    "logo": null,
+    "stadium": null,
+    "city": null,
+    "country": "Pakistan"
+  },
+  {
+    "name": "Lahore Qalandars",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hvrtrg1709123519.png",
+    "stadium": "Gaddafi Stadium",
+    "city": "Lahore, Punjab, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Multan Sultans",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mpijr01709123512.png",
+    "stadium": "Multan Cricket Stadium",
+    "city": "Multan, Punjab, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Peshawar Zalmi",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/frp6xj1709123501.png",
+    "stadium": "Arbab Niaz Stadium",
+    "city": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Quetta Gladiators",
+    "league": "Pakistan Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rox6ge1709123486.png",
+    "stadium": "Bugti Stadium",
+    "city": "Quetta, Pakistan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Sialkot Stallionz",
+    "league": "Pakistan Super League",
+    "logo": null,
+    "stadium": null,
+    "city": null,
+    "country": "Pakistan"
+  }
+]

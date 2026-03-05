@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Arizona Cardinals",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
+    "stadium": "State Farm Stadium",
+    "city": "Glendale, Arizona, USA",
+    "country": "United States"
+  },
+  {
+    "name": "Atlanta Falcons",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "name": "Baltimore Ravens",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
+    "stadium": "M&T Bank Stadium",
+    "city": "Baltimore, Maryland",
+    "country": "United States"
+  },
+  {
+    "name": "Buffalo Bills",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png",
+    "stadium": "Highmark Stadium",
+    "city": "Orchard Park, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Carolina Panthers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
+    "stadium": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Bears",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
+    "stadium": "Soldier Field",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "name": "Cincinnati Bengals",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png",
+    "stadium": "Paycor Stadium",
+    "city": "Cincinnati, Ohio",
+    "country": "United States"
+  },
+  {
+    "name": "Cleveland Browns",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png",
+    "stadium": "Huntington Bank Field",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "name": "Dallas Cowboys",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Denver Broncos",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
+    "stadium": "Empower Field at Mile High",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "name": "Detroit Lions",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
+    "stadium": "Ford Field",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "name": "Green Bay Packers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
+    "stadium": "Lambeau Field",
+    "city": "Green Bay, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "name": "Houston Texans",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Indianapolis Colts",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
+    "stadium": "Lucas Oil Stadium",
+    "city": "Indianapolis, Indiana",
+    "country": "United States"
+  },
+  {
+    "name": "Jacksonville Jaguars",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
+    "stadium": "EverBank Stadium",
+    "city": "Jacksonville, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Kansas City Chiefs",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/936t161515847222.png",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "country": "United States"
+  },
+  {
+    "name": "Las Vegas Raiders",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
+    "stadium": "Allegiant Stadium",
+    "city": "Paradise, Nevada",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Chargers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, CA",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Rams",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png",
+    "stadium": "SoFi Stadium",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "name": "Miami Dolphins",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, FL",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota Vikings",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
+    "stadium": "U.S. Bank Stadium",
+    "city": "Minneapolis, MN",
+    "country": "United States"
+  },
+  {
+    "name": "New England Patriots",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "name": "New Orleans Saints",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
+    "stadium": "Caesars Superdome",
+    "city": "New Orleans, Louisiana",
+    "country": "United States"
+  },
+  {
+    "name": "New York Giants",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "country": "United States"
+  },
+  {
+    "name": "New York Jets",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hz92od1607953467.png",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "country": "United States"
+  },
+  {
+    "name": "Philadelphia Eagles",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "Pittsburgh Steelers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
+    "stadium": "Acrisure Stadium",
+    "city": "Pittsburgh, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "San Francisco 49ers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "country": "United States"
+  },
+  {
+    "name": "Seattle Seahawks",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "name": "Tampa Bay Buccaneers",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
+    "stadium": "Raymond James Stadium",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Tennessee Titans",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/m48yia1515847376.png",
+    "stadium": "Nissan Stadium Nashville",
+    "city": "Nashville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "name": "Washington Commanders",
+    "league": "NFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
+    "stadium": "Northwest Stadium",
+    "city": "Landover, Maryland",
+    "country": "United States"
+  }
+]

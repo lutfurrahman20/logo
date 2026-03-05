@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cangrejeros de Santurce",
+    "league": "Liga de Béisbol Profesional Roberto Clemente",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/oextd81771360854.png",
+    "stadium": "Estadio Hiram Birthorn",
+    "city": "Santurce, San Juan, PR",
+    "country": "Puerto Rico"
+  },
+  {
+    "name": "Charros de Jalisco",
+    "league": "Liga Mexicana de Béisbol",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n9lywa1740582358.png",
+    "stadium": "Estadio Panamericano de Béisbol",
+    "city": "Zapopan, Jalisco",
+    "country": "Mexico"
+  },
+  {
+    "name": "Federales de Chiriquí",
+    "league": "_No League Baseball",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/4fll6l1771365272.png",
+    "stadium": "Estadio Kenny Sarracín",
+    "city": "David, Chiriquí",
+    "country": "Panama"
+  },
+  {
+    "name": "Leones del Escogido",
+    "league": "_No League Baseball",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/xvoafn1771365028.png",
+    "stadium": "Estadio Quisqueya Juan Marichal",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic"
+  },
+  {
+    "name": "Tomateros de Culiacán",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lfm7zk1637689117.png",
+    "stadium": "",
+    "city": "Culiacán, Sinaloa",
+    "country": "Mexico"
+  }
+]

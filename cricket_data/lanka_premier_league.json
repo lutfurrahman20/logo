@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Colombo Kaps",
+    "league": "Lanka Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lwar9d1720697266.png",
+    "stadium": "R. Premadasa Stadium",
+    "city": "Colombo, Western Province",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Dambulla Sixers",
+    "league": "Lanka Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/avsoxp1720697923.png",
+    "stadium": "",
+    "city": "Dambulla, Central Province",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Galle Marvels",
+    "league": "Lanka Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dgqb9i1720698025.png",
+    "stadium": "",
+    "city": "Galle, Southern Province",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Jaffna",
+    "league": "Lanka Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gs27jn1720698419.png",
+    "stadium": "",
+    "city": "Jaffna, Northern Province",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "Kandy Falcons",
+    "league": "Lanka Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ukrqz61720698084.png",
+    "stadium": "",
+    "city": "Kandy, Central Province",
+    "country": "Sri Lanka"
+  }
+]

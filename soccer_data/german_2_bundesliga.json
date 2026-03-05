@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Arminia Bielefeld",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xrrwpx1447591964.png",
+    "stadium": "SchücoArena",
+    "city": "Bielefeld, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "name": "Bochum",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png",
+    "stadium": "Vonovia Ruhrstadion",
+    "city": "Bochum, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Darmstadt",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5f3dyd1608236981.png",
+    "stadium": "Merck-Stadion am Böllenfalltor",
+    "city": "Darmstadt, Hesse",
+    "country": "Germany"
+  },
+  {
+    "name": "Dynamo Dresden",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yxqvxp1471898795.png",
+    "stadium": "Rudolf-Harbig-Stadion",
+    "city": "Dresden, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Eintracht Braunschweig",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lrrq0z1599820707.png",
+    "stadium": "Eintracht-Stadion",
+    "city": "Braunschweig, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Elversberg",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z079go1677573926.png",
+    "stadium": "Waldstadion Kaiserlinde",
+    "city": "Spiesen-Elversberg, Saarland",
+    "country": "Germany"
+  },
+  {
+    "name": "FC Nürnberg",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png",
+    "stadium": "Max-Morlock-Stadion",
+    "city": "Nuremberg",
+    "country": "Germany"
+  },
+  {
+    "name": "Fortuna Düsseldorf",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsruww1473454140.png",
+    "stadium": "Merkur Spiel-Arena",
+    "city": "Düsseldorf, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Greuther Fürth",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/87n1901608237004.png",
+    "stadium": "Sportpark Ronhof Thomas Sommer",
+    "city": "Fürth, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Hannover",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png",
+    "stadium": "Heinz-von-Heiden-Arena",
+    "city": "Hanover, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Hertha",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png",
+    "stadium": "Olympiastadion",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "name": "Holstein Kiel",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png",
+    "stadium": "Holstein-Stadion",
+    "city": "Westring 501, 24106 Kiel",
+    "country": "Germany"
+  },
+  {
+    "name": "Kaiserslautern",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png",
+    "stadium": "Fritz-Walter-Stadion",
+    "city": "Kaiserslautern",
+    "country": "Germany"
+  },
+  {
+    "name": "Karlsruhe",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png",
+    "stadium": "BBBank Wildpark",
+    "city": "Karlsruhe",
+    "country": "Germany"
+  },
+  {
+    "name": "Magdeburg",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png",
+    "stadium": "Avnet Arena",
+    "city": "Magdeburg, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Paderborn",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kddvva1566048058.png",
+    "stadium": "Home Deluxe Arena",
+    "city": "Paderborn, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "name": "Preußen Münster",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nu38ih1579106303.png",
+    "stadium": "Preußenstadion",
+    "city": "Münster",
+    "country": "Germany"
+  },
+  {
+    "name": "Schalke 04",
+    "league": "German 2. Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png",
+    "stadium": "Veltins-Arena",
+    "city": "Gelsenkirchen, Germany",
+    "country": "Germany"
+  }
+]

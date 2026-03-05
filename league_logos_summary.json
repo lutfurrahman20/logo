@@ -1,0 +1,24 @@
+{
+  "total_leagues": 153,
+  "total_logos_downloaded": 153,
+  "sports_count": 19,
+  "by_sport": {
+    "Soccer": 10,
+    "Basketball": 10,
+    "American Football": 10,
+    "Ice Hockey": 10,
+    "Baseball": 10,
+    "Rugby": 10,
+    "Cricket": 10,
+    "Tennis": 8,
+    "Golf": 10,
+    "Motorsport": 10,
+    "Fighting": 10,
+    "Handball": 10,
+    "Volleyball": 10,
+    "Athletics": 10,
+    "Cycling": 10,
+    "Darts": 3,
+    "Snooker": 2
+  }
+}

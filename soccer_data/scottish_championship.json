@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Airdrieonians",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cyx2rk1589996271.png",
+    "stadium": "Excelsior Stadium",
+    "city": "Airdrie, North Lanarkshire",
+    "country": "Scotland"
+  },
+  {
+    "name": "Arbroath",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dw18ig1750743416.png",
+    "stadium": "Gayfield Park",
+    "city": "Gayfield Park, Arbroath",
+    "country": "Scotland"
+  },
+  {
+    "name": "Ayr United",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y0v21n1627844501.png",
+    "stadium": "Somerset Park",
+    "city": "Ayr, South Ayrshire",
+    "country": "Scotland"
+  },
+  {
+    "name": "Dunfermline Athletic",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uuvrvr1473539630.png",
+    "stadium": "East End Park",
+    "city": "Dunfermline, Fife",
+    "country": "Scotland"
+  },
+  {
+    "name": "Greenock Morton",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uvrsxw1447599507.png",
+    "stadium": "Cappielow Park",
+    "city": "Greenock",
+    "country": "Scotland"
+  },
+  {
+    "name": "Partick Thistle",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j801au1705640268.png",
+    "stadium": "Firhill Stadium",
+    "city": "Maryhill, Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "name": "Queen's Park",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lf1cb41750743489.png",
+    "stadium": "Lesser Hampden",
+    "city": "Mount Florida, Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "name": "Raith Rovers",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bk6m0t1627844294.png",
+    "stadium": "Stark's Park",
+    "city": "Kirkcaldy, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "Ross County",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yi482m1688532289.png",
+    "stadium": "Global Energy Stadium",
+    "city": "Dingwall, Rossshire",
+    "country": "Scotland"
+  },
+  {
+    "name": "St Johnstone",
+    "league": "Scottish Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j84ht31600550102.png",
+    "stadium": "McDiarmid Park",
+    "city": "Perth",
+    "country": "Scotland"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Adelaide United",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wpyuwv1473454602.png",
+    "stadium": "Hindmarsh Stadium",
+    "city": "Adelaide",
+    "country": "Australia"
+  },
+  {
+    "name": "Auckland FC",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f36lst1730017502.png",
+    "stadium": "Mount Smart Stadium",
+    "city": "Auckland, New Zealand",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Brisbane Roar",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sypxsu1473454634.png",
+    "stadium": "Suncorp Stadium",
+    "city": "Milton, Queensland",
+    "country": "Australia"
+  },
+  {
+    "name": "Central Coast Mariners",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ncdx4p1759642161.png",
+    "stadium": "Central Coast Stadium",
+    "city": "Gosford, Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Macarthur FC",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9gr66g1579348350.png",
+    "stadium": "Campbelltown Stadium",
+    "city": "South Western Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "name": "Melbourne City",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png",
+    "stadium": "AAMI Park",
+    "city": "Olympic Boulevard, inner Melbourne, Victoria, Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Melbourne Victory",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wwvsqx1473454564.png",
+    "stadium": "AAMI Park",
+    "city": "Harbour Esplanade, Melbourne Docklands & Edwin Flack Field, Olympic Boulevard, Inner Melbourne",
+    "country": "Australia"
+  },
+  {
+    "name": "Newcastle Jets",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5jevk91653487832.png",
+    "stadium": "McDonald Jones Stadium",
+    "city": "New Lambton, Newcastle, New South Wales, Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Perth Glory",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2c9k5p1679114095.png",
+    "stadium": "HBF Park",
+    "city": "Perth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Sydney FC",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png",
+    "stadium": "Allianz Stadium Sydney",
+    "city": "Sydney, NSW",
+    "country": "Australia"
+  },
+  {
+    "name": "Wellington Phoenix",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4uj8271759632738.png",
+    "stadium": "Westpac Stadium",
+    "city": "Wellington, New Zealand",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Western Sydney Wanderers",
+    "league": "Australian A-League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yotugj1759632879.png",
+    "stadium": "CommBank Stadium",
+    "city": "Sydney, New South Wales, Australia",
+    "country": "Australia"
+  }
+]

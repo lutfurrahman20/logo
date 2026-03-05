@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Afghanistan Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png",
+    "stadium": "",
+    "city": "",
+    "country": "Afghanistan"
+  },
+  {
+    "name": "Australia Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png",
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  },
+  {
+    "name": "Bangladesh Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j74o4t1646775146.png",
+    "stadium": "",
+    "city": "",
+    "country": "Bangladesh"
+  },
+  {
+    "name": "England Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png",
+    "stadium": "",
+    "city": "",
+    "country": "England"
+  },
+  {
+    "name": "India Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png",
+    "stadium": "Narendra Modi Stadium",
+    "city": "",
+    "country": "India"
+  },
+  {
+    "name": "Kenya Cricket",
+    "league": "_No League Cricket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/oym2v91646775312.png",
+    "stadium": "",
+    "city": "",
+    "country": "Kenya"
+  },
+  {
+    "name": "Netherlands Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z5v3lq1583580667.png",
+    "stadium": "",
+    "city": "",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "New Zealand Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1yyh9s1646775166.png",
+    "stadium": "",
+    "city": "",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Pakistan Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/03o8241646775177.png",
+    "stadium": "National Stadium Karachi",
+    "city": "Karachi",
+    "country": "Pakistan"
+  },
+  {
+    "name": "South Africa Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hn47e51646775185.png",
+    "stadium": "",
+    "city": "",
+    "country": "South Africa"
+  },
+  {
+    "name": "Sri Lanka Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/i5fqg01646775193.png",
+    "stadium": "R. Premadasa Stadium",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "name": "USA Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/abmnzg1583580897.png",
+    "stadium": "",
+    "city": "",
+    "country": "United States"
+  },
+  {
+    "name": "West Indies Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1x0a681646775209.png",
+    "stadium": "",
+    "city": "",
+    "country": "Barbados"
+  },
+  {
+    "name": "Zimbabwe Cricket",
+    "league": "One Day International Series",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7ah0831646775278.png",
+    "stadium": "Harare Sports Club",
+    "city": "Harare, Zimbabwe",
+    "country": "Zimbabwe"
+  }
+]

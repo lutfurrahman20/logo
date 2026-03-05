@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Birmingham City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png",
+    "stadium": "St Andrew's @ Knighthead Park",
+    "city": "Birmingham, England",
+    "country": "England"
+  },
+  {
+    "name": "Blackburn Rovers",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "country": "England"
+  },
+  {
+    "name": "Bristol City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png",
+    "stadium": "Ashton Gate Stadium",
+    "city": "Bristol",
+    "country": "England"
+  },
+  {
+    "name": "Charlton Athletic",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png",
+    "stadium": "The Valley",
+    "city": "Floyd Road, Charlton, London",
+    "country": "England"
+  },
+  {
+    "name": "Coventry City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "stadium": "The Coventry Building Society Arena",
+    "city": "Birmingham, England",
+    "country": "England"
+  },
+  {
+    "name": "Derby County",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png",
+    "stadium": "Pride Park Stadium",
+    "city": "Pride Park, Derby",
+    "country": "England"
+  },
+  {
+    "name": "Hull City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "stadium": "The MKM Stadium",
+    "city": "Kingston upon Hull, England",
+    "country": "England"
+  },
+  {
+    "name": "Ipswich Town",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "stadium": "Portman Road",
+    "city": "Ipswich, England",
+    "country": "England"
+  },
+  {
+    "name": "Leicester City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+    "stadium": "King Power Stadium",
+    "city": "Filbert Way, Leicester",
+    "country": "England"
+  },
+  {
+    "name": "Middlesbrough",
+    "league": "English League Championship",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/9xcx0p1770828600.png",
+    "stadium": "Riverside Stadium",
+    "city": "Riverside, Middlesbrough",
+    "country": "England"
+  },
+  {
+    "name": "Millwall",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png",
+    "stadium": "The Den",
+    "city": "Bermondsey, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Norwich City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png",
+    "stadium": "Carrow Road",
+    "city": "Norwich, England",
+    "country": "England"
+  },
+  {
+    "name": "Oxford United",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png",
+    "stadium": "The Kassam Stadium",
+    "city": "Grenoble Road, Oxford",
+    "country": "England"
+  },
+  {
+    "name": "Portsmouth",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png",
+    "stadium": "Fratton Park",
+    "city": "Portsmouth, Hampshire",
+    "country": "England"
+  },
+  {
+    "name": "Preston North End",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png",
+    "stadium": "Deepdale",
+    "city": "Preston, Lancashire",
+    "country": "England"
+  },
+  {
+    "name": "Queens Park Rangers",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png",
+    "stadium": "MATRADE Loftus Road",
+    "city": "Shepherds Bush",
+    "country": "England"
+  },
+  {
+    "name": "Sheffield United",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield, South Yorkshire",
+    "country": "England"
+  },
+  {
+    "name": "Sheffield Wednesday",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png",
+    "stadium": "Hillsborough",
+    "city": "Owlerton, Sheffield, England",
+    "country": "England"
+  },
+  {
+    "name": "Southampton",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+    "stadium": "St. Mary's Stadium",
+    "city": "Britannia Rd, Southampton, England",
+    "country": "England"
+  },
+  {
+    "name": "Stoke City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/d16frn1678807158.png",
+    "stadium": "bet365 Stadium",
+    "city": "Stanley Matthews Way, Stoke-on-Trent",
+    "country": "England"
+  },
+  {
+    "name": "Swansea City",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea, Wales",
+    "country": "Wales"
+  },
+  {
+    "name": "Watford",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png",
+    "stadium": "Vicarage Road",
+    "city": "Watford, England",
+    "country": "England"
+  },
+  {
+    "name": "West Bromwich Albion",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich, Sandwell, West Midlands",
+    "country": "England"
+  },
+  {
+    "name": "Wrexham",
+    "league": "English League Championship",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
+    "stadium": "SToK Cae Ras",
+    "city": "Wrexham, Wales",
+    "country": "Wales"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "total_leagues": 33,
+  "successful_leagues": 10,
+  "total_teams": 22,
+  "leagues": [
+    {
+      "name": "PGA Tour",
+      "teams": 1
+    },
+    {
+      "name": "European Tour",
+      "teams": 1
+    },
+    {
+      "name": "LIV Golf",
+      "teams": 13
+    },
+    {
+      "name": "Korn Ferry Tour",
+      "teams": 1
+    },
+    {
+      "name": "PGA Tour Champions",
+      "teams": 1
+    },
+    {
+      "name": "Asian Tour",
+      "teams": 1
+    },
+    {
+      "name": "Japan Golf Tour",
+      "teams": 1
+    },
+    {
+      "name": "PGA Tour of Australasia",
+      "teams": 1
+    },
+    {
+      "name": "LPGA Tour",
+      "teams": 1
+    },
+    {
+      "name": "Ladies European Tour",
+      "teams": 1
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Athletico Paranaense",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+    "stadium": "Arena da Baixada",
+    "city": "Curitiba",
+    "country": "Brazil"
+  },
+  {
+    "name": "Atlético Mineiro",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+    "stadium": "Arena MRV",
+    "city": "Belo Horizonte, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Bahia",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+    "stadium": "Arena Fonte Nova",
+    "city": "Salvador, Bahia, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Botafogo",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+    "stadium": "Estádio Olímpico Nilton Santos",
+    "city": "Rio de Janeiro, RJ",
+    "country": "Brazil"
+  },
+  {
+    "name": "Bragantino",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+    "stadium": "Estadio Cicero de Souza Marques",
+    "city": "Bragança Paulista, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "name": "Chapecoense",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+    "stadium": "Arena Condá",
+    "city": "Chapecó, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "name": "Corinthians",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+    "stadium": "Neo Química Arena",
+    "city": "São Paulo, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Coritiba",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+    "stadium": "Estádio Major Antônio Couto Pereira",
+    "city": "Curitiba, Paraná, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Cruzeiro",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+    "stadium": "Estádio Mineirão",
+    "city": "Belo Horizonte",
+    "country": "Brazil"
+  },
+  {
+    "name": "Flamengo",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+    "stadium": "Estádio do Maracanã",
+    "city": "Rio de Janeiro, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Fluminense",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+    "stadium": "Estádio do Maracanã",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "name": "Grêmio",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+    "stadium": "Arena do Grêmio",
+    "city": "Porto Alegre, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Internacional",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+    "stadium": "Estádio Beira-Rio",
+    "city": "Porto Alegre",
+    "country": "Brazil"
+  },
+  {
+    "name": "Mirassol",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
+    "stadium": "Estádio José Maria de Campos Maia",
+    "city": "Mirassol",
+    "country": "Brazil"
+  },
+  {
+    "name": "Palmeiras",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+    "stadium": "Allianz Parque",
+    "city": "São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "name": "Remo",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+    "stadium": "Estádio Evandro Almeida",
+    "city": "Belém, Pará, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Santos",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+    "stadium": "Estádio Urbano Caldeira",
+    "city": "Santos, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "name": "São Paulo",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+    "stadium": "Estádio do Morumbi",
+    "city": "São Paulo, Brazil",
+    "country": "Brazil"
+  },
+  {
+    "name": "Vasco da Gama",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+    "stadium": "Estádio São Januário",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "name": "Vitória",
+    "league": "Brazilian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+    "stadium": "Estádio Manoel Barradas",
+    "city": "Salvador, Brazil",
+    "country": "Brazil"
+  }
+]

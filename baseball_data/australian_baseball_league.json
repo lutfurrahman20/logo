@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Adelaide Giants",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8azpqh1637685288.png",
+    "stadium": "Norwood Oval",
+    "city": "Adelaide, South Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Auckland Tuatara",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2ekavo1637685330.png",
+    "stadium": "North Harbour Stadium",
+    "city": "Auckland, New Zealand",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Brisbane Bandits",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/u68i041637685295.png",
+    "stadium": "Hollway Field",
+    "city": "Brisbane, Queensland",
+    "country": "Australia"
+  },
+  {
+    "name": "Canberra Cavalry",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gwhz3x1637685301.png",
+    "stadium": "Narrabundah Ballpark",
+    "city": "Canberra, Australian Capital Territory",
+    "country": "Australia"
+  },
+  {
+    "name": "Geelong-Korea",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ipknr91637685337.png",
+    "stadium": "Geelong Baseball Park",
+    "city": "Geelong, Victoria",
+    "country": "Australia"
+  },
+  {
+    "name": "Melbourne Aces",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7u4zqh1637685308.png",
+    "stadium": "Melbourne Ballpark",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "name": "Perth Heat",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wpzrmt1637685317.png",
+    "stadium": "Empire Ballpark",
+    "city": "Perth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Sydney Blue Sox",
+    "league": "Australian Baseball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/q8zrxy1637685325.png",
+    "stadium": "Blacktown Baseball Stadium",
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Comarch Cracovia",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fn8lwh1622517874.png",
+    "stadium": "Tauron Arena Kraków",
+    "city": "Kraków, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Energa Toruń",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zxrfi51622505897.png",
+    "stadium": "Tor-Tor",
+    "city": "Toruń, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "GKS Katowice",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ypyaxk1756386281.png",
+    "stadium": "Spodek",
+    "city": "Katowice, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "GKS Tychy",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hmopll1622505055.png",
+    "stadium": "Stadion Zimowy w Tychach",
+    "city": "Tychy",
+    "country": "Poland"
+  },
+  {
+    "name": "JKH GKS Jastrzębie",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xe4v221624909031.png",
+    "stadium": "Jastor",
+    "city": "Jastrzębie Zdrój, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Polonia Bytom",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsqx1h1756386217.png",
+    "stadium": "",
+    "city": "Bytom",
+    "country": "Poland"
+  },
+  {
+    "name": "STS Sanok",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8xf9tu1623430575.png",
+    "stadium": "",
+    "city": "Sanok, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Unia Oświęcim",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fynu6z1719041973.png",
+    "stadium": "Hala Lodowa MOSiR",
+    "city": "Oświęcim, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Zagłębie Sosnowiec",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ghqoxs1756386137.png",
+    "stadium": "Stadion Zimowy",
+    "city": "Sosnowiec, Poland",
+    "country": "Poland"
+  }
+]

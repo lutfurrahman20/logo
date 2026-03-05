@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Australia Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/09qbwb1625065694.png",
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  },
+  {
+    "name": "Brazil Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cytkd61764167518.png",
+    "stadium": "",
+    "city": "",
+    "country": "Brazil"
+  },
+  {
+    "name": "Canada Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/g18i4m1625063158.png",
+    "stadium": "",
+    "city": "",
+    "country": "Canada"
+  },
+  {
+    "name": "China Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cgaj2x1625065319.png",
+    "stadium": "",
+    "city": "",
+    "country": "China"
+  },
+  {
+    "name": "Chinese Taipei Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/axl5jf1625065153.png",
+    "stadium": "",
+    "city": "",
+    "country": "Taiwan"
+  },
+  {
+    "name": "Colombia Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sl69nm1625063334.png",
+    "stadium": "",
+    "city": "",
+    "country": "Colombia"
+  },
+  {
+    "name": "Cuba Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r4fkwk1625063595.png",
+    "stadium": "",
+    "city": "",
+    "country": "Cuba"
+  },
+  {
+    "name": "Czech Republic Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sicb821625063731.png",
+    "stadium": "",
+    "city": "",
+    "country": "Czechia"
+  },
+  {
+    "name": "Dominican Republic Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cae2jg1624928081.png",
+    "stadium": "Estadio Quisqueya Juan Marichal",
+    "city": "",
+    "country": "Dominican Republic"
+  },
+  {
+    "name": "Great Britain Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/02ecwd1764167652.png",
+    "stadium": "",
+    "city": "",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Israel Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4r0r8p1624927595.png",
+    "stadium": "",
+    "city": "",
+    "country": "Israel"
+  },
+  {
+    "name": "Italy Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rzit6k1625063803.png",
+    "stadium": "",
+    "city": "",
+    "country": "Italy"
+  },
+  {
+    "name": "Japan Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bhpmef1624927738.png",
+    "stadium": "",
+    "city": "",
+    "country": "Japan"
+  },
+  {
+    "name": "Mexico Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7g9nh71624927940.png",
+    "stadium": "",
+    "city": "",
+    "country": "Mexico"
+  },
+  {
+    "name": "Netherlands Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/iw508m1625062520.png",
+    "stadium": "",
+    "city": "",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Nicaragua Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bvhjca1625064026.png",
+    "stadium": "",
+    "city": "",
+    "country": "Nicaragua"
+  },
+  {
+    "name": "Panama Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5ejman1764167719.png",
+    "stadium": "",
+    "city": "",
+    "country": "Panama"
+  },
+  {
+    "name": "Puerto Rico Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bctklr1625064091.png",
+    "stadium": "Estadio Hiram Birthorn",
+    "city": "San Juan, PR",
+    "country": "Puerto Rico"
+  },
+  {
+    "name": "South Africa Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4b2k0i1625064209.png",
+    "stadium": "",
+    "city": "",
+    "country": "South Africa"
+  },
+  {
+    "name": "South Korea Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qtfbpx1624928210.png",
+    "stadium": "",
+    "city": "",
+    "country": "South Korea"
+  },
+  {
+    "name": "USA Baseball",
+    "league": "Olympics Baseball",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3udjng1624928376.png",
+    "stadium": "",
+    "city": "",
+    "country": "United States"
+  },
+  {
+    "name": "Venezuela Baseball",
+    "league": "World Baseball Classic",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/alfoax1625062584.png",
+    "stadium": "",
+    "city": "",
+    "country": "Venezuela"
+  }
+]

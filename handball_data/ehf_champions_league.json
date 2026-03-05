@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Aalborg Håndbold",
+    "league": "Danish Mens Handball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xpslwb1623955424.png",
+    "stadium": "Jutlander Bank Arena",
+    "city": "Aalborg, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "Celje Pivovarna Laško",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x6cco51623955500.png",
+    "stadium": "",
+    "city": "",
+    "country": "Slovenia"
+  },
+  {
+    "name": "CS Dinamo București",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/h7053l1626321340.png",
+    "stadium": "Sala Polivalentă Dinamo",
+    "city": "Bucharest, Romania",
+    "country": "Romania"
+  },
+  {
+    "name": "Elverum Håndball",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l3e2gc1626322285.png",
+    "stadium": "Terningen Arena",
+    "city": "Elverum, Norway",
+    "country": "Norway"
+  },
+  {
+    "name": "FC Barcelona Handbol",
+    "league": "Spanish Liga ASOBAL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r2j4y31703595502.png",
+    "stadium": "Palau Blaugrana",
+    "city": "Barcelona, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "FC Porto Handball",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8saip11623955620.png",
+    "stadium": "Dragão Arena",
+    "city": "Porto, Portugal",
+    "country": "Portugal"
+  },
+  {
+    "name": "Füchse Berlin",
+    "league": "German Handball-Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kz5cc71567091572.png",
+    "stadium": "Max-Schmeling-Halle",
+    "city": "Prenzlauer Berg, Berlin",
+    "country": "Germany"
+  },
+  {
+    "name": "GOG Håndbold",
+    "league": "Danish Mens Handball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e5mgdo1626394656.png",
+    "stadium": "Phønix Tag Arena",
+    "city": "Funen, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "HBC Nantes",
+    "league": "French LNH Division 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6l4ruw1560677096.png",
+    "stadium": "Le palais des sports de Beaulieu",
+    "city": "Nantes, France",
+    "country": "France"
+  },
+  {
+    "name": "Kolstad Håndball",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gwfhmo1658697923.png",
+    "stadium": "Trondheim Spektrum",
+    "city": "Trondheim",
+    "country": "Norway"
+  },
+  {
+    "name": "Paris Saint-Germain Handball",
+    "league": "French LNH Division 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vvj6uh1560677525.png",
+    "stadium": "Stade Pierre-de-Coubertin Paris",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "name": "RK PPD Zagreb",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a1dkjy1623955827.png",
+    "stadium": "Arena Zagreb",
+    "city": "Zagreb, Croatia",
+    "country": "Croatia"
+  },
+  {
+    "name": "SC Magdeburg",
+    "league": "German Handball-Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7fk4f61643120710.png",
+    "stadium": "GETEC Arena",
+    "city": "Magdeburg, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "SC Pick Szeged",
+    "league": "Hungarian Nemzeti Bajnokság I",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t8cmkq1575292156.png",
+    "stadium": "Városi Sportcsarnok",
+    "city": "Szeged, Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "THW Kiel",
+    "league": "German Handball-Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pd6juv1643118768.png",
+    "stadium": "Sparkassen-Arena Kiel",
+    "city": "Kiel, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Veszprém KC",
+    "league": "Hungarian Nemzeti Bajnokság I",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v1mmzo1575292678.png",
+    "stadium": "Veszprém Aréna",
+    "city": "Veszprém,Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "Vive Kielce",
+    "league": "Polish Handball Superliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gbi5ie1651171680.png",
+    "stadium": "Hala Legionów",
+    "city": "Kielce,Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Wisła Płock",
+    "league": "Polish Handball Superliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/49hkkj1574182892.png",
+    "stadium": "Orlen Arena",
+    "city": "Płock, Poland",
+    "country": "Poland"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Anderlecht",
+    "league": "Belgian Pro League",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/auindn1771129464.png",
+    "stadium": "Lotto Park",
+    "city": "Anderlecht, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Antwerp",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gawwcf1691182178.png",
+    "stadium": "Bosuilstadion",
+    "city": "Antwerp, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Cercle Brugge",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0v6uv41656017321.png",
+    "stadium": "Jan Breydel Stadium",
+    "city": "Bruges",
+    "country": "Belgium"
+  },
+  {
+    "name": "Charleroi",
+    "league": "Belgian Pro League",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/cwf1zk1771129608.png",
+    "stadium": "Stade du Pays de Charleroi",
+    "city": "Charleroi, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Club Brugge",
+    "league": "Belgian Pro League",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png",
+    "stadium": "Jan Breydel Stadium",
+    "city": "Bruges",
+    "country": "Belgium"
+  },
+  {
+    "name": "Dender",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r4ihc61654884430.png",
+    "stadium": "Dender Football Complex",
+    "city": "Denderleeuw, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Genk",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png",
+    "stadium": "Cegeka Arena",
+    "city": "Genk, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Gent",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/48e27o1750703124.png",
+    "stadium": "Planet Group Arena",
+    "city": "Ghent, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Mechelen",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxsxpt1447618693.png",
+    "stadium": "AFAS Stadion Mechelen",
+    "city": "Mechelen",
+    "country": "Belgium"
+  },
+  {
+    "name": "Oud-Heverlee Leuven",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hxfhp01595605303.png",
+    "stadium": "King Power at Den Dreef Stadion",
+    "city": "Heverlee, Leuven, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "RAAL La Louvière",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xs8c7n1718272881.png",
+    "stadium": "Stade du Tivoli",
+    "city": "La Louvière",
+    "country": "Belgium"
+  },
+  {
+    "name": "Sint-Truiden",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qww8ap1534620441.png",
+    "stadium": "Daio Wasabi Stayen Stadium",
+    "city": "Sint-Truiden",
+    "country": "Belgium"
+  },
+  {
+    "name": "Standard Liège",
+    "league": "Belgian Pro League",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/0ynlvb1771130035.png",
+    "stadium": "Stade Maurice Dufrasne",
+    "city": "Liège, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Union Saint-Gilloise",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ljszp41654601742.png",
+    "stadium": "Joseph Marien Stadium",
+    "city": "Forest, Brussels, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Westerlo",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xrxtrq1447620014.png",
+    "stadium": "Het Kuipje",
+    "city": "Westerlo, Belgium",
+    "country": "Belgium"
+  },
+  {
+    "name": "Zulte Waregem",
+    "league": "Belgian Pro League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6mdsut1695740517.png",
+    "stadium": "Elindus Arena",
+    "city": "Waregem",
+    "country": "Belgium"
+  }
+]

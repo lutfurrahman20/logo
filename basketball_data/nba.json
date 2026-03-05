@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Atlanta Hawks",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
+    "stadium": "State Farm Arena",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "name": "Boston Celtics",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
+    "stadium": "TD Garden",
+    "city": "Boston, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "name": "Brooklyn Nets",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png",
+    "stadium": "Barclays Center",
+    "city": "Brooklyn, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Charlotte Hornets",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
+    "stadium": "Spectrum Center",
+    "city": "Charlotte, North Carolina",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Bulls",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
+    "stadium": "United Center",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "name": "Cleveland Cavaliers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+    "stadium": "Rocket Arena",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "name": "Dallas Mavericks",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yqrxrs1420568796.png",
+    "stadium": "American Airlines Center",
+    "city": "Dallas, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Denver Nuggets",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
+    "stadium": "Ball Arena",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "name": "Detroit Pistons",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "stadium": "Little Caesars Arena",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "name": "Golden State Warriors",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/irobi61565197527.png",
+    "stadium": "Chase Center",
+    "city": "San Francisco, California, USA",
+    "country": "United States"
+  },
+  {
+    "name": "Houston Rockets",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png",
+    "stadium": "Toyota Center",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Indiana Pacers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
+    "stadium": "Gainbridge Fieldhouse",
+    "city": "Indianapolis, Indiana",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Clippers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
+    "stadium": "Intuit Dome",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Lakers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
+    "stadium": "Crypto.com Arena",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "name": "Memphis Grizzlies",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
+    "stadium": "FedExForum",
+    "city": "Memphis, Tennessee",
+    "country": "United States"
+  },
+  {
+    "name": "Miami Heat",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
+    "stadium": "Kaseya Center",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Milwaukee Bucks",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
+    "stadium": "Fiserv Forum",
+    "city": "Milwaukee, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota Timberwolves",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+    "stadium": "Target Center",
+    "city": "Minneapolis, Minnesota",
+    "country": "United States"
+  },
+  {
+    "name": "New Orleans Pelicans",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cak6261696446261.png",
+    "stadium": "Smoothie King Center",
+    "city": "New Orleans, Louisiana",
+    "country": "United States"
+  },
+  {
+    "name": "New York Knicks",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+    "stadium": "Madison Square Garden",
+    "city": "New York City, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Oklahoma City Thunder",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
+    "stadium": "Paycom Center",
+    "city": "Oklahoma City, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "name": "Orlando Magic",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
+    "stadium": "Kia Center",
+    "city": "Orlando, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Philadelphia 76ers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+    "stadium": "Xfinity Mobile Arena",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "Phoenix Suns",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png",
+    "stadium": "PHX Arena",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "name": "Portland Trail Blazers",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png",
+    "stadium": "Moda Center",
+    "city": "Portland, Oregon",
+    "country": "United States"
+  },
+  {
+    "name": "Sacramento Kings",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5d3dpz1611859587.png",
+    "stadium": "Golden 1 Center",
+    "city": "Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "name": "San Antonio Spurs",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+    "stadium": "Frost Bank Center",
+    "city": "San Antonio, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Toronto Raptors",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png",
+    "stadium": "Scotiabank Arena",
+    "city": "Toronto, Ontario",
+    "country": "Canada"
+  },
+  {
+    "name": "Utah Jazz",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9v9c5p1751703267.png",
+    "stadium": "Delta Center",
+    "city": "Salt Lake City, Utah",
+    "country": "United States"
+  },
+  {
+    "name": "Washington Wizards",
+    "league": "NBA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png",
+    "stadium": "Capital One Arena",
+    "city": "Washington, D.C.",
+    "country": "United States"
+  }
+]

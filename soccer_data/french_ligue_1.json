@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Angers",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png",
+    "stadium": "Stade Raymond Kopa",
+    "city": "Angers",
+    "country": "France"
+  },
+  {
+    "name": "Auxerre",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png",
+    "stadium": "Stade de l'Abbé Deschamps",
+    "city": "Auxerre",
+    "country": "France"
+  },
+  {
+    "name": "Brest",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png",
+    "stadium": "Stade Francis-Le Blé",
+    "city": "Brest",
+    "country": "France"
+  },
+  {
+    "name": "Le Havre",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png",
+    "stadium": "Stade Océane",
+    "city": "Le Havre",
+    "country": "France"
+  },
+  {
+    "name": "Lens",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png",
+    "stadium": "Stade Bollaert-Delelis",
+    "city": "Lens, France",
+    "country": "France"
+  },
+  {
+    "name": "Lille",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png",
+    "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
+    "city": "Villeneuve-d'Ascq, Lille, France",
+    "country": "France"
+  },
+  {
+    "name": "Lorient",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png",
+    "stadium": "Stade du Moustoir",
+    "city": "Lorient",
+    "country": "France"
+  },
+  {
+    "name": "Lyon",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
+    "stadium": "Groupama Stadium",
+    "city": "Lyon",
+    "country": "France"
+  },
+  {
+    "name": "Marseille",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png",
+    "stadium": "Orange Vélodrome",
+    "city": "Marseille, France",
+    "country": "France"
+  },
+  {
+    "name": "Metz",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png",
+    "stadium": "Stade Saint-Symphorien",
+    "city": "Metz, France",
+    "country": "France"
+  },
+  {
+    "name": "Monaco",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+    "stadium": "Stade Louis II",
+    "city": "Fontvieille, Monaco",
+    "country": "Monaco"
+  },
+  {
+    "name": "Nantes",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png",
+    "stadium": "Stade de la Beaujoire - Louis Fonteneau",
+    "city": "Nantes",
+    "country": "France"
+  },
+  {
+    "name": "Nice",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png",
+    "stadium": "Allianz Riviera",
+    "city": "Nice, France",
+    "country": "France"
+  },
+  {
+    "name": "Paris FC",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png",
+    "stadium": "Stade Jean-Bouin",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "name": "Paris SG",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+    "stadium": "Parc des Princes",
+    "city": "Paris, France",
+    "country": "France"
+  },
+  {
+    "name": "Rennes",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png",
+    "stadium": "Roazhon Park",
+    "city": "111 Rue de Lorient, 35000 Rennes",
+    "country": "France"
+  },
+  {
+    "name": "Strasbourg",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png",
+    "stadium": "Stade de la Meinau",
+    "city": "Strasbourg, France",
+    "country": "France"
+  },
+  {
+    "name": "Toulouse",
+    "league": "French Ligue 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png",
+    "stadium": "Stadium de Toulouse",
+    "city": "Toulouse",
+    "country": "France"
+  }
+]

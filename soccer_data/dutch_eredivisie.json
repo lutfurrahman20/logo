@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Ajax",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png",
+    "stadium": "Johan Cruijff ArenA",
+    "city": "Amsterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "AZ Alkmaar",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png",
+    "stadium": "AFAS Stadion Alkmaar",
+    "city": "Alkmaar, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Excelsior",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png",
+    "stadium": "Van Donge and De Roo Stadion",
+    "city": "Rotterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "FC Volendam",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rdouic1625167940.png",
+    "stadium": "Kras Stadion",
+    "city": "Voldenham",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Feyenoord",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
+    "stadium": "Stadion Feyenoord",
+    "city": "Rotterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Fortuna Sittard",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png",
+    "stadium": "Fortuna Sittard Stadion",
+    "city": "Sittard, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png",
+    "stadium": "De Adelaarshorst",
+    "city": "Deventer, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Groningen",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f36qnp1666107447.png",
+    "stadium": "Euroborg",
+    "city": "Groningen, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Heerenveen",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/surtsx1473534841.png",
+    "stadium": "Abe Lenstra Stadion",
+    "city": "Heerenveen, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Heracles Almelo",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vyyvss1473534851.png",
+    "stadium": "Asito Stadion",
+    "city": "Almelo, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "NAC Breda",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ute4en1544965805.png",
+    "stadium": "Rat Verlegh Stadion",
+    "city": "Breda",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "NEC Nijmegen",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png",
+    "stadium": "Goffertstadion",
+    "city": "Nijmegen, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "PEC Zwolle",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png",
+    "stadium": "MAC³PARK Stadion",
+    "city": "Zwolle, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "PSV Eindhoven",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png",
+    "stadium": "Philips Stadion",
+    "city": "Eindhoven, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "SC Telstar",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png",
+    "stadium": "711 Stadion",
+    "city": "",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Sparta Rotterdam",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png",
+    "stadium": "Spartastadion",
+    "city": "Rotterdam, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Twente",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png",
+    "stadium": "De Grolsch Veste",
+    "city": "Enschede, Netherlands",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "Utrecht",
+    "league": "Dutch Eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png",
+    "stadium": "Stadion Galgenwaard",
+    "city": "Utrecht, Netherlands",
+    "country": "The Netherlands"
+  }
+]

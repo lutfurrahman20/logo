@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Ayutthaya United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mznhmk1721839289.png",
+    "stadium": "Ayutthaya Province Stadium",
+    "city": "Ayutthaya, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Bangkok United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1jsiim1582396416.png",
+    "stadium": "True BG Stadium",
+    "city": "Pathum Thani, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "BG Pathum United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pyrvk31582396407.png",
+    "stadium": "True BG Stadium",
+    "city": "Thanyaburi, Pathum Thani, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Buriram United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ab966z1582396423.png",
+    "stadium": "Chang Arena",
+    "city": "Buriram, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Chiangrai United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtw1vo1580936277.png",
+    "stadium": "Singha Chiangrai Stadium",
+    "city": "Chiang Rai, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Chonburi",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ik5ifa1748658144.png",
+    "stadium": "Chonburi Daikin Stadium",
+    "city": "Mueang Chonburi, Chonburi, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Kanchanaburi Power",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zjtsuv1748658609.png",
+    "stadium": "Kanchanaburi Provincial Stadium",
+    "city": "Mueang, Kanchanaburi, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Lamphun Warrior",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7sj4f81629159125.png",
+    "stadium": "Lamphun Warriors Stadium",
+    "city": "Lamphun Province",
+    "country": "Thailand"
+  },
+  {
+    "name": "Muangthong United",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/whxpf61720546395.png",
+    "stadium": "Thunderdome Stadium",
+    "city": "Pak Kret, Nonthaburi, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Nakhon Ratchasima",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rkzds91582396449.png",
+    "stadium": "80th Birthday Stadium",
+    "city": "Nakhon Ratchasima, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Port",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fmn4hj1582396491.png",
+    "stadium": "PAT Stadium",
+    "city": "Klong Toei, Bangkok, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Prachuap",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w54llu1720546281.png",
+    "stadium": "Sam Ao Stadium",
+    "city": "Prachuap Khiri Khan, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Ratchaburi",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ry5yrz1720546386.png",
+    "stadium": "Ratchaburi Stadium",
+    "city": "Ratchaburi, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Rayong",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5838er1748657207.png",
+    "stadium": "Rayong Province Stadium",
+    "city": "Rayong, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Sukhothai",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bshsc21582396522.png",
+    "stadium": "Thalay Luang Stadium",
+    "city": "Sukhothai, Thailand",
+    "country": "Thailand"
+  },
+  {
+    "name": "Uthai Thani",
+    "league": "Thai Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2sak4y1639569612.png",
+    "stadium": "Uthai Thani Province Stadium",
+    "city": "Uthai Thani, Thailand",
+    "country": "Thailand"
+  }
+]

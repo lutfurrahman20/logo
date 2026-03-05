@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Athletic Bilbao",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+    "stadium": "San Mamés Barria",
+    "city": "Bilbao, Vizcaya",
+    "country": "Spain"
+  },
+  {
+    "name": "Atlético Madrid",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "stadium": "Riyadh Air Metropolitano",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "name": "Barcelona",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "stadium": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "Celta Vigo",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png",
+    "stadium": "Estadio Abanca-Balaídos",
+    "city": "Vigo, Galicia, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Deportivo Alavés",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
+    "stadium": "Estadio de Mendizorroza",
+    "city": "Vitoria",
+    "country": "Spain"
+  },
+  {
+    "name": "Elche",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png",
+    "stadium": "Estadio Martínez Valero",
+    "city": "Elche, Alicante",
+    "country": "Spain"
+  },
+  {
+    "name": "Espanyol",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
+    "stadium": "RCDE Stadium",
+    "city": "Cornellà y El Prat, Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "Getafe",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
+    "stadium": "Estadio Coliseum",
+    "city": "Getafe, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Girona",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+    "stadium": "Estadi Municipal de Montilivi",
+    "city": "Girona",
+    "country": "Spain"
+  },
+  {
+    "name": "Levante",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
+    "stadium": "Estadio Ciudad de Valencia",
+    "city": "Valencia",
+    "country": "Spain"
+  },
+  {
+    "name": "Mallorca",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png",
+    "stadium": "Estadi Mallorca Son Moix",
+    "city": "Palma de Mallorca",
+    "country": "Spain"
+  },
+  {
+    "name": "Osasuna",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
+    "stadium": "Estadio El Sadar",
+    "city": "Pamplona",
+    "country": "Spain"
+  },
+  {
+    "name": "Rayo Vallecano",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+    "stadium": "Estadio de Vallecas",
+    "city": "Madrid, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Betis",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+    "stadium": "Estadio de La Cartuja",
+    "city": "Seville",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Madrid",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+    "stadium": "Estadio Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Oviedo",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png",
+    "stadium": "Estadio Carlos Tartiere",
+    "city": "Oviedo, Asturias",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Sociedad",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+    "stadium": "Reale Arena",
+    "city": "San Sebastián, Guipúzcoa",
+    "country": "Spain"
+  },
+  {
+    "name": "Sevilla",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+    "stadium": "Estadio Ramón Sánchez Pizjuán",
+    "city": "Sevilla",
+    "country": "Spain"
+  },
+  {
+    "name": "Valencia",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "stadium": "Estadio de Mestalla",
+    "city": "Valencia, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Villarreal",
+    "league": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+    "stadium": "Estadio de la Cerámica",
+    "city": "Villareal, Castellón",
+    "country": "Spain"
+  }
+]

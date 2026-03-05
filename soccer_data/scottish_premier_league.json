@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Aberdeen",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvwys1447597299.png",
+    "stadium": "Pittodrie Stadium",
+    "city": "Aberdeen, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "Celtic",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    "stadium": "Celtic Park",
+    "city": "Parkhead, Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "name": "Dundee",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tlei9x1750743461.png",
+    "stadium": "Dens Park",
+    "city": "Dundee, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "Dundee United",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/orfh821655722356.png",
+    "stadium": "Tannadice Park",
+    "city": "Dundee, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "Falkirk",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w37ucy1685023169.png",
+    "stadium": "Falkirk Community Stadium",
+    "city": "Falkirk",
+    "country": "Scotland"
+  },
+  {
+    "name": "Heart of Midlothian",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png",
+    "stadium": "Tynecastle Park",
+    "city": "Gorgie, Edinburgh, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "Hibernian",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png",
+    "stadium": "Easter Road",
+    "city": "Leith, Edinburgh",
+    "country": "Scotland"
+  },
+  {
+    "name": "Kilmarnock",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xssqtu1447596951.png",
+    "stadium": "Rugby Park",
+    "city": "Kilmarnock, East Ayrshire",
+    "country": "Scotland"
+  },
+  {
+    "name": "Livingston",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1o38ll1749203191.png",
+    "stadium": "Almondvale Stadium",
+    "city": "Livingston, West Lothian",
+    "country": "Scotland"
+  },
+  {
+    "name": "Motherwell",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png",
+    "stadium": "Fir Park",
+    "city": "Motherwell, North Lanarkshire",
+    "country": "Scotland"
+  },
+  {
+    "name": "Rangers",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png",
+    "stadium": "Ibrox Stadium",
+    "city": "Glasgow, Scotland",
+    "country": "Scotland"
+  },
+  {
+    "name": "St Mirren",
+    "league": "Scottish Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png",
+    "stadium": "St Mirren Park Paisley",
+    "city": "Paisley, Renfrewshire",
+    "country": "Scotland"
+  }
+]

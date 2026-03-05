@@ -1,0 +1,354 @@
+[
+  {
+    "name": "AHC Potaissa Turda",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wzc3ts1658698058.png",
+    "stadium": "",
+    "city": "Turda",
+    "country": "Romania"
+  },
+  {
+    "name": "Alpla HC Hard",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/oa0lhh1626396958.png",
+    "stadium": "Sporthalle am See",
+    "city": "Hard, Austria",
+    "country": "Austria"
+  },
+  {
+    "name": "Associação Atlética de Águas Santas",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hpyewo1661681546.png",
+    "stadium": "Pavilhão da Associação Atlética Águas Santas",
+    "city": "Maia",
+    "country": "Portugal"
+  },
+  {
+    "name": "Balatonfüredi KSE",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9brjgx1575294263.png",
+    "stadium": "Észak- Balatoni Regionális Konferencia Központ",
+    "city": "Balatonfüred,Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "Belarus Handball",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8w4he71622420859.png",
+    "stadium": "",
+    "city": "",
+    "country": "Belarus"
+  },
+  {
+    "name": "Bjerringbro-Silkeborg Håndbold",
+    "league": "Danish Mens Handball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yqagdp1654962635.png",
+    "stadium": "JYSK Arena",
+    "city": "Silkeborg, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "BM Ciudad Encantada",
+    "league": "Spanish Liga ASOBAL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2y30xc1699435892.png",
+    "stadium": "El Sargal",
+    "city": "Cuenca,Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "BM Granollers",
+    "league": "Spanish Liga ASOBAL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n21zpb1699435885.png",
+    "stadium": "Palau d",
+    "city": "Granollers, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Butel Skopje",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dr0ww61681723657.png",
+    "stadium": "Andon Dimitrovski",
+    "city": "Skopje, North Macedonia",
+    "country": "Macedonia"
+  },
+  {
+    "name": "CB Ciudad de Logroño",
+    "league": "Spanish Liga ASOBAL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ngjp6b1699435783.png",
+    "stadium": "Palacio de los Deportes",
+    "city": "Logroño,Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "CD Bidasoa",
+    "league": "Spanish Liga ASOBAL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/q6r57d1699435769.png",
+    "stadium": "Pabellón Polideportivo Artaleku",
+    "city": "Irún, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Chambéry Savoie Handball",
+    "league": "French LNH Division 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/37hct01560675390.png",
+    "stadium": "Le Phare - Grand Chambery",
+    "city": "Chambéry, France",
+    "country": "France"
+  },
+  {
+    "name": "CS Minaur Baia Mare",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rktm5z1626398653.png",
+    "stadium": "Sala Sporturilor Lascăr Pană",
+    "city": "Baia Mare, Romania",
+    "country": "Romania"
+  },
+  {
+    "name": "CSA Steaua București Handball",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/33e82y1626473009.png",
+    "stadium": "Sala Polivalentă",
+    "city": "Bucharest, Romania",
+    "country": "Romania"
+  },
+  {
+    "name": "Drammen HK",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1710us1626461732.png",
+    "stadium": "Drammenshallen",
+    "city": "Drammen, Norway",
+    "country": "Norway"
+  },
+  {
+    "name": "Ferencvárosi TC",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/emav6v1575293649.png",
+    "stadium": "Elek Gyula Aréna",
+    "city": "Budapest,Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "GC Amicitia Zürich",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9tc7lw1626462902.png",
+    "stadium": "Saalsporthalle",
+    "city": "Zurich, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "HC Dobrogea Sud Constanța",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a8jp0b1626401700.png",
+    "stadium": "Sala Sporturilor",
+    "city": "Constanța, Romania",
+    "country": "Romania"
+  },
+  {
+    "name": "HC Motor Zaporizhzhia",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mibdaj1623955680.png",
+    "stadium": "Yunist Palace of Sports",
+    "city": "Zaporizhia, Ukraine",
+    "country": "Ukraine"
+  },
+  {
+    "name": "HT Tatran Prešov",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gq1dah1625798397.png",
+    "stadium": "Tatran Handball Arena",
+    "city": "Prešov, Slovakia",
+    "country": "Slovakia"
+  },
+  {
+    "name": "IFK Kristianstad",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fcupx81626395428.png",
+    "stadium": "Kristianstad Arena",
+    "city": "Kristianstad, Sweden",
+    "country": "Sweden"
+  },
+  {
+    "name": "IK Sävehof",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fdhipf1626394922.png",
+    "stadium": "Partille Arena",
+    "city": "Partille, Sweden",
+    "country": "Sweden"
+  },
+  {
+    "name": "Kadetten Schaffhausen",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1ytpu31626395316.png",
+    "stadium": "BBC Arena",
+    "city": "Schaffhausen , Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "KS Azoty-Puławy",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gdfdb21574190251.png",
+    "stadium": "Globus Hall",
+    "city": "Lublin, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "MMTS Kwidzyn",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nqbq311574194141.png",
+    "stadium": "Kompleks Widowisko-Sportowy KCSiR",
+    "city": "Kwidzyn,Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Montpellier Handball",
+    "league": "French LNH Division 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tc3t4q1560677396.png",
+    "stadium": "Palais des sports Rene-Bougnol",
+    "city": "Pérols, Hérault, France",
+    "country": "France"
+  },
+  {
+    "name": "NMC Górnik Zabrze",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v7ycq61574184043.png",
+    "stadium": "HWS Pogoń",
+    "city": "Zabrze, Poland",
+    "country": "Poland"
+  },
+  {
+    "name": "Os Belenenses",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2mrbh11681726290.png",
+    "stadium": "Pavilhão Acácio Rosa",
+    "city": "Lisbon, Portugal",
+    "country": "Portugal"
+  },
+  {
+    "name": "PAUC Handball",
+    "league": "French LNH Division 1",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/djhq8y1560675002.png",
+    "stadium": "Arena du Pays Aix",
+    "city": "",
+    "country": "France"
+  },
+  {
+    "name": "Riihimäki Cocks",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kvrlhb1626394817.png",
+    "stadium": "Cocks Areena",
+    "city": "Riihimäki, Finland",
+    "country": "Finland"
+  },
+  {
+    "name": "RK Eurofarm Pelister",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/20pmid1626395089.png",
+    "stadium": "Sports Hall Boro Čurlevski",
+    "city": "Bitola, North Macedonia",
+    "country": "Macedonia"
+  },
+  {
+    "name": "RK Eurofarm Pelister 2",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vlaxg51626490032.png",
+    "stadium": "Sports Hall Boro Čurlevski",
+    "city": "Bitola, North Macedonia",
+    "country": "Macedonia"
+  },
+  {
+    "name": "RK Nexe Našice",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/srlprk1648907598.png",
+    "stadium": "Sportska dvorana kralja Tomislava",
+    "city": "Našice",
+    "country": "Croatia"
+  },
+  {
+    "name": "RK Partizan",
+    "league": "_No League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jcnmp71626409614.png",
+    "stadium": "",
+    "city": "Belgrade, Serbia",
+    "country": "Serbia"
+  },
+  {
+    "name": "RK Trimo Trebnje",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/in06jw1661681864.png",
+    "stadium": "OŠ Trebnje Hall",
+    "city": "Trebnje",
+    "country": "Slovenia"
+  },
+  {
+    "name": "S.L. Benfica",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ngd6jl1662316692.png",
+    "stadium": "Pavilhão da Luz Nº 2",
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "name": "SG Flensburg-Handewitt",
+    "league": "German Handball-Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rejkxb1567621804.png",
+    "stadium": "Flens-Arena",
+    "city": "Flensburg, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Skanderborg Aarhus Håndbold",
+    "league": "Danish Mens Handball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tdty0e1729161322.png",
+    "stadium": "Fælledhallen",
+    "city": "Skanderborg",
+    "country": "Denmark"
+  },
+  {
+    "name": "Skjern Håndbold",
+    "league": "Danish Mens Handball League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uatz2c1626395798.png",
+    "stadium": "Skjern Bank Arena",
+    "city": "Skjern, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "Sporting CP Handball",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z4r7fu1626394490.png",
+    "stadium": "Pavilhão João Rocha",
+    "city": "Lisbon, Portugal",
+    "country": "Portugal"
+  },
+  {
+    "name": "TBV Lemgo",
+    "league": "German Handball-Bundesliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2yin7i1567542157.png",
+    "stadium": "Lipperlandhalle",
+    "city": "Lemgo, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "Valur Handball",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ril3ms1626475783.png",
+    "stadium": "Origo-höllin (Origo arena)",
+    "city": "Knattspyrnufélagið Valur, Iceland",
+    "country": "Iceland"
+  },
+  {
+    "name": "Veszprém KKFT Felsőörs",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kefv9o1622585224.png",
+    "stadium": "Veszprém Aréna",
+    "city": "Veszprém, Hungary",
+    "country": "Hungary"
+  },
+  {
+    "name": "Ystads IF",
+    "league": "EHF European League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zehutk1638046887.png",
+    "stadium": "Ystad Arena",
+    "city": "Ystad",
+    "country": "Sweden"
+  }
+]

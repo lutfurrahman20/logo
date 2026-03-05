@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Accrington Stanley",
+    "league": "English League 2",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/1moddl1770786523.png",
+    "stadium": "Wham Stadium",
+    "city": "Accrington",
+    "country": "England"
+  },
+  {
+    "name": "Barnet",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wyqvwq1447531659.png",
+    "stadium": "The Hive Stadium",
+    "city": "Barnet, London",
+    "country": "England"
+  },
+  {
+    "name": "Barrow",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6ubn501512067488.png",
+    "stadium": "SO Legal Stadium",
+    "city": "Barrow-in-Furness. Cumbria, England",
+    "country": "England"
+  },
+  {
+    "name": "Bristol Rovers",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kkmj4o1689317429.png",
+    "stadium": "Memorial Stadium Bristol",
+    "city": "Horfield, Bristol",
+    "country": "England"
+  },
+  {
+    "name": "Bromley",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qq7kzz1661950278.png",
+    "stadium": "Copperjax Community Stadium",
+    "city": "Bromley",
+    "country": "England"
+  },
+  {
+    "name": "Cambridge United",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ggihm61750279411.png",
+    "stadium": "Cledara Abbey Stadium",
+    "city": "Cambridge, England",
+    "country": "England"
+  },
+  {
+    "name": "Cheltenham Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/otewhc1761452845.png",
+    "stadium": "EV Charger Points Stadium",
+    "city": "Cheltenham, Gloucestershire",
+    "country": "England"
+  },
+  {
+    "name": "Chesterfield",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwwpry1424032525.png",
+    "stadium": "SMH Group Stadium",
+    "city": "Chesterfield",
+    "country": "England"
+  },
+  {
+    "name": "Colchester United",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ttvpqt1424033597.png",
+    "stadium": "JobServe Community Stadium",
+    "city": "Colchester",
+    "country": "England"
+  },
+  {
+    "name": "Crawley Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a9hv3n1689632800.png",
+    "stadium": "Broadfield Stadium",
+    "city": "Crawley, West Sussex",
+    "country": "England"
+  },
+  {
+    "name": "Crewe Alexandra",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xurvtu1424033658.png",
+    "stadium": "Mornflake Stadium",
+    "city": "Crewe, Cheshire",
+    "country": "England"
+  },
+  {
+    "name": "Fleetwood Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/txwuwp1424032712.png",
+    "stadium": "Highbury Stadium",
+    "city": "Fleetwood",
+    "country": "England"
+  },
+  {
+    "name": "Gillingham",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sqxvpp1424033506.png",
+    "stadium": "Priestfield Stadium",
+    "city": "Gillingham, Kent",
+    "country": "England"
+  },
+  {
+    "name": "Grimsby Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yyupxs1464537075.png",
+    "stadium": "Blundell Park",
+    "city": "Grimsby, Lincolnshire",
+    "country": "England"
+  },
+  {
+    "name": "Harrogate Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tf6bfs1599297313.png",
+    "stadium": "Exercise Stadium",
+    "city": "Harrogate",
+    "country": "England"
+  },
+  {
+    "name": "Milton Keynes Dons",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9hx41b1748524969.png",
+    "stadium": "Stadium MK",
+    "city": "Denbigh, Milton Keynes",
+    "country": "England"
+  },
+  {
+    "name": "Newport County",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ttsryu1448814163.png",
+    "stadium": "Rodney Parade",
+    "city": "Newport, Wales",
+    "country": "Wales"
+  },
+  {
+    "name": "Notts County",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/utqwvp1424032678.png",
+    "stadium": "Meadow Lane",
+    "city": "Nottingham",
+    "country": "England"
+  },
+  {
+    "name": "Oldham Athletic",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/36hve81625514026.png",
+    "stadium": "Boundary Park",
+    "city": "Oldham, Greater Manchester",
+    "country": "England"
+  },
+  {
+    "name": "Salford City",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ds9iug1601809299.png",
+    "stadium": "Peninsula Stadium",
+    "city": "Kersal, Salford",
+    "country": "England"
+  },
+  {
+    "name": "Shrewsbury Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9zqhpw1546434997.png",
+    "stadium": "The Croud Meadow",
+    "city": "Shrewsbury, Shropshire",
+    "country": "England"
+  },
+  {
+    "name": "Swindon Town",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uwsyup1424033445.png",
+    "stadium": "The Nigel Eady County Ground",
+    "city": "Swindon, Wiltshire",
+    "country": "England"
+  },
+  {
+    "name": "Tranmere Rovers",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ao52xt1626199781.png",
+    "stadium": "Prenton Park",
+    "city": "Birkenhead, Wirral",
+    "country": "England"
+  },
+  {
+    "name": "Walsall",
+    "league": "English League 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ivjidn1689630099.png",
+    "stadium": "Pallet-Track Bescot Stadium",
+    "city": "Walsall, West Midlands",
+    "country": "England"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Birmingham Phoenix",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/aihn2d1641785176.png",
+    "stadium": "Edgbaston",
+    "city": "Birmingham",
+    "country": "England"
+  },
+  {
+    "name": "London Spirit",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3xjjir1692900192.png",
+    "stadium": "Lord's",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "name": "Manchester Super Giants",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0szv2n1641785166.png",
+    "stadium": "Old Trafford Cricket Ground",
+    "city": "Manchester",
+    "country": "England"
+  },
+  {
+    "name": "MI London",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0y1wnl1645212994.png",
+    "stadium": "The Oval",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "name": "Southern Brave",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/whbl2x1692900272.png",
+    "stadium": "Rose Bowl",
+    "city": "Hampshire",
+    "country": "England"
+  },
+  {
+    "name": "Sunrisers Leeds",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/utb0so1641785170.png",
+    "stadium": "Headingley",
+    "city": "Leeds",
+    "country": "England"
+  },
+  {
+    "name": "Trent Rockets",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9cp1ac1692900475.png",
+    "stadium": "Trent Bridge",
+    "city": "Nottingham",
+    "country": "England"
+  },
+  {
+    "name": "Welsh Fire",
+    "league": "The Hundred",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/49jl241645213505.png",
+    "stadium": "Sophia Gardens",
+    "city": "Cardiff",
+    "country": "Wales"
+  }
+]

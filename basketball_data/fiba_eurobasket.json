@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Albania Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4jg5v41651020006.png",
+    "stadium": "",
+    "city": "",
+    "country": "Albania"
+  },
+  {
+    "name": "Andorra Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wt72gh1762941141.png",
+    "stadium": "",
+    "city": "",
+    "country": "Andorra"
+  },
+  {
+    "name": "Armenia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/afv4q51651020571.png",
+    "stadium": "",
+    "city": "",
+    "country": "Armenia"
+  },
+  {
+    "name": "Austria Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ilrk4n1606672061.png",
+    "stadium": "",
+    "city": "",
+    "country": "Austria"
+  },
+  {
+    "name": "Belarus Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t683aq1651020576.png",
+    "stadium": "",
+    "city": "",
+    "country": "Belarus"
+  },
+  {
+    "name": "Belgium Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f7npzl1606671427.png",
+    "stadium": "",
+    "city": "",
+    "country": "Belgium"
+  },
+  {
+    "name": "Bosnia-Herzegovina Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kgpmtg1606672564.png",
+    "stadium": "",
+    "city": "",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "name": "Bulgaria Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bvt52y1606666471.png",
+    "stadium": "",
+    "city": "",
+    "country": "Bulgaria"
+  },
+  {
+    "name": "Croatia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2qy4hl1606669059.png",
+    "stadium": "",
+    "city": "",
+    "country": "Croatia"
+  },
+  {
+    "name": "Cyprus Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qiacdo1651020583.png",
+    "stadium": "",
+    "city": "",
+    "country": "Cyprus"
+  },
+  {
+    "name": "Denmark Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gr5o4p1606656660.png",
+    "stadium": "",
+    "city": "",
+    "country": "Denmark"
+  },
+  {
+    "name": "Estonia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5d1x371606654776.png",
+    "stadium": "",
+    "city": "",
+    "country": "Estonia"
+  },
+  {
+    "name": "Finland Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/befrmr1606651674.png",
+    "stadium": "",
+    "city": "",
+    "country": "Finland"
+  },
+  {
+    "name": "France Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rd725i1560082919.png",
+    "stadium": "",
+    "city": "",
+    "country": "France"
+  },
+  {
+    "name": "Georgia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n4wvye1720353337.png",
+    "stadium": "",
+    "city": "",
+    "country": "Georgia"
+  },
+  {
+    "name": "Germany Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v95q5a1560083330.png",
+    "stadium": "",
+    "city": "",
+    "country": "Germany"
+  },
+  {
+    "name": "Great Britain Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/op810z1606670051.png",
+    "stadium": "Copper Box Arena",
+    "city": "",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Greece Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9w3mzm1560083612.png",
+    "stadium": "",
+    "city": "",
+    "country": "Greece"
+  },
+  {
+    "name": "Hungary Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/54nyim1606674658.png",
+    "stadium": "",
+    "city": "",
+    "country": "Hungary"
+  },
+  {
+    "name": "Iceland Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tl4bxe1746290021.png",
+    "stadium": "",
+    "city": "",
+    "country": "Iceland"
+  },
+  {
+    "name": "Ireland Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7biiw71691177994.png",
+    "stadium": "National Basketball Arena",
+    "city": "Dublin, Ireland",
+    "country": "Ireland"
+  },
+  {
+    "name": "Israel Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/izd2ly1737218455.png",
+    "stadium": "Shlomo Group Arena",
+    "city": "",
+    "country": "Israel"
+  },
+  {
+    "name": "Italy Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7vylrt1560688893.png",
+    "stadium": "",
+    "city": "",
+    "country": "Italy"
+  },
+  {
+    "name": "Kosovo Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/s6nmtj1651020595.png",
+    "stadium": "",
+    "city": "",
+    "country": "Kosovo"
+  },
+  {
+    "name": "Latvia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ugtsot1606672829.png",
+    "stadium": "Xiaomi Arena",
+    "city": "",
+    "country": "Latvia"
+  },
+  {
+    "name": "Lithuania Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ub5mx81560688060.png",
+    "stadium": "",
+    "city": "",
+    "country": "Lithuania"
+  },
+  {
+    "name": "Luxembourg Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/29tvg71651020600.png",
+    "stadium": "",
+    "city": "",
+    "country": "Luxembourg"
+  },
+  {
+    "name": "Malta Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cks2mt1762941937.png",
+    "stadium": "",
+    "city": "",
+    "country": "Malta"
+  },
+  {
+    "name": "Montenegro Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fa56s51560689405.png",
+    "stadium": "",
+    "city": "",
+    "country": "Montenegro"
+  },
+  {
+    "name": "Netherlands Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e9teal1606656067.png",
+    "stadium": "",
+    "city": "",
+    "country": "The Netherlands"
+  },
+  {
+    "name": "North Macedonia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/g27ofs1613754043.png",
+    "stadium": "Boris Trajkovski Sports Center",
+    "city": "",
+    "country": "Macedonia"
+  },
+  {
+    "name": "Norway Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7yagr01691177656.png",
+    "stadium": "",
+    "city": "",
+    "country": "Norway"
+  },
+  {
+    "name": "Poland Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/limiv91560683057.png",
+    "stadium": "",
+    "city": "",
+    "country": "Poland"
+  },
+  {
+    "name": "Portugal Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/12smg01746101215.png",
+    "stadium": "",
+    "city": "",
+    "country": "Portugal"
+  },
+  {
+    "name": "Romania Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ddxigo1606648842.png",
+    "stadium": "",
+    "city": "",
+    "country": "Romania"
+  },
+  {
+    "name": "Russia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lvhe831560683404.png",
+    "stadium": "",
+    "city": "",
+    "country": "Russia"
+  },
+  {
+    "name": "San Marino Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1zcv731762969074.png",
+    "stadium": "",
+    "city": "",
+    "country": "San Marino"
+  },
+  {
+    "name": "Serbia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xj3w6d1560682848.png",
+    "stadium": "Belgrade Arena",
+    "city": "",
+    "country": "Serbia"
+  },
+  {
+    "name": "Slovakia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/suk6tg1651020614.png",
+    "stadium": "",
+    "city": "",
+    "country": "Slovakia"
+  },
+  {
+    "name": "Slovenia Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6uye8w1594549732.png",
+    "stadium": "",
+    "city": "",
+    "country": "Slovenia"
+  },
+  {
+    "name": "Spain Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kwv6w61560683606.png",
+    "stadium": "",
+    "city": "",
+    "country": "Spain"
+  },
+  {
+    "name": "Sweden Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8wfbtw1606668884.png",
+    "stadium": "",
+    "city": "",
+    "country": "Sweden"
+  },
+  {
+    "name": "Switzerland Basketball",
+    "league": "FIBA EuroBasket",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v7hiuo1606647171.png",
+    "stadium": "",
+    "city": "",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Turkey Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxhqpp1560684083.png",
+    "stadium": "",
+    "city": "",
+    "country": "Turkey"
+  },
+  {
+    "name": "Ukraine Basketball",
+    "league": "FIBA Basketball World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1nzbxu1606655172.png",
+    "stadium": "",
+    "city": "",
+    "country": "Ukraine"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Chennai Super Kings",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/okceh51487601098.png",
+    "stadium": "M. A. Chidambaram Stadium",
+    "city": "Chennai, India",
+    "country": "India"
+  },
+  {
+    "name": "Delhi Capitals",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png",
+    "stadium": "Arun Jaitley Stadium",
+    "city": "Delhi",
+    "country": "India"
+  },
+  {
+    "name": "Gujarat Titans",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6qw4r71654174508.png",
+    "stadium": "Narendra Modi Stadium",
+    "city": "Ahmedabad, India",
+    "country": "India"
+  },
+  {
+    "name": "Kolkata Knight Riders",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ows99r1487678296.png",
+    "stadium": "Eden Gardens",
+    "city": "Kolkata",
+    "country": "India"
+  },
+  {
+    "name": "Lucknow Super Giants",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4tzmfa1647445839.png",
+    "stadium": "BRSABV Ekana Cricket Stadium",
+    "city": "Lucknow, India",
+    "country": "India"
+  },
+  {
+    "name": "Mumbai Indians",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l40j8p1487678631.png",
+    "stadium": "Wankhede Stadium",
+    "city": "Mumbai, Maharashtra",
+    "country": "India"
+  },
+  {
+    "name": "Punjab Kings",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r1tcie1630697821.png",
+    "stadium": "Maharaja Yadavindra Singh International Cricket Stadium",
+    "city": "Mohali",
+    "country": "India"
+  },
+  {
+    "name": "Rajasthan Royals",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lehnfw1487601864.png",
+    "stadium": "Sawai Mansingh Stadium",
+    "city": "Jaipur, Rajasthan, India",
+    "country": "India"
+  },
+  {
+    "name": "Royal Challengers Bangalore",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kynj5v1588331757.png",
+    "stadium": "M. Chinnaswamy Stadium",
+    "city": "Bangalore, India",
+    "country": "India"
+  },
+  {
+    "name": "Sunrisers Hyderabad",
+    "league": "Indian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sc7m161487419327.png",
+    "stadium": "Rajiv Gandhi International Cricket Stadium",
+    "city": "Hyderabad, Telangana, India",
+    "country": "India"
+  }
+]

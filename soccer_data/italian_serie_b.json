@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Avellino",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/swsu5p1579724964.png",
+    "stadium": "Stadio Partenio-Adriano Lombardi",
+    "city": "Avellino",
+    "country": "Italy"
+  },
+  {
+    "name": "Bari",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/isfrtg1579724972.png",
+    "stadium": "Stadio San Nicola",
+    "city": "Bari, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Carrarese",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/njh6tl1651779724.png",
+    "stadium": "Stadio dei Marmi",
+    "city": "Carrara, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Catanzaro",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png",
+    "stadium": "Stadio Nicola Ceravolo",
+    "city": "Catanzaro, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Cesena",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9l00zr1677256723.png",
+    "stadium": "Stadio Dino Manuzzi",
+    "city": "Cesena, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Empoli",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c1ie6b1622561483.png",
+    "stadium": "Stadio Carlo Castellani",
+    "city": "Empoli, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Frosinone",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png",
+    "stadium": "Stadio Benito Stirpe",
+    "city": "Frosione, Lazio",
+    "country": "Italy"
+  },
+  {
+    "name": "Juve Stabia",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/aojsvb1677257282.png",
+    "stadium": "Stadio Romeo Menti Castellammare di Stabia",
+    "city": "Castellammare di Stabia",
+    "country": "Italy"
+  },
+  {
+    "name": "Mantova",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6mz7tb1648579351.png",
+    "stadium": "Stadio Danilo Martelli",
+    "city": "Mantua,Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Modena",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/93n2wm1656015823.png",
+    "stadium": "Stadio Alberto Braglia",
+    "city": "Modena, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Monza",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png",
+    "stadium": "U-Power Stadium",
+    "city": "Monza, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Padova",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hklo0i1579724992.png",
+    "stadium": "Stadio Euganeo",
+    "city": "Padova",
+    "country": "Italy"
+  },
+  {
+    "name": "Palermo",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png",
+    "stadium": "Stadio Renzo Barbera",
+    "city": "Palermo",
+    "country": "Italy"
+  },
+  {
+    "name": "Pescara",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uywyxr1426869739.png",
+    "stadium": "Stadio Adriatico-Giovanni Cornacchia",
+    "city": "Pescara",
+    "country": "Italy"
+  },
+  {
+    "name": "Reggiana",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dffx6o1600266770.png",
+    "stadium": "Mapei Stadium – Città del Tricolore",
+    "city": "Reggio Emilia, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Sampdoria",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genoa, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Spezia",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3wgebp1749146364.png",
+    "stadium": "Stadio Alberto Picco",
+    "city": "La Spezia, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Südtirol",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8fico41579725098.png",
+    "stadium": "Stadio Druso",
+    "city": "Bolzano, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Venezia",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/95fg4n1656696080.png",
+    "stadium": "Stadio Pierluigi Penzo",
+    "city": "Fondamenta Sant’Elena",
+    "country": "Italy"
+  },
+  {
+    "name": "Virtus Entella",
+    "league": "Italian Serie B",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c7yb5u1693457662.png",
+    "stadium": "Stadio Enrico Sannazzari",
+    "city": "Chiavari",
+    "country": "Italy"
+  }
+]

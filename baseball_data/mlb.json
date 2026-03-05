@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Arizona Diamondbacks",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
+    "stadium": "Chase Field",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "name": "Athletics",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+    "stadium": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "name": "Atlanta Braves",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "stadium": "Truist Park",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "name": "Baltimore Orioles",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png",
+    "stadium": "Oriole Park at Camden Yards",
+    "city": "Baltimore",
+    "country": "United States"
+  },
+  {
+    "name": "Boston Red Sox",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "stadium": "Fenway Park",
+    "city": "Boston",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Cubs",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "stadium": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago White Sox",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "stadium": "Guaranteed Rate Field",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "name": "Cincinnati Reds",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
+    "stadium": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "country": "United States"
+  },
+  {
+    "name": "Cleveland Guardians",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "stadium": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "name": "Colorado Rockies",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
+    "stadium": "Coors Field",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "name": "Detroit Tigers",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
+    "stadium": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "name": "Houston Astros",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
+    "stadium": "Daikin Park",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Kansas City Royals",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
+    "stadium": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Angels",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
+    "stadium": "Angel Stadium of Anaheim",
+    "city": "Anaheim, California",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Dodgers",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "stadium": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "name": "Miami Marlins",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
+    "stadium": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Milwaukee Brewers",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "stadium": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota Twins",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
+    "stadium": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "country": "United States"
+  },
+  {
+    "name": "New York Mets",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
+    "stadium": "Citi Field",
+    "city": "120-01 Roosevelt Avenue Flushing, New York 11368",
+    "country": "United States"
+  },
+  {
+    "name": "New York Yankees",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "stadium": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Philadelphia Phillies",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
+    "stadium": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "Pittsburgh Pirates",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
+    "stadium": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "San Diego Padres",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "stadium": "Petco Park",
+    "city": "San Diego, California",
+    "country": "United States"
+  },
+  {
+    "name": "San Francisco Giants",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mq81yb1521896622.png",
+    "stadium": "Oracle Park",
+    "city": "Willie Mays Plaza San Francisco, California",
+    "country": "United States"
+  },
+  {
+    "name": "Seattle Mariners",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "stadium": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "name": "St. Louis Cardinals",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
+    "stadium": "Busch Stadium (III)",
+    "city": "St. Louis, Missouri, USA",
+    "country": "United States"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "stadium": "George M Steinbrenner Field",
+    "city": "St. Petersburg, Florida, USA",
+    "country": "United States"
+  },
+  {
+    "name": "Texas Rangers",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
+    "stadium": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  {
+    "name": "Toronto Blue Jays",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "stadium": "Rogers Centre",
+    "city": "Toronto, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Washington Nationals",
+    "league": "MLB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
+    "stadium": "Nationals Park",
+    "city": "Washington, D.C.",
+    "country": "United States"
+  }
+]

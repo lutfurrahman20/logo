@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Basel",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xppxwr1473791183.png",
+    "stadium": "St. Jakob-Park",
+    "city": "Basel, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Grasshoppers",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hjwlxi1486332675.png",
+    "stadium": "Letzigrund",
+    "city": "Zürich, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Lausanne-Sport",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/za539g1580927491.png",
+    "stadium": "Stade de la Tuilière",
+    "city": "Lausanne, Vaud, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Lugano",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2kh2if1567615581.png",
+    "stadium": "Stadio di Cornaredo",
+    "city": "Lugano, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Luzern",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsupty1473587847.png",
+    "stadium": "swissporarena",
+    "city": "Lucerne",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Servette",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png",
+    "stadium": "Stade de Genève",
+    "city": "Geneva, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Sion",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gzpfmv1689085319.png",
+    "stadium": "Stade de Tourbillon",
+    "city": "Sion",
+    "country": "Switzerland"
+  },
+  {
+    "name": "St. Gallen",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tyvyvs1422644512.png",
+    "stadium": "Kybunpark",
+    "city": "St. Gallen",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Thun",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sovjgl1699462359.png",
+    "stadium": "Stockhorn Arena",
+    "city": "Thun",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Winterthur",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bimd8z1580926541.png",
+    "stadium": "Stadion Schützenwiese",
+    "city": "Winterthur, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Young Boys",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9mxdoo1534784569.png",
+    "stadium": "Wankdorf Stadium",
+    "city": "Bern, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Zürich",
+    "league": "Swiss Super League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ouekvr1657983777.png",
+    "stadium": "Letzigrund",
+    "city": "Zürich, Switzerland",
+    "country": "Switzerland"
+  }
+]

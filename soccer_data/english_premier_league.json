@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Arsenal",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "stadium": "Emirates Stadium",
+    "city": "Holloway, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Aston Villa",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "stadium": "Villa Park",
+    "city": "Aston, Birmingham",
+    "country": "England"
+  },
+  {
+    "name": "Bournemouth",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "stadium": "Vitality Stadium",
+    "city": "AFCB, Bournemouth, England",
+    "country": "England"
+  },
+  {
+    "name": "Brentford",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Brighton and Hove Albion",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "stadium": "American Express Stadium",
+    "city": "Falmer, Brighton, East Sussex, England",
+    "country": "England"
+  },
+  {
+    "name": "Burnley",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+    "stadium": "Turf Moor",
+    "city": "Burnley, Lancashire",
+    "country": "England"
+  },
+  {
+    "name": "Chelsea",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "stadium": "Stamford Bridge",
+    "city": "Fulham, London",
+    "country": "England"
+  },
+  {
+    "name": "Crystal Palace",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "stadium": "Selhurst Park",
+    "city": "South Norwood, London",
+    "country": "England"
+  },
+  {
+    "name": "Everton",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "stadium": "Hill Dickinson Stadium",
+    "city": "Walton, Liverpool",
+    "country": "England"
+  },
+  {
+    "name": "Fulham",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "stadium": "Craven Cottage",
+    "city": "Fulham, London, England",
+    "country": "England"
+  },
+  {
+    "name": "Leeds United",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "stadium": "Elland Road",
+    "city": "Beeston, Leeds, England",
+    "country": "England"
+  },
+  {
+    "name": "Liverpool",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "stadium": "Anfield",
+    "city": "Anfield, Liverpool",
+    "country": "England"
+  },
+  {
+    "name": "Manchester City",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "stadium": "Etihad Stadium",
+    "city": "Etihad Campus, Manchester",
+    "country": "England"
+  },
+  {
+    "name": "Manchester United",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "stadium": "Old Trafford",
+    "city": "Trafford, Greater Manchester",
+    "country": "England"
+  },
+  {
+    "name": "Newcastle United",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "stadium": "St James Park",
+    "city": "Newcastle upon Tyne",
+    "country": "England"
+  },
+  {
+    "name": "Nottingham Forest",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+    "stadium": "City Ground",
+    "city": "City Ground, Nottingham",
+    "country": "England"
+  },
+  {
+    "name": "Sunderland",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "stadium": "Stadium of Light",
+    "city": "Sunderland, Tyne and Wear",
+    "country": "England"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "Bill Nicholson Way, Tottenham, London",
+    "country": "England"
+  },
+  {
+    "name": "West Ham United",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+    "stadium": "London Stadium",
+    "city": "London Stadium, Queen Elizabeth Olympic Park, London",
+    "country": "England"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "league": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+    "stadium": "Molineux Stadium",
+    "city": "Waterloo Road, Wolverhampton, England",
+    "country": "England"
+  }
+]

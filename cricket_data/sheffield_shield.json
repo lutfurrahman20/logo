@@ -1,0 +1,50 @@
+[
+  {
+    "name": "New South Wales",
+    "league": "Sheffield Shield",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fbj6w51675420971.png",
+    "stadium": "Sydney Cricket Ground",
+    "city": "Sydney, Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Queensland",
+    "league": "Sheffield Shield",
+    "logo": null,
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  },
+  {
+    "name": "South Australia",
+    "league": "Sheffield Shield",
+    "logo": null,
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  },
+  {
+    "name": "Tasmania",
+    "league": "Sheffield Shield",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1yd06z1675431414.png",
+    "stadium": "Ninja Stadium",
+    "city": "Bellerive, Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "Victoria",
+    "league": "Sheffield Shield",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j5vbn41749588430.png",
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  },
+  {
+    "name": "Western Australia",
+    "league": "Sheffield Shield",
+    "logo": null,
+    "stadium": "",
+    "city": "",
+    "country": "Australia"
+  }
+]

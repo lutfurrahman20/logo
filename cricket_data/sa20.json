@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Durban's Super Giants",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/oe6ikv1734183540.png",
+    "stadium": "Kingsmead Cricket Ground",
+    "city": "Durban",
+    "country": "South Africa"
+  },
+  {
+    "name": "Joburg Super Kings",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bvjydr1734183753.png",
+    "stadium": "Wanderers Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "name": "MI Cape Town",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/s146kh1734183906.png",
+    "stadium": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  {
+    "name": "Paarl Royals",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/41azkk1734184030.png",
+    "stadium": "Boland Park",
+    "city": "Paarl",
+    "country": "South Africa"
+  },
+  {
+    "name": "Pretoria Capitals",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/brbk561734184169.png",
+    "stadium": "Centurion Park",
+    "city": "Pretoria",
+    "country": "South Africa"
+  },
+  {
+    "name": "Sunrisers Eastern Cape",
+    "league": "SA20",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/us5vei1734184224.png",
+    "stadium": "St George's Park Cricket Ground",
+    "city": "Gqeberha",
+    "country": "South Africa"
+  }
+]

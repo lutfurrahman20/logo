@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Aucas",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/6vf1py1770395139.png",
+    "stadium": "Estadio Gonzalo Pozo Ripalda",
+    "city": "Quito",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Barcelona SC",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c5yr001653075296.png",
+    "stadium": "Estadio Monumental Isidro Romero Carbo",
+    "city": "Guayaquil, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Delfín",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/drhsv91579961166.png",
+    "stadium": "Estadio Jocay",
+    "city": "Manta, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Deportivo Cuenca",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lb2br81736221977.png",
+    "stadium": "Estadio Alejandro Serrano Aguilar",
+    "city": "Cuenca, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Emelec",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/15ovlq1579959696.png",
+    "stadium": "Estadio George Capwell",
+    "city": "Guayaquil, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Guayaquil City",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9lgwun1740586446.png",
+    "stadium": "Estadio Christian Benítez Betancourt",
+    "city": "Guayaquil, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Independiente del Valle",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png",
+    "stadium": "Estadio Banco Guayaquil",
+    "city": "Sangolquí",
+    "country": "Ecuador"
+  },
+  {
+    "name": "LDU Quito",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
+    "stadium": "Estadio Rodrigo Paz Delgado",
+    "city": "Quito, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Leones",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/q8yw9a1734021908.png",
+    "stadium": "Estadio Olímpico Jaime Terán",
+    "city": "Atuntaqui, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Libertad FC",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cqkwxs1675845340.png",
+    "stadium": "Estadio Federativo Reina del Cisne",
+    "city": "Loja, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Macará",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bretri1579959665.png",
+    "stadium": "Estadio Bellavista",
+    "city": "Ambato, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Manta",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mwnqej1614891525.png",
+    "stadium": "Estadio Jocay",
+    "city": "Estadio Jocay",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Mushuc Runa",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bbp7n61679266263.png",
+    "stadium": "Estadio COAC Mushuc Runa",
+    "city": "Ambato, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Orense",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/0pishb1734023740.png",
+    "stadium": "Estadio 9 de Mayo",
+    "city": "Machala",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Técnico Universitario",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nrubzr1737648563.png",
+    "stadium": "Estadio Bellavista",
+    "city": "Ambato, Ecuador",
+    "country": "Ecuador"
+  },
+  {
+    "name": "Universidad Católica del Ecuador",
+    "league": "Ecuadorian Serie A",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/25pb661770394991.png",
+    "stadium": "Estadio Olímpico Atahualpa",
+    "city": "Quito, Ecuador",
+    "country": "Ecuador"
+  }
+]

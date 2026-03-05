@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Anaheim Ducks",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png",
+    "stadium": "Honda Center",
+    "city": "Anaheim, California",
+    "country": "United States"
+  },
+  {
+    "name": "Boston Bruins",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png",
+    "stadium": "TD Garden",
+    "city": "Boston, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "name": "Buffalo Sabres",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png",
+    "stadium": "Keybank Center",
+    "city": "Buffalo, NY",
+    "country": "United States"
+  },
+  {
+    "name": "Calgary Flames",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
+    "stadium": "Scotiabank Saddledome",
+    "city": "Calgary, Alberta",
+    "country": "Canada"
+  },
+  {
+    "name": "Carolina Hurricanes",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
+    "stadium": "Lenovo Center",
+    "city": "Raleigh, NC",
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Blackhawks",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png",
+    "stadium": "United Center",
+    "city": "Chicago, Illinois, U.S",
+    "country": "United States"
+  },
+  {
+    "name": "Colorado Avalanche",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png",
+    "stadium": "Ball Arena",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "name": "Columbus Blue Jackets",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png",
+    "stadium": "Nationwide Arena",
+    "city": "Columbus, OH",
+    "country": "United States"
+  },
+  {
+    "name": "Dallas Stars",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
+    "stadium": "American Airlines Center",
+    "city": "Dallas, TX",
+    "country": "United States"
+  },
+  {
+    "name": "Detroit Red Wings",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png",
+    "stadium": "Little Caesars Arena",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "name": "Edmonton Oilers",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png",
+    "stadium": "Rogers Place",
+    "city": "Edmonton, Alberta",
+    "country": "Canada"
+  },
+  {
+    "name": "Florida Panthers",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png",
+    "stadium": "BB&T Center",
+    "city": "Sunrise, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles Kings",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png",
+    "stadium": "Crypto.com Arena",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "name": "Minnesota Wild",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png",
+    "stadium": "Grand Casino Arena",
+    "city": "St. Paul, MN",
+    "country": "United States"
+  },
+  {
+    "name": "Montreal Canadiens",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png",
+    "stadium": "Centre Bell",
+    "city": "Montreal",
+    "country": "Canada"
+  },
+  {
+    "name": "Nashville Predators",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
+    "stadium": "Bridgestone Arena",
+    "city": "Nashville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "name": "New Jersey Devils",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png",
+    "stadium": "Prudential Center",
+    "city": "Newark, New Jersey",
+    "country": "United States"
+  },
+  {
+    "name": "New York Islanders",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png",
+    "stadium": "Nassau Coliseum",
+    "city": "Uniondale, New York",
+    "country": "United States"
+  },
+  {
+    "name": "New York Rangers",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png",
+    "stadium": "Madison Square Garden",
+    "city": "New York City, New York",
+    "country": "United States"
+  },
+  {
+    "name": "Ottawa Senators",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png",
+    "stadium": "Canadian Tire Centre",
+    "city": "Ottawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "name": "Philadelphia Flyers",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png",
+    "stadium": "Xfinity Mobile Arena",
+    "city": "Philadelphia, PA",
+    "country": "United States"
+  },
+  {
+    "name": "Pittsburgh Penguins",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png",
+    "stadium": "PPG Paints Arena",
+    "city": "Pittsburgh, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "name": "San Jose Sharks",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png",
+    "stadium": "SAP Center at San Jose",
+    "city": "San Jose, California",
+    "country": "United States"
+  },
+  {
+    "name": "Seattle Kraken",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
+    "stadium": "Climate Pledge Arena",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "name": "St. Louis Blues",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png",
+    "stadium": "Enterprise Center",
+    "city": "St. Louis, Missouri",
+    "country": "United States"
+  },
+  {
+    "name": "Tampa Bay Lightning",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png",
+    "stadium": "Amalie Arena",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "name": "Toronto Maple Leafs",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
+    "stadium": "Scotiabank Arena",
+    "city": "Toronto, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Utah Mammoth",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
+    "stadium": "Delta Center",
+    "city": "Salt Lake City, UT",
+    "country": "United States"
+  },
+  {
+    "name": "Vancouver Canucks",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png",
+    "stadium": "Rogers Arena",
+    "city": "Vancouver, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "name": "Vegas Golden Knights",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "stadium": "T-Mobile Arena",
+    "city": "Paradise, Nevada",
+    "country": "United States"
+  },
+  {
+    "name": "Washington Capitals",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png",
+    "stadium": "Capital One Arena",
+    "city": "Washington, D.C.",
+    "country": "United States"
+  },
+  {
+    "name": "Winnipeg Jets",
+    "league": "NHL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
+    "stadium": "Canada Life Centre",
+    "city": "Winnipeg, Manitoba",
+    "country": "Canada"
+  }
+]

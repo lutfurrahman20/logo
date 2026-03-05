@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Al Ahly",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png",
+    "stadium": "Cairo International Stadium",
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "name": "Al Ittihad Alexandria",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/799nkg1589807252.png",
+    "stadium": "Alexandria Stadium",
+    "city": "Alexandria, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Al Masry",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3aw86h1589807260.png",
+    "stadium": "Suez Stadium",
+    "city": "Port Said, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Al-Mokawloon al-Arab",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gi170k1589807275.png",
+    "stadium": "Al-Mokawloon al-Arab Stadium",
+    "city": "Nasr City, Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Ceramica Cleopatra",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xy4shs1751422167.png",
+    "stadium": "Suez Stadium",
+    "city": "Suez, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "El Gouna",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6vdj631589807310.png",
+    "stadium": "Khaled Bichara Stadium",
+    "city": "El Gouna, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "ENPPI",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uht79n1589807327.png",
+    "stadium": "Petrosport Stadium",
+    "city": "New Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Ghazl El Mahalla",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6n8gra1729784720.png",
+    "stadium": "El Mahalla Stadium",
+    "city": "El Mahalla El Kubra, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Haras El Hodoud",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jbz3fc1729784423.png",
+    "stadium": "Haras El Hodoud Stadium",
+    "city": "El Max, Alexandria, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Ismaily",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1g46qo1589807617.png",
+    "stadium": "Ismailia Stadium",
+    "city": "Ismailia, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Kahrabaa Ismailia",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1g9fdn1759560731.png",
+    "stadium": "",
+    "city": "Ismailia",
+    "country": "Egypt"
+  },
+  {
+    "name": "Modern Sport",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/larnky1729784569.png",
+    "stadium": "Al Salam Stadium",
+    "city": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "National Bank of Egypt",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p0j65z1614891546.png",
+    "stadium": "Cairo International Stadium",
+    "city": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Petrojet",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gy9ge11729783347.png",
+    "stadium": "Suez Stadium",
+    "city": "Suez, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Pharco",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kmgfun1751422815.png",
+    "stadium": "Haras El Hodoud Stadium",
+    "city": "Alexandria, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Pyramids",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png",
+    "stadium": "30 June Stadium",
+    "city": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Smouha",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qq4pkd1589807413.png",
+    "stadium": "Alexandria Stadium",
+    "city": "El Max, Alexandria, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Tala'ea El Gaish",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a4scm31589807423.png",
+    "stadium": "Gehaz El Reyada Stadium",
+    "city": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Wadi Degla",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2rchzz1589807440.png",
+    "stadium": "Petrosport Stadium",
+    "city": "New Cairo, Egypt",
+    "country": "Egypt"
+  },
+  {
+    "name": "Zamalek",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tgekj81580930027.png",
+    "stadium": "Cairo International Stadium",
+    "city": "Giza",
+    "country": "Egypt"
+  },
+  {
+    "name": "ZED",
+    "league": "Egyptian Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dfpdle1729784943.png",
+    "stadium": "Cairo International Stadium",
+    "city": "Cairo, Egypt",
+    "country": "Egypt"
+  }
+]

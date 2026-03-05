@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Baník Ostrava",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y1pij41691419087.png",
+    "stadium": "Městský stadion v Ostravě-Vítkovicích",
+    "city": "Ostrava, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Bohemians 1905",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/shnvm91578836748.png",
+    "stadium": "Ďolíček",
+    "city": "Vršovice, Prague, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Dukla Praha",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n950g01578837378.png",
+    "stadium": "Stadion Juliska",
+    "city": "Prague, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Hradec Králové",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ckjzy41691419056.png",
+    "stadium": "Malšovická Aréna",
+    "city": "Hradec Králové",
+    "country": "Czechia"
+  },
+  {
+    "name": "Jablonec",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5b907h1679266139.png",
+    "stadium": "Stadion Střelnice",
+    "city": "Jablonec nad Nisou, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Karviná",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5w2blo1578836734.png",
+    "stadium": "Městský stadion v Karviné",
+    "city": "Karviná",
+    "country": "Czechia"
+  },
+  {
+    "name": "Mladá Boleslav",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o8x4y51578836726.png",
+    "stadium": "Lokotrans Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Pardubice",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vpjqq11596471599.png",
+    "stadium": "CFIG Arena",
+    "city": "Pardubice, Czechia",
+    "country": "Czechia"
+  },
+  {
+    "name": "Sigma Olomouc",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/cbcg021578836711.png",
+    "stadium": "Andrův stadion",
+    "city": "Olomouc, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Slavia Prague",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png",
+    "stadium": "Fortuna Arena",
+    "city": "Vršovice, Prague 10, Prague",
+    "country": "Czechia"
+  },
+  {
+    "name": "Slovácko",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2fmeix1578836703.png",
+    "stadium": "Městský fotbalový stadion Miroslava Valenty",
+    "city": "Uherské Hradiště",
+    "country": "Czechia"
+  },
+  {
+    "name": "Slovan Liberec",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/00k5891718287162.png",
+    "stadium": "Stadion U Nisy",
+    "city": "Liberec",
+    "country": "Czechia"
+  },
+  {
+    "name": "Sparta Prague",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j00qct1718287150.png",
+    "stadium": "epet ARENA",
+    "city": "Prague, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Teplice",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/m99hua1563698775.png",
+    "stadium": "AGC Aréna Na Stínadlech",
+    "city": "Teplice, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Viktoria Plzeň",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png",
+    "stadium": "Doosan Aréna",
+    "city": "Plzeň, Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Zlín",
+    "league": "Czech First League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dlljv61693459452.png",
+    "stadium": "Stadion Letná Zlín",
+    "city": "Zlín",
+    "country": "Czechia"
+  }
+]

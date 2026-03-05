@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Belfast Giants",
+    "league": "UK Elite Ice Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/u75lgy1649620950.png",
+    "stadium": "SSE Arena Belfast",
+    "city": "Belfast, Northern Ireland",
+    "country": "Northern Ireland"
+  },
+  {
+    "name": "Bern",
+    "league": "Swiss National League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fwb8rj1647290445.png",
+    "stadium": "PostFinance Arena",
+    "city": "Bern",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Bolzano",
+    "league": "Austrian ICE Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a9fjac1687415384.png",
+    "stadium": "Sparkasse Arena Bolzano",
+    "city": "Bolzano",
+    "country": "Italy"
+  },
+  {
+    "name": "Brûleurs de Loups",
+    "league": "French Ligue Magnus",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p7nfny1615639327.png",
+    "stadium": "Patinoire Polesud",
+    "city": "Grenoble",
+    "country": "France"
+  },
+  {
+    "name": "Brynäs IF",
+    "league": "Swedish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n7ngcn1700826181.png",
+    "stadium": "Monitor ERP Arena",
+    "city": "Gävle",
+    "country": "Sweden"
+  },
+  {
+    "name": "EC Red Bull Salzburg",
+    "league": "Austrian ICE Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/84l6bw1621103537.png",
+    "stadium": "Eisarena Salzburg",
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "name": "Eisbären Berlin",
+    "league": "German DEL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/piwgoh1637465241.png",
+    "stadium": "Uber Arena",
+    "city": "Berlin, Germany",
+    "country": "Germany"
+  },
+  {
+    "name": "ERC Ingolstadt",
+    "league": "German DEL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e5iu951637465271.png",
+    "stadium": "Saturn Arena",
+    "city": "Ingolstadt",
+    "country": "Germany"
+  },
+  {
+    "name": "Fischtown Pinguins",
+    "league": "German DEL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vcq3zw1647637845.png",
+    "stadium": "Eisarena Bremerhaven",
+    "city": "Bremerhaven",
+    "country": "Germany"
+  },
+  {
+    "name": "Frölunda HC",
+    "league": "Swedish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1zbgup1656774483.png",
+    "stadium": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "country": "Sweden"
+  },
+  {
+    "name": "GKS Tychy",
+    "league": "Polish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hmopll1622505055.png",
+    "stadium": "Stadion Zimowy w Tychach",
+    "city": "Tychy",
+    "country": "Poland"
+  },
+  {
+    "name": "Ilves",
+    "league": "Finnish Liiga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c6omqh1615670134.png",
+    "stadium": "Hakametsä",
+    "city": "Tampere, Finland",
+    "country": "Finland"
+  },
+  {
+    "name": "KalPa",
+    "league": "Finnish Liiga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/60lpvs1615670221.png",
+    "stadium": "Olvi Areena",
+    "city": "Kuopio",
+    "country": "Finland"
+  },
+  {
+    "name": "Klagenfurt",
+    "league": "Austrian ICE Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ov83x81694526965.png",
+    "stadium": "Heidi-Horten-Arena ",
+    "city": "Klagenfurt",
+    "country": "Austria"
+  },
+  {
+    "name": "Kometa Brno",
+    "league": "Czech Extraliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4jwbob1630268900.png",
+    "stadium": "Winning Group Arena",
+    "city": "Brno",
+    "country": "Czechia"
+  },
+  {
+    "name": "Lausanne HC",
+    "league": "Swiss National League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/24kiss1703935058.png",
+    "stadium": "Vaudoise Aréna",
+    "city": "Prilly, Lausanne, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Lukko",
+    "league": "Finnish Liiga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dwta4b1630267680.png",
+    "stadium": "Kivikyln Areena",
+    "city": "Rauma",
+    "country": "Finland"
+  },
+  {
+    "name": "Luleå HF",
+    "league": "Swedish Hockey League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5l7gw41644937943.png",
+    "stadium": "Coop Norrbotten Arena",
+    "city": "6300",
+    "country": "Sweden"
+  },
+  {
+    "name": "Mountfield HK",
+    "league": "Czech Extraliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t83xr41630268220.png",
+    "stadium": "ČPP Arena",
+    "city": "Hradec Králové",
+    "country": "Czechia"
+  },
+  {
+    "name": "Odense Bulldogs",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o9gxha1617311183.png",
+    "stadium": "Spar Nord Arena Odense",
+    "city": "Odense",
+    "country": "Denmark"
+  },
+  {
+    "name": "Sparta Prague",
+    "league": "Czech Extraliga",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ww265x1719041991.png",
+    "stadium": "O2 Arena Prague",
+    "city": "Prague ,Czech Republic",
+    "country": "Czechia"
+  },
+  {
+    "name": "Storhamar",
+    "league": "Norwegian Fjordkraft-ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mwtp8b1697194388.png",
+    "stadium": "CC Amfi",
+    "city": "Hamar",
+    "country": "Norway"
+  },
+  {
+    "name": "ZSC Lions",
+    "league": "Swiss National League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6bp0ty1647290541.png",
+    "stadium": "Swiss Life Arena",
+    "city": "Zürich, Switzerland",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Zug",
+    "league": "Swiss National League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxn04y1647290534.png",
+    "stadium": "Bossard Arena",
+    "city": "Zug",
+    "country": "Switzerland"
+  }
+]

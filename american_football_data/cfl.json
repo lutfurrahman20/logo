@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BC Lions",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ysxssy1424732039.png",
+    "stadium": "BC Place",
+    "city": "Vancouver, British Columbia, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Calgary Stampeders",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lksemj1565196917.png",
+    "stadium": "McMahon Stadium",
+    "city": "Calgary, Alberta, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Edmonton Elks",
+    "league": "CFL",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/ehy8wx1770834697.png",
+    "stadium": "Commonwealth Stadium",
+    "city": "Edmonton, Alberta, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Hamilton Tiger-Cats",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/qtwsuq1424727420.png",
+    "stadium": "Hamilton Stadium",
+    "city": "Hamilton, Ontario",
+    "country": "Canada"
+  },
+  {
+    "name": "Montreal Alouettes",
+    "league": "CFL",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/8m9v4n1770835125.png",
+    "stadium": "Percival Molson Memorial Stadium",
+    "city": "Montreal, QC",
+    "country": "Canada"
+  },
+  {
+    "name": "Ottawa Redblacks",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png",
+    "stadium": "TD Place Stadium",
+    "city": "Ottawa, Ontario, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Saskatchewan Roughriders",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xrdull1630952245.png",
+    "stadium": "Mosaic Stadium",
+    "city": "Regina, SK",
+    "country": "Canada"
+  },
+  {
+    "name": "Toronto Argonauts",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5a57ou1628555372.png",
+    "stadium": "BMO Field",
+    "city": "Toronto, Ontario, Canada",
+    "country": "Canada"
+  },
+  {
+    "name": "Winnipeg Blue Bombers",
+    "league": "CFL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4bo4wj1561667273.png",
+    "stadium": "Princess Auto Stadium",
+    "city": "Winnipeg, Manitoba, Canada",
+    "country": "Canada"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "AC Milan",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "San Siro, Milan",
+    "country": "Italy"
+  },
+  {
+    "name": "Atalanta",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Bologna",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "name": "Cagliari",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Como",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Cremonese",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Fiorentina",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Florence, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Genoa",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genoa, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Hellas Verona",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Inter Milan",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milan, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Juventus",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "stadium": "Allianz Stadium Turin",
+    "city": "Turin, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Lazio",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+    "stadium": "Stadio Olimpico",
+    "city": "Rome, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Lecce",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
+    "stadium": "Stadio Via del mare",
+    "city": "Lecce, Apulia, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Napoli",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Parma",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Pisa",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa, Tuscany, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Roma",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+    "stadium": "Stadio Olimpico",
+    "city": "Rome, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Sassuolo",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
+    "stadium": "Mapei Stadium – Città del Tricolore",
+    "city": "Reggio Emilia, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Torino",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Turin, Italy",
+    "country": "Italy"
+  },
+  {
+    "name": "Udinese",
+    "league": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine, Italy",
+    "country": "Italy"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Antigua and Barbuda Falcons",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fwozcu1752736011.png",
+    "stadium": "Sir Vivian Richards Stadium",
+    "city": "North Sound, Saint George, Antigua and Barbuda",
+    "country": "Antigua and Barbuda"
+  },
+  {
+    "name": "Barbados Royals",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fk3tip1645215737.png",
+    "stadium": "Kensington Oval",
+    "city": "Bridgetown",
+    "country": "Barbados"
+  },
+  {
+    "name": "Guyana Amazon Warriors",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/amct1d1641785128.png",
+    "stadium": "Providence Stadium",
+    "city": "Providence",
+    "country": "Guyana"
+  },
+  {
+    "name": "Saint Lucia Kings",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/981c6z1752736461.png",
+    "stadium": "Daren Sammy Cricket Ground",
+    "city": "Gros Islet",
+    "country": "Saint Lucia"
+  },
+  {
+    "name": "St Kitts and Nevis Patriots",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t2zoaz1641785142.png",
+    "stadium": "Warner Park Sporting Complex",
+    "city": "Basseterre",
+    "country": "Saint Kitts and Nevis"
+  },
+  {
+    "name": "Trinbago Knight Riders",
+    "league": "Caribbean Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c8zwd61641785158.png",
+    "stadium": "Brian Lara Cricket Academy",
+    "city": "San Fernando, Trinidad",
+    "country": "Trinidad and Tobago"
+  }
+]

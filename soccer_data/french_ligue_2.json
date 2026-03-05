@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Amiens",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nwgget1656423507.png",
+    "stadium": "Stade de la Licorne",
+    "city": "Amiens",
+    "country": "France"
+  },
+  {
+    "name": "Annecy",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/h6981f1655120883.png",
+    "stadium": "Parc des Sports",
+    "city": "Annecy, France",
+    "country": "France"
+  },
+  {
+    "name": "Bastia",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mv09b91754278549.png",
+    "stadium": "Stade Armand Cesari",
+    "city": "Furiani, France",
+    "country": "France"
+  },
+  {
+    "name": "Boulogne",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/c7p39l1754278109.png",
+    "stadium": "Stade de la Libération",
+    "city": "Boulevard,Boulogne-sur-mer, France",
+    "country": "France"
+  },
+  {
+    "name": "Clermont Foot",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wrytst1426871249.png",
+    "stadium": "Stade Gabriel Montpied",
+    "city": "Clermont-Ferrand",
+    "country": "France"
+  },
+  {
+    "name": "Grenoble",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x2hcpg1488227785.png",
+    "stadium": "Stade des Alpes",
+    "city": "Grenoble",
+    "country": "France"
+  },
+  {
+    "name": "Guingamp",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5iihrp1590259631.png",
+    "stadium": "Stade du Roudourou",
+    "city": "Guingamp, France",
+    "country": "France"
+  },
+  {
+    "name": "Laval",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/s6g8y81580152463.png",
+    "stadium": "Stade Francis Le Basser",
+    "city": "Laval",
+    "country": "France"
+  },
+  {
+    "name": "Le Mans",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wjhziv1700145026.png",
+    "stadium": "Stade Marie-Marvingt",
+    "city": "Le Mans",
+    "country": "France"
+  },
+  {
+    "name": "Montpellier",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8wn9x31750879448.png",
+    "stadium": "Stade de la Mosson",
+    "city": "Montpellier, France",
+    "country": "France"
+  },
+  {
+    "name": "Nancy Lorraine",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ve39pj1547899643.png",
+    "stadium": "Stade Marcel-Picot",
+    "city": "Tomblaine, Nancy, Grand Est, France",
+    "country": "France"
+  },
+  {
+    "name": "Pau FC",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/g1p2l71653308318.png",
+    "stadium": "Nouste Camp",
+    "city": "Pau, Pyrénées-Atlantiques, France",
+    "country": "France"
+  },
+  {
+    "name": "Red Star",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/so4unb1658758422.png",
+    "stadium": "Stade Bauer",
+    "city": "Saint-Ouen-sur-Seine, Paris, France",
+    "country": "France"
+  },
+  {
+    "name": "Rodez AF",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e8rjka1576848094.png",
+    "stadium": "Stade Paul-Lignon",
+    "city": "Rodez,France",
+    "country": "France"
+  },
+  {
+    "name": "St Etienne",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png",
+    "stadium": "Stade Geoffroy-Guichard",
+    "city": "14 Rue Paul et Pierre Guichard, 42000 Saint-Étienne",
+    "country": "France"
+  },
+  {
+    "name": "Stade de Reims",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png",
+    "stadium": "Stade Auguste Delaune",
+    "city": "Reims",
+    "country": "France"
+  },
+  {
+    "name": "Troyes",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sl5kzg1766617559.png",
+    "stadium": "Stade de l'Aube",
+    "city": "Troyes, France",
+    "country": "France"
+  },
+  {
+    "name": "USL Dunkerque",
+    "league": "French Ligue 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3s4ne51750879372.png",
+    "stadium": "Stade Marcel-Tribut",
+    "city": "Dunkerque, France",
+    "country": "France"
+  }
+]

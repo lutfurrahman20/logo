@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Águilas de Mexicali",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5kq6ge1637689080.png",
+    "stadium": "Estadio B",
+    "city": "Mexicali, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "name": "Algodoneros de Guasave",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lbw7lg1637689087.png",
+    "stadium": "Kuroda Park",
+    "city": "Guasave, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "name": "Cañeros de Los Mochis",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/k3igm01637689092.png",
+    "stadium": "Estadio Emilio Ibarra Almada",
+    "city": "Los Mochis, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "name": "Charros de Jalisco",
+    "league": "Liga Mexicana de Béisbol",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/n9lywa1740582358.png",
+    "stadium": "Estadio Panamericano de Béisbol",
+    "city": "Zapopan, Jalisco",
+    "country": "Mexico"
+  },
+  {
+    "name": "Mayos de Navojoa",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pseej41637689105.png",
+    "stadium": "Estadio Manuel \"Ciclón\" Echeverría",
+    "city": "Navojoa, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "name": "Naranjeros de Hermosillo",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gv71kt1637689111.png",
+    "stadium": "Estadio Sonora",
+    "city": "Hermosillo, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "name": "Sultanes de Monterrey",
+    "league": "Liga Mexicana de Béisbol",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uh1gef1625352063.png",
+    "stadium": "Estadio de Béisbol Monterrey",
+    "city": "Monterrey, Nuevo León, Mexico",
+    "country": "Mexico"
+  },
+  {
+    "name": "Tomateros de Culiacán",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lfm7zk1637689117.png",
+    "stadium": "",
+    "city": "Culiacán, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "name": "Venados de Mazatlán",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/agqd2s1637689123.png",
+    "stadium": "Estadio Teodoro Mariscal",
+    "city": "Mazatlán, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "name": "Yaquis de Obregón",
+    "league": "Mexican Pacific League",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/eljeax1637689128.png",
+    "stadium": "Estadio Yaquis",
+    "city": "Ciudad Obregón, Sonora",
+    "country": "Mexico"
+  }
+]

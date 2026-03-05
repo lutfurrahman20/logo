@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "4617",
+    "name": "Albanian Superliga",
+    "sport": "Soccer",
+    "country": "Albania",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/torbg81711693424.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/42cjch1706872574.png"
+  },
+  {
+    "id": "4907",
+    "name": "Albanian Kategoria e Parë",
+    "sport": "Soccer",
+    "country": "Albania",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/u09z9l1614341476.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/8i0j4u1614341476.png"
+  },
+  {
+    "id": "4753",
+    "name": "Algerian Ligue 1",
+    "sport": "Soccer",
+    "country": "Algeria",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ac4ga11714895756.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/h68hs61714895692.png"
+  },
+  {
+    "id": "4618",
+    "name": "Andorran 1a Divisió",
+    "sport": "Soccer",
+    "country": "Andorra",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/3ajfun1578786604.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/xne2g81747728897.png"
+  },
+  {
+    "id": "4904",
+    "name": "Andorran Segona Divisió",
+    "sport": "Soccer",
+    "country": "Andorra",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/75dl801614342165.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/d0gmjs1614342165.png"
+  },
+  {
+    "id": "4905",
+    "name": "Andorran Cup",
+    "sport": "Soccer",
+    "country": "Andorra",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/fd73jy1614342488.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/1c4tqo1614342488.png"
+  },
+  {
+    "id": "5229",
+    "name": "Angolan Girabola",
+    "sport": "Soccer",
+    "country": "Angola",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/joa52o1645195859.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/81fp0h1645195858.png"
+  },
+  {
+    "id": "4406",
+    "name": "Argentinian Primera Division",
+    "sport": "Soccer",
+    "country": "Argentina",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/v4zcaz1589960217.png"
+  },
+  {
+    "id": "4500",
+    "name": "Copa Argentina",
+    "sport": "Soccer",
+    "country": "Argentina",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/welbig1655924428.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/65t73z1563098226.png"
+  },
+  {
+    "id": "4616",
+    "name": "Argentinian Primera B Nacional",
+    "sport": "Soccer",
+    "country": "Argentina",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/u5tbaw1762466392.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/hmcjj91762466392.png"
+  },
+  {
+    "id": "4734",
+    "name": "Argentine LNB",
+    "sport": "Basketball",
+    "country": "Argentina",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/exea481740429840.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/t7mlcq1648568809.png"
+  },
+  {
+    "id": "4434",
+    "name": "Australian NBL",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gvz6vb1726086476.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/526c5q1725980344.png"
+  },
+  {
+    "id": "5113",
+    "name": "Australian WNBL",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/hnate81749406441.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ocwva01642004693.png"
+  },
+  {
+    "id": "5351",
+    "name": "NBL1 West",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/rnq1o11672323707.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0v4jvp1717671426.png"
+  },
+  {
+    "id": "5667",
+    "name": "NBL1 Central",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/8qtlej1754382440.png",
+    "logo": null
+  },
+  {
+    "id": "5669",
+    "name": "NBL1 East",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/olkqwi1754384283.png",
+    "logo": null
+  },
+  {
+    "id": "5670",
+    "name": "NBL1 North",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/773nz11754386845.png",
+    "logo": null
+  },
+  {
+    "id": "5671",
+    "name": "NBL1 South",
+    "sport": "Basketball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/i6p14a1754389758.png",
+    "logo": null
+  },
+  {
+    "id": "5265",
+    "name": "Austrian Basketball Superliga",
+    "sport": "Basketball",
+    "country": "Austria",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/owssqc1766752727.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0qtts01745573360.png"
+  },
+  {
+    "id": "4579",
+    "name": "Belgian PBL",
+    "sport": "Basketball",
+    "country": "Belgium",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/3h3k6v1572364943.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/pk3j5i1624038719.png"
+  },
+  {
+    "id": "4405",
+    "name": "CFL",
+    "sport": "American Football",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ffypv51488739128.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/wyupww1421433138.png"
+  },
+  {
+    "id": "5350",
+    "name": "U Sports Football League",
+    "sport": "American Football",
+    "country": "Canada",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/4sbu8r1770905994.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/wo95f21770933671.png"
+  },
+  {
+    "id": "5063",
+    "name": "European League of Football",
+    "sport": "American Football",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/vxfubq1625238915.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/cqvdc21625238896.png"
+  },
+  {
+    "id": "5336",
+    "name": "GFL",
+    "sport": "American Football",
+    "country": "Germany",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/zt1ksf1719819947.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/dm08f61719820283.png"
+  },
+  {
+    "id": "4391",
+    "name": "NFL",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/kp1www1565195936.png"
+  },
+  {
+    "id": "4470",
+    "name": "Arena Football League",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/uny2591711637721.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/w75lts1546364699.png"
+  },
+  {
+    "id": "4471",
+    "name": "Indoor Football League",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/hsrtzo1587394827.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/swwwpo1490010948.png"
+  },
+  {
+    "id": "4473",
+    "name": "National Arena League",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/dcmjxa1512642332.png",
+    "logo": null
+  },
+  {
+    "id": "4479",
+    "name": "NCAA Division 1",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/hm3cyr1758455622.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/erauc41590492173.png"
+  },
+  {
+    "id": "4552",
+    "name": "AAF",
+    "sport": "American Football",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/e7gxjz1554662558.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0xthtd1554662655.png"
+  },
+  {
+    "id": "4933",
+    "name": "Austrian ICE Hockey League",
+    "sport": "Ice Hockey",
+    "country": "Austria",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ny26z31694527818.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/v54cwi1624104382.png"
+  },
+  {
+    "id": "4924",
+    "name": "Belarusian Extraleague",
+    "sport": "Ice Hockey",
+    "country": "Belarus",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/57iwzz1615839650.png",
+    "logo": null
+  },
+  {
+    "id": "5276",
+    "name": "CEHL",
+    "sport": "Ice Hockey",
+    "country": "Belgium",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/tkcl4v1747747775.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/k6rwqk1747747769.png"
+  },
+  {
+    "id": "5159",
+    "name": "Canadian OHL",
+    "sport": "Ice Hockey",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/y4z5ks1644535179.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/iablos1644575523.png"
+  },
+  {
+    "id": "5161",
+    "name": "Canadian QMJHL",
+    "sport": "Ice Hockey",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/3nofen1644535248.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/9fcsaj1739571090.png"
+  },
+  {
+    "id": "5643",
+    "name": "Canadian Memorial Cup",
+    "sport": "Ice Hockey",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/zs1qv51750422880.png",
+    "logo": null
+  },
+  {
+    "id": "5160",
+    "name": "Canadian WHL",
+    "sport": "Ice Hockey",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/94w3kx1644535361.png",
+    "logo": null
+  },
+  {
+    "id": "5510",
+    "name": "Canada Cup",
+    "sport": "Ice Hockey",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/a3zec71731419875.png",
+    "logo": null
+  },
+  {
+    "id": "4923",
+    "name": "Czech Extraliga",
+    "sport": "Ice Hockey",
+    "country": "Czechia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/mx7f7p1615493091.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/hwdawh1616105132.png"
+  },
+  {
+    "id": "4930",
+    "name": "Danish Metal Ligaen",
+    "sport": "Ice Hockey",
+    "country": "Denmark",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/1q4in31615589789.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/hol8y91617627876.png"
+  },
+  {
+    "id": "5107",
+    "name": "Australian Baseball League",
+    "sport": "Baseball",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/jlnr611641806780.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/u5xma31641841370.png"
+  },
+  {
+    "id": "4427",
+    "name": "Can-Am",
+    "sport": "Baseball",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/tytqpw1424020318.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/qpuqpx1424020457.png"
+  },
+  {
+    "id": "5108",
+    "name": "Cuban National Series",
+    "sport": "Baseball",
+    "country": "Cuba",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/aobwn81641807695.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/02rwco1641843229.png"
+  },
+  {
+    "id": "5833",
+    "name": "Caribbean Series",
+    "sport": "Baseball",
+    "country": "International",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/dusom11771397771.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/isjik41771397765.png"
+  },
+  {
+    "id": "4591",
+    "name": "Nippon Baseball League",
+    "sport": "Baseball",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/lk85rg1575038781.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/fpzo5x1575039328.png"
+  },
+  {
+    "id": "5064",
+    "name": "Liga Mexicana de Béisbol",
+    "sport": "Baseball",
+    "country": "Mexico",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/m3eza81748934903.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png"
+  },
+  {
+    "id": "5109",
+    "name": "Mexican Pacific League",
+    "sport": "Baseball",
+    "country": "Mexico",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/vefg091641808224.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0evviq1641845178.png"
+  },
+  {
+    "id": "5832",
+    "name": "Liga de Béisbol Profesional Roberto Clemente",
+    "sport": "Baseball",
+    "country": "Puerto Rico",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/styaia1771361557.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/3jaf5t1771361546.png"
+  },
+  {
+    "id": "4830",
+    "name": "Korean KBO League",
+    "sport": "Baseball",
+    "country": "South Korea",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/qfr1hx1589707979.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/qxm0ge1589708029.png"
+  },
+  {
+    "id": "5111",
+    "name": "Chinese Professional Baseball League",
+    "sport": "Baseball",
+    "country": "Taiwan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/c3vetj1655924198.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/3wek161655924197.png"
+  },
+  {
+    "id": "5169",
+    "name": "Super Liga Americana",
+    "sport": "Rugby",
+    "country": "Argentina",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gz76vv1717091774.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/t7q89j1717091674.png"
+  },
+  {
+    "id": "5165",
+    "name": "URBA Top 13",
+    "sport": "Rugby",
+    "country": "Argentina",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/cq1azd1716915260.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/sarfq31645176799.png"
+  },
+  {
+    "id": "4416",
+    "name": "Australian National Rugby League",
+    "sport": "Rugby",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gsztcj1552071996.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/xryyuy1422583450.png"
+  },
+  {
+    "id": "4417",
+    "name": "Australian National Rugby Championship",
+    "sport": "Rugby",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/kb89dn1535795440.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/lgp25f1552072334.png"
+  },
+  {
+    "id": "5171",
+    "name": "Australian Shute Shield",
+    "sport": "Rugby",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/39u4ad1716376979.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/2saij91680188115.png"
+  },
+  {
+    "id": "5701",
+    "name": "Super Rugby Aus",
+    "sport": "Rugby",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/b9v2541758885749.png",
+    "logo": null
+  },
+  {
+    "id": "4414",
+    "name": "English Prem Rugby",
+    "sport": "Rugby",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/r59qxy1755025703.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/wazno01755025710.png"
+  },
+  {
+    "id": "4415",
+    "name": "English Rugby League Super League",
+    "sport": "Rugby",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gp2sfv1641835011.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/3389z61641840924.png"
+  },
+  {
+    "id": "5695",
+    "name": "English Prem Rugby Cup",
+    "sport": "Rugby",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/lu77yo1757673369.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/6awx1s1757673350.png"
+  },
+  {
+    "id": "4550",
+    "name": "European Rugby Champions Cup",
+    "sport": "Rugby",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/kohne11716546580.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ty3wa71716546857.png"
+  },
+  {
+    "id": "5534",
+    "name": "Shpageeza Cricket League",
+    "sport": "Cricket",
+    "country": "Afghanistan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/y6qwe61734346794.png",
+    "logo": null
+  },
+  {
+    "id": "4461",
+    "name": "Australian Big Bash League",
+    "sport": "Cricket",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/yko7ny1546635346.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/qsy7vw1546510965.png"
+  },
+  {
+    "id": "5530",
+    "name": "Sheffield Shield",
+    "sport": "Cricket",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/cd4akv1742154549.png",
+    "logo": null
+  },
+  {
+    "id": "5529",
+    "name": "Bangladesh Premier League",
+    "sport": "Cricket",
+    "country": "Bangladesh",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/o1xh521767355615.png",
+    "logo": null
+  },
+  {
+    "id": "5176",
+    "name": "Caribbean Premier League",
+    "sport": "Cricket",
+    "country": "Barbados",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/5mjjnj1645179844.png",
+    "logo": null
+  },
+  {
+    "id": "4458",
+    "name": "English County Championship Division 1",
+    "sport": "Cricket",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/d4q9uf1630694697.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/8n85os1513011898.png"
+  },
+  {
+    "id": "4459",
+    "name": "English County Championship Division 2",
+    "sport": "Cricket",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/xedhy31487332623.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ttaqgx1513011867.png"
+  },
+  {
+    "id": "4463",
+    "name": "English t20 Blast",
+    "sport": "Cricket",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/m1lsns1649766933.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/e2ebot1649766932.png"
+  },
+  {
+    "id": "4460",
+    "name": "Indian Premier League",
+    "sport": "Cricket",
+    "country": "India",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/kvmd941551037675.png"
+  },
+  {
+    "id": "5606",
+    "name": "Cricket Ireland Inter-Provincial T20 Trophy",
+    "sport": "Cricket",
+    "country": "Ireland",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/mca6gl1746348043.png",
+    "logo": null
+  },
+  {
+    "id": "4464",
+    "name": "ATP World Tour",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/q7aej51769857150.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/wcldmx1546112941.png"
+  },
+  {
+    "id": "4517",
+    "name": "WTA Tour",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/bddhun1768230678.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/nf50jk1753208612.png"
+  },
+  {
+    "id": "4581",
+    "name": "Laver Cup",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/pd74m91572093834.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/wf6jcd1572094879.png"
+  },
+  {
+    "id": "5040",
+    "name": "Olympics Tennis",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/5m0rwm1687510227.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/o9c31b1624978379.png"
+  },
+  {
+    "id": "5347",
+    "name": "Davis Cup",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/jcpgps1672325738.png"
+  },
+  {
+    "id": "5348",
+    "name": "Fed Cup",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ipw5go1672327786.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/p22zlc1672327763.png"
+  },
+  {
+    "id": "5349",
+    "name": "Hopman Cup",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/i4jp2m1672328752.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/jtau0f1672328797.png"
+  },
+  {
+    "id": "5592",
+    "name": "_Defunct Tennis Teams",
+    "sport": "Tennis",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/qz4lyk1741180177.png",
+    "logo": null
+  },
+  {
+    "id": "4761",
+    "name": "PGA Tour of Australasia",
+    "sport": "Golf",
+    "country": "Australia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ce5bzs1751484107.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/lq208u1582545950.png"
+  },
+  {
+    "id": "4765",
+    "name": "PGA Tour Canada",
+    "sport": "Golf",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/svi7or1591957313.png",
+    "logo": null
+  },
+  {
+    "id": "5556",
+    "name": "PGA Tour Americas",
+    "sport": "Golf",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/xh3xzw1736948162.png",
+    "logo": null
+  },
+  {
+    "id": "4774",
+    "name": "PGA Tour China",
+    "sport": "Golf",
+    "country": "China",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/cdim7h1592391134.png",
+    "logo": null
+  },
+  {
+    "id": "5557",
+    "name": "China Tour",
+    "sport": "Golf",
+    "country": "China",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/7fencl1736950518.png",
+    "logo": null
+  },
+  {
+    "id": "4758",
+    "name": "European Challenge Tour",
+    "sport": "Golf",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/cjk0ll1590135343.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/qy4tj01590135357.png"
+  },
+  {
+    "id": "4771",
+    "name": "ProGolf Tour",
+    "sport": "Golf",
+    "country": "Germany",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/pqhtf51592391957.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0ko1s91592391925.png"
+  },
+  {
+    "id": "4776",
+    "name": "Professional Golf Tour of India",
+    "sport": "Golf",
+    "country": "India",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/lz6eiv1592391649.png",
+    "logo": null
+  },
+  {
+    "id": "4760",
+    "name": "Japan Golf Tour",
+    "sport": "Golf",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/0hzjca1582545594.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/aae11g1721733978.png"
+  },
+  {
+    "id": "4777",
+    "name": "Japan Challenge Tour",
+    "sport": "Golf",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/w881zn1592567918.png",
+    "logo": null
+  },
+  {
+    "id": "4489",
+    "name": "V8 Supercars",
+    "sport": "Motorsport",
+    "country": "Australia",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/64f67s1770108650.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/pk55ch1614547894.png"
+  },
+  {
+    "id": "4372",
+    "name": "BTCC",
+    "sport": "Motorsport",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/a0xreq1556444753.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/0d5zf81556444796.png"
+  },
+  {
+    "id": "4410",
+    "name": "British GT Championship",
+    "sport": "Motorsport",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/w2h8gq1547547800.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/splbvr1589228948.png"
+  },
+  {
+    "id": "4730",
+    "name": "World Rallycross Championship",
+    "sport": "Motorsport",
+    "country": "Europe",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/zzj1ut1768754454.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/outg9w1768754788.png"
+  },
+  {
+    "id": "4412",
+    "name": "Super GT series",
+    "sport": "Motorsport",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/n0gprm1566287993.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/l0u3g31566288083.png"
+  },
+  {
+    "id": "4447",
+    "name": "Dakar Rally",
+    "sport": "Motorsport",
+    "country": "Saudi Arabia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/xpqywq1453892151.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ywupvq1453892242.png"
+  },
+  {
+    "id": "5264",
+    "name": "British Superbike Championship",
+    "sport": "Motorsport",
+    "country": "United Kingdom",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ooq2vb1646859923.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/hleozy1646859904.png"
+  },
+  {
+    "id": "5600",
+    "name": "British Speedway Premiership",
+    "sport": "Motorsport",
+    "country": "United Kingdom",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ds9odb1746295478.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/y3skxr1746295192.png"
+  },
+  {
+    "id": "5750",
+    "name": "Goodwood Festival of Speed",
+    "sport": "Motorsport",
+    "country": "United Kingdom",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/b6s7ia1763829727.png",
+    "logo": null
+  },
+  {
+    "id": "4393",
+    "name": "NASCAR Cup Series",
+    "sport": "Motorsport",
+    "country": "United States",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/spqryk1581101437.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/qtrpup1423683833.png"
+  },
+  {
+    "id": "4604",
+    "name": "Jungle Fight",
+    "sport": "Fighting",
+    "country": "Brazil",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/x9cxmq1578222615.png",
+    "logo": null
+  },
+  {
+    "id": "5341",
+    "name": "TKO MMA",
+    "sport": "Fighting",
+    "country": "Canada",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/yl7l1k1669192450.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/epgct01669192089.png"
+  },
+  {
+    "id": "4855",
+    "name": "KOPW",
+    "sport": "Fighting",
+    "country": "China",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/c6y8qa1624329223.png",
+    "logo": null
+  },
+  {
+    "id": "5702",
+    "name": "Oktagon MMA",
+    "sport": "Fighting",
+    "country": "Czechia",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/4fqdkd1759141220.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ij6j7x1759141206.png"
+  },
+  {
+    "id": "5290",
+    "name": "RevPro",
+    "sport": "Fighting",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gumlta1650541364.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/axht5c1650541363.png"
+  },
+  {
+    "id": "5749",
+    "name": "Hexagone MMA",
+    "sport": "Fighting",
+    "country": "France",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/rh3qri1763567251.png",
+    "logo": null
+  },
+  {
+    "id": "5292",
+    "name": "wXw",
+    "sport": "Fighting",
+    "country": "Germany",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/i6jxqy1650550337.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/j4plgk1650550355.png"
+  },
+  {
+    "id": "4449",
+    "name": "NJPW",
+    "sport": "Fighting",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/yupupv1454525139.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/rrqsqv1454788748.png"
+  },
+  {
+    "id": "4491",
+    "name": "Rizin FF",
+    "sport": "Fighting",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/61lgwt1594731160.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/6sjil41594731174.png"
+  },
+  {
+    "id": "4594",
+    "name": "AJPW",
+    "sport": "Fighting",
+    "country": "Japan",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/j9agdp1575808865.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/1984px1575808865.png"
+  },
+  {
+    "id": "5135",
+    "name": "Danish Mens Handball League",
+    "sport": "Handball",
+    "country": "Denmark",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/tuch031722840288.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/zw7jvy1729077282.png"
+  },
+  {
+    "id": "4894",
+    "name": "European Mens Handball Championship",
+    "sport": "Handball",
+    "country": "Europe",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/sab1m61768294768.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/05seeg1768294739.png"
+  },
+  {
+    "id": "4980",
+    "name": "EHF Champions League",
+    "sport": "Handball",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/px6tl61704207123.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/03iuwj1704207321.png"
+  },
+  {
+    "id": "5275",
+    "name": "EHF European League",
+    "sport": "Handball",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/oil7my1704209758.png",
+    "logo": null
+  },
+  {
+    "id": "4536",
+    "name": "French LNH Division 1",
+    "sport": "Handball",
+    "country": "France",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/sgr1yi1632558821.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/x2sc0p1626495340.png"
+  },
+  {
+    "id": "4533",
+    "name": "German Handball-Bundesliga",
+    "sport": "Handball",
+    "country": "Germany",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/2paxpy1731957652.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/mxtvb81731957680.png"
+  },
+  {
+    "id": "4535",
+    "name": "Hungarian Nemzeti Bajnokság I",
+    "sport": "Handball",
+    "country": "Hungary",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/wl72r61560678493.png",
+    "logo": null
+  },
+  {
+    "id": "5796",
+    "name": "Asian Mens Handball Championship",
+    "sport": "Handball",
+    "country": "International",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/ueebqw1768307908.png",
+    "logo": "https://www.thesportsdb.com/images/media/league/logo/7g7xuc1768308090.png"
+  },
+  {
+    "id": "5811",
+    "name": "African Mens Handball Championship",
+    "sport": "Handball",
+    "country": "International",
+    "badge": "https://www.thesportsdb.com/images/media/league/badge/4zw9151768980896.png",
+    "logo": null
+  },
+  {
+    "id": "4537",
+    "name": "Polish Handball Superliga",
+    "sport": "Handball",
+    "country": "Poland",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/q9r3a81555779457.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/k9j24d1574182401.png"
+  },
+  {
+    "id": "5617",
+    "name": "Volleyliga Belgium",
+    "sport": "Volleyball",
+    "country": "Belgium",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/6ogmqy1746542735.png",
+    "logo": null
+  },
+  {
+    "id": "5613",
+    "name": "Mens European Volleyball Championship",
+    "sport": "Volleyball",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/osy9q41746710845.png",
+    "logo": null
+  },
+  {
+    "id": "5614",
+    "name": "CEV Challenge Cup",
+    "sport": "Volleyball",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/9rc3jm1746458666.png",
+    "logo": null
+  },
+  {
+    "id": "4582",
+    "name": "French Ligue A Mens Volleyball",
+    "sport": "Volleyball",
+    "country": "France",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/is471m1573138154.png",
+    "logo": null
+  },
+  {
+    "id": "4583",
+    "name": "French Ligue A Womens Volleyball",
+    "sport": "Volleyball",
+    "country": "France",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/zwerco1573138112.png",
+    "logo": null
+  },
+  {
+    "id": "5618",
+    "name": "German 1. Bundesliga",
+    "sport": "Volleyball",
+    "country": "Germany",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/g14dh21746459254.png",
+    "logo": null
+  },
+  {
+    "id": "4542",
+    "name": "Greek A1 Ethniki",
+    "sport": "Volleyball",
+    "country": "Greece",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/quvgvk1558082276.png",
+    "logo": null
+  },
+  {
+    "id": "4544",
+    "name": "Italian Volleyball League",
+    "sport": "Volleyball",
+    "country": "Italy",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/my9yim1659063710.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/sj1eit1555615505.png"
+  },
+  {
+    "id": "4584",
+    "name": "Italian Womens Volleyball League",
+    "sport": "Volleyball",
+    "country": "Italy",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/y0k0rw1555615564.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/sj1eit1555615505.png"
+  },
+  {
+    "id": "5619",
+    "name": "Polish PlusLiga",
+    "sport": "Volleyball",
+    "country": "Poland",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/n0zkno1746542488.png",
+    "logo": null
+  },
+  {
+    "id": "5286",
+    "name": "European Athletics Indoor Championships",
+    "sport": "Athletics",
+    "country": "Europe",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/9rr2ad1741364834.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/9394aj1741352213.png"
+  },
+  {
+    "id": "5785",
+    "name": "World Athletics Indoor Tour Gold",
+    "sport": "Athletics",
+    "country": "International",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/jiqzx41766948951.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/1ih1bv1766945774.png"
+  },
+  {
+    "id": "5788",
+    "name": "World Athletics Ultimate Championship",
+    "sport": "Athletics",
+    "country": "International",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/im237u1767479341.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ma3yqh1767479231.png"
+  },
+  {
+    "id": "4994",
+    "name": "Olympics Athletics",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/7ax0lg1687508369.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f49get1711113678.png"
+  },
+  {
+    "id": "5007",
+    "name": "World Athletics Championships",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/b3tgs91749840167.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/nqxep91749839947.png"
+  },
+  {
+    "id": "5008",
+    "name": "Commonwealth Games Athletics",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/1suc6w1733648476.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/j2ckbv1655555740.png"
+  },
+  {
+    "id": "5282",
+    "name": "Diamond League",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/7d5xlh1650475438.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/2gunkc1650475475.png"
+  },
+  {
+    "id": "5283",
+    "name": "World Athletics Indoor Championships",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gk1qa51742730130.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/jy9h6v1710624730.png"
+  },
+  {
+    "id": "5284",
+    "name": "Pan American Games Athletics",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/zuzxlo1650476513.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/50bo2e1650476606.png"
+  },
+  {
+    "id": "5285",
+    "name": "European Athletics Championships",
+    "sport": "Athletics",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/zefgr71733218448.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/afjlwf1660827769.png"
+  },
+  {
+    "id": "4465",
+    "name": "UCI World Tour",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/igahc11535183469.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/7fhxtz1555353394.png"
+  },
+  {
+    "id": "4851",
+    "name": "_Defunct Cycling Teams",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/lmgyuz1624198814.png",
+    "logo": null
+  },
+  {
+    "id": "5022",
+    "name": "Olympics Mountain Bike",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/yl0th21687510284.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/iz90a81624978964.png"
+  },
+  {
+    "id": "5025",
+    "name": "Olympics Road Cycling",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/wt9rmf1687510300.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/bn95xs1624979026.png"
+  },
+  {
+    "id": "5026",
+    "name": "Olympics Track Cycling",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/gdq5e01687510313.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/427gsb1624979084.png"
+  },
+  {
+    "id": "5312",
+    "name": "UCI Womens World Tour",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/ozlln81659718492.png",
+    "logo": null
+  },
+  {
+    "id": "5330",
+    "name": "UCI ProSeries",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/9dyjmo1660817884.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/8tl00s1660817832.png"
+  },
+  {
+    "id": "5331",
+    "name": "UCI Africa Tour",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/xswbex1660818084.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/zqova81660818063.png"
+  },
+  {
+    "id": "5332",
+    "name": "UCI America Tour",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/kslamr1660818164.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/ck0yzs1660818142.png"
+  },
+  {
+    "id": "5333",
+    "name": "UCI Asia Tour",
+    "sport": "Cycling",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/y8oxa41660818275.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/2t1lfg1660818254.png"
+  },
+  {
+    "id": "4561",
+    "name": "BDO Darts",
+    "sport": "Darts",
+    "country": "England",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/bhq78q1555602697.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/g6fs831571685954.png"
+  },
+  {
+    "id": "4554",
+    "name": "PDC Darts",
+    "sport": "Darts",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/isf07m1555602216.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/mnkcyf1555604592.png"
+  },
+  {
+    "id": "5588",
+    "name": "_Defunct Darts Teams",
+    "sport": "Darts",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/uekme31740235770.png",
+    "logo": null
+  },
+  {
+    "id": "4555",
+    "name": "World Snooker",
+    "sport": "Snooker",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/9sli1w1629294783.png"
+  },
+  {
+    "id": "5589",
+    "name": "_Defunct Snooker Teams",
+    "sport": "Snooker",
+    "country": "Worldwide",
+    "badge": "https://r2.thesportsdb.com/images/media/league/badge/9g6usr1740235824.png",
+    "logo": null
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Adelaide 36ers",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zp72061755701355.png",
+    "stadium": "Adelaide Entertainment Centre",
+    "city": "Adelaide",
+    "country": "Australia"
+  },
+  {
+    "name": "Brisbane Bullets",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ubzenr1545867000.png",
+    "stadium": "Brisbane Entertainment Centre",
+    "city": "Brisbane, Queensland",
+    "country": "Australia"
+  },
+  {
+    "name": "Cairns Taipans",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/v2c1wc1550073460.png",
+    "stadium": "Cairns Convention Centre",
+    "city": "Cairns, Queensland",
+    "country": "Australia"
+  },
+  {
+    "name": "Illawarra Hawks",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/juj7y91725980615.png",
+    "stadium": "WIN Entertainment Centre",
+    "city": "Wollongong, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "name": "Melbourne United",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/adpuke1755702629.png",
+    "stadium": "Melbourne Arena",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "name": "New Zealand Breakers",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/83088b1725978587.png",
+    "stadium": "Spark Arena",
+    "city": "Auckland, New Zealand",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Perth Wildcats",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7gkvnd1755701286.png",
+    "stadium": "RAC Arena",
+    "city": "Perth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "name": "South East Melbourne Phoenix",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/73xo0d1755702709.png",
+    "stadium": "Melbourne Arena",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "name": "Sydney Kings",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/gsfe5x1550073324.png",
+    "stadium": "Qudos Bank Arena",
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "name": "Tasmania JackJumpers",
+    "league": "Australian NBL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xbmi6c1755702783.png",
+    "stadium": "MyState Bank Arena",
+    "city": "Hobart, Tasmania",
+    "country": "Australia"
+  }
+]

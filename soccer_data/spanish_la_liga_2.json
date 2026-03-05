@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Albacete",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/17oqja1616436316.png",
+    "stadium": "Estadio Carlos Belmonte",
+    "city": "Albacete",
+    "country": "Spain"
+  },
+  {
+    "name": "Almería",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png",
+    "stadium": "UD Almería Stadium",
+    "city": "Almería",
+    "country": "Spain"
+  },
+  {
+    "name": "Burgos",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/79h3ul1708150894.png",
+    "stadium": "Estadio Municipal de El Plantío",
+    "city": "Burgos, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Cádiz",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/e2phzp1639408503.png",
+    "stadium": "Estadio Nuevo Mirandilla",
+    "city": "Cádiz, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Castellón",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ywibjw1733456820.png",
+    "stadium": "Estadio Castalia",
+    "city": "Castellón, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Ceuta",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ja7sl51677475273.png",
+    "stadium": "Estadio Municipal Alfonso Murube",
+    "city": "Ceuta",
+    "country": "Spain"
+  },
+  {
+    "name": "Córdoba",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ttyyvy1473503827.png",
+    "stadium": "Estadio Nuevo Arcángel",
+    "city": "Córdoba, Andalusia, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Cultural Leonesa",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yk28a51677472494.png",
+    "stadium": "Estadio Municipal Reino de León",
+    "city": "León, Castile and Leon, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Deportivo de La Coruña",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wtssuy1473502941.png",
+    "stadium": "Estadio Abanca-Riazor",
+    "city": "A Coruña",
+    "country": "Spain"
+  },
+  {
+    "name": "Eibar",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hccive1680933599.png",
+    "stadium": "Estadio Municipal de Ipurúa",
+    "city": "Éibar, Gipuzkoa",
+    "country": "Spain"
+  },
+  {
+    "name": "FC Andorra",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/eyaka21639481902.png",
+    "stadium": "Estadi Nacional d'Andorra",
+    "city": "Andorra la Vella, Andorra",
+    "country": "Andorra"
+  },
+  {
+    "name": "Granada",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png",
+    "stadium": "Estadio Municipal Nuevo Los Cármenes",
+    "city": "Granada",
+    "country": "Spain"
+  },
+  {
+    "name": "Huesca",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tuxusx1447590509.png",
+    "stadium": "Estadio El Alcoraz",
+    "city": "Huesca, Aragon",
+    "country": "Spain"
+  },
+  {
+    "name": "Las Palmas",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/mmhyb11616443601.png",
+    "stadium": "Estadio de Gran Canaria",
+    "city": "Las Palmas, Gran Canaria",
+    "country": "Spain"
+  },
+  {
+    "name": "Leganés",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png",
+    "stadium": "Estadio Municipal de Butarque",
+    "city": "Leganés, Madrid",
+    "country": "Spain"
+  },
+  {
+    "name": "Málaga",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png",
+    "stadium": "Estadio La Rosaleda",
+    "city": "Málaga",
+    "country": "Spain"
+  },
+  {
+    "name": "Mirandés",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xjeaa21625677345.png",
+    "stadium": "Estadio Municipal de Anduva",
+    "city": "Miranda de Ebro, Burgos",
+    "country": "Spain"
+  },
+  {
+    "name": "Racing de Santander",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png",
+    "stadium": "Campos de Sport de El Sardinero",
+    "city": "Santander, Cantabria, Spain",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Sociedad B",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/hliq4n1579632023.png",
+    "stadium": "Campo José Luis Orbegozo",
+    "city": "Zubieta, San Sebastián",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Valladolid",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bnhu8b1719983736.png",
+    "stadium": "Estadio Municipal José Zorrilla",
+    "city": "Valladolid",
+    "country": "Spain"
+  },
+  {
+    "name": "Real Zaragoza",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpwxs1473503702.png",
+    "stadium": "Estadio de La Romareda",
+    "city": "Zaragoza",
+    "country": "Spain"
+  },
+  {
+    "name": "Sporting de Gijón",
+    "league": "Spanish La Liga 2",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/xxrtqx1473503054.png",
+    "stadium": "Estadio El Molinón",
+    "city": "Gijón",
+    "country": "Spain"
+  }
+]

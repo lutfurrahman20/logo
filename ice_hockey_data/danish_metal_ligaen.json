@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Aalborg",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/b3314m1687415395.png",
+    "stadium": "Gigantium",
+    "city": "Aalborg, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "Esbjerg",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lwx75k1617310604.png",
+    "stadium": "Granly Hockey Arena",
+    "city": "Esbjerg, Denmark",
+    "country": "Denmark"
+  },
+  {
+    "name": "Frederikshavn",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/7ny49v1617310621.png",
+    "stadium": "Scanel Hockey Arena",
+    "city": "Frederikshavn",
+    "country": "Denmark"
+  },
+  {
+    "name": "Herlev",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tjghhl1617310633.png",
+    "stadium": "PM Montage Arena",
+    "city": "Herlev",
+    "country": "Denmark"
+  },
+  {
+    "name": "Herning Blue Fox",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8eqj1617310646.png",
+    "stadium": "KVIK Hockey Arena",
+    "city": "Herning",
+    "country": "Denmark"
+  },
+  {
+    "name": "Odense Bulldogs",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o9gxha1617311183.png",
+    "stadium": "Spar Nord Arena Odense",
+    "city": "Odense",
+    "country": "Denmark"
+  },
+  {
+    "name": "Rodovre Mighty Bulls",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ku8fbc1617310662.png",
+    "stadium": "Rødovre Skøjte Arena",
+    "city": "Rødovre",
+    "country": "Denmark"
+  },
+  {
+    "name": "Rungsted",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/evg2071617310676.png",
+    "stadium": "Bitcoin Arena",
+    "city": "Rungsted",
+    "country": "Denmark"
+  },
+  {
+    "name": "Sonderjyske Ishockey",
+    "league": "Danish Metal Ligaen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/69am8r1617310691.png",
+    "stadium": "Frøs Arena",
+    "city": "Vojens",
+    "country": "Denmark"
+  }
+]
