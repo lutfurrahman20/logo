@@ -1,5 +1,5 @@
 """
-Seattle Seahawks - ACTIVE Player Headshot Scraper
+Miami Dolphins - ACTIVE Player Headshot Scraper
 Uses the ESPN public API to get the active roster + headshot URLs directly.
 No Selenium needed — clean, fast, and always gets the correct per-player image.
 """
@@ -10,8 +10,8 @@ import requests
 from pathlib import Path
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-ESPN_API   = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sea/roster"
-OUTPUT_DIR = Path("f:/logo/seahawks_player_logos")
+ESPN_API   = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/mia/roster"
+OUTPUT_DIR = Path("f:/logo/dolphins_player_logos")
 
 HEADERS = {
     "User-Agent": (
@@ -32,7 +32,7 @@ def safe_filename(name: str) -> str:
 
 def get_active_players() -> list[dict]:
     """
-    Fetch Seahawks roster from the ESPN API.
+    Fetch Dolphins roster from the ESPN API.
     Returns ACTIVE players only (offense + defense + specialTeam groups).
     Excludes injuredReserveOrOut, practiceSquad, suspended groups.
     """
@@ -41,15 +41,14 @@ def get_active_players() -> list[dict]:
     resp.raise_for_status()
     data = resp.json()
 
-    # Only pull from active groups — ESPN separates IR/PS into their own groups
     ACTIVE_GROUPS = {"offense", "defense", "specialTeam"}
 
     players = []
     athlete_groups = data.get("athletes", [])
     for group in athlete_groups:
-        group_key = group.get("position", "")  # e.g. "offense", "injuredReserveOrOut"
+        group_key = group.get("position", "")
         if group_key not in ACTIVE_GROUPS:
-            continue  # skip IR, practice squad, suspended
+            continue
 
         for athlete in group.get("items", []):
             name     = athlete.get("fullName", "")
@@ -66,15 +65,10 @@ def get_active_players() -> list[dict]:
 
 
 def upgrade_url(url: str) -> str:
-    """
-    ESPN headshot URLs look like:
-      https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3054211.png&w=96&h=70
-    Strip the resizing query args to get the full-size PNG.
-    """
+    """Strip ESPN combiner query args to get the full-size PNG."""
     m = re.search(r"img=([^&]+)", url)
     if m:
-        img_path = m.group(1)
-        return f"https://a.espncdn.com{img_path}"
+        return f"https://a.espncdn.com{m.group(1)}"
     return url
 
 
@@ -93,7 +87,7 @@ def download_image(url: str, filepath: Path) -> bool:
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     print("=" * 60)
-    print("  SEATTLE SEAHAWKS - Active Player Headshot Scraper")
+    print("  MIAMI DOLPHINS - Active Player Headshot Scraper")
     print("=" * 60)
     print(f"  Output folder : {OUTPUT_DIR}\n")
 
