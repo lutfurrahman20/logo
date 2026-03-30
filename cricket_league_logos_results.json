@@ -1,0 +1,184 @@
+{
+  "total_targeted": 60,
+  "downloaded": 23,
+  "not_found_count": 37,
+  "results": [
+    {
+      "name": "ACC - T20 Asia Cup",
+      "source": "wikimedia (Asia Cup 2014 Logo — text only.svg)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Asia_Cup_2014_Logo_%E2%80%94_text_only.svg",
+      "file": "cricket_league_logos\\ACC_T20_Asia_Cup.svg"
+    },
+    {
+      "name": "Afghanistan - Domestic T20",
+      "source": "thesportsdb (Shpageeza Cricket League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/y6qwe61734346794.png",
+      "file": "cricket_league_logos\\Afghanistan_Domestic_T20.png"
+    },
+    {
+      "name": "Australia - Big Bash League",
+      "source": "thesportsdb (Australian Big Bash League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/yko7ny1546635346.png",
+      "file": "cricket_league_logos\\Australia_Big_Bash_League.png"
+    },
+    {
+      "name": "Australia - Sheffield Shield",
+      "source": "thesportsdb (Sheffield Shield)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/cd4akv1742154549.png",
+      "file": "cricket_league_logos\\Australia_Sheffield_Shield.png"
+    },
+    {
+      "name": "Bangladesh - BPL",
+      "source": "thesportsdb (Bangladesh Premier League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/o1xh521767355615.png",
+      "file": "cricket_league_logos\\Bangladesh_BPL.png"
+    },
+    {
+      "name": "England - County Championship",
+      "source": "thesportsdb (English County Championship Division 1)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/d4q9uf1630694697.png",
+      "file": "cricket_league_logos\\England_County_Championship.png"
+    },
+    {
+      "name": "England - County Championship Division 2",
+      "source": "thesportsdb (English County Championship Division 2)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/xedhy31487332623.png",
+      "file": "cricket_league_logos\\England_County_Championship_Division_2.png"
+    },
+    {
+      "name": "England - T20 Blast",
+      "source": "thesportsdb (English t20 Blast)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/m1lsns1649766933.png",
+      "file": "cricket_league_logos\\England_T20_Blast.png"
+    },
+    {
+      "name": "ICC - Champions Trophy",
+      "source": "wikimedia (2025 ICC Men's Champions Trophy Logo.svg)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/2025_ICC_Men%27s_Champions_Trophy_Logo.svg",
+      "file": "cricket_league_logos\\ICC_Champions_Trophy.svg"
+    },
+    {
+      "name": "ICC - T20 World Cup",
+      "source": "wikimedia (2024 ICC Men's T20 World Cup logo text only.png)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/2024_ICC_Men%27s_T20_World_Cup_logo_text_only.png",
+      "file": "cricket_league_logos\\ICC_T20_World_Cup.png"
+    },
+    {
+      "name": "ICC - T20 World Cup Qualifiers Women",
+      "source": "wikimedia (2026 ICC Women's T20 World Cup logo text only.png)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2026_ICC_Women%27s_T20_World_Cup_logo_text_only.png",
+      "file": "cricket_league_logos/ICC_T20_World_Cup_Qualifiers_Women.png"
+    },
+    {
+      "name": "ICC - World Cup Women",
+      "source": "wikimedia (2025 Women's Cricket World Cup logo text only.png)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2025_Women%27s_Cricket_World_Cup_logo_text_only.png",
+      "file": "cricket_league_logos\\ICC_World_Cup_Women.png"
+    },
+    {
+      "name": "India - IPL",
+      "source": "thesportsdb (Indian Premier League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png",
+      "file": "cricket_league_logos\\India_IPL.png"
+    },
+    {
+      "name": "India - WPL",
+      "source": "wikimedia (WPL.png)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WPL.png",
+      "file": "cricket_league_logos\\India_WPL.png"
+    },
+    {
+      "name": "Ireland - Inter Provincial T20",
+      "source": "thesportsdb (Cricket Ireland Inter-Provincial T20 Trophy)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/mca6gl1746348043.png",
+      "file": "cricket_league_logos\\Ireland_Inter_Provincial_T20.png"
+    },
+    {
+      "name": "New Zealand - Plunket Shield",
+      "source": "wikimedia (Plunket_Shield.jpg)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Plunket_Shield.jpg",
+      "file": "cricket_league_logos\\New_Zealand_Plunket_Shield.jpg"
+    },
+    {
+      "name": "New Zealand - Super Smash",
+      "source": "thesportsdb (New Zealand Super Smash)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/3d5cld1645179187.png",
+      "file": "cricket_league_logos\\New_Zealand_Super_Smash.png"
+    },
+    {
+      "name": "Pakistan - Super League",
+      "source": "thesportsdb (Pakistan Super League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/4xo0kt1709121687.png",
+      "file": "cricket_league_logos\\Pakistan_Super_League.png"
+    },
+    {
+      "name": "South Africa - SA20",
+      "source": "thesportsdb (SA20)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/aakvuk1734183412.png",
+      "file": "cricket_league_logos\\South_Africa_SA20.png"
+    },
+    {
+      "name": "Sri Lanka - Lanka Premier League",
+      "source": "thesportsdb (Lanka Premier League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/qqhube1720698337.png",
+      "file": "cricket_league_logos\\Sri_Lanka_Lanka_Premier_League.png"
+    },
+    {
+      "name": "USA - Major League Cricket",
+      "source": "wikimedia (Major_League_Cricket_logo.svg)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Major_League_Cricket_logo.svg",
+      "file": "cricket_league_logos\\USA_Major_League_Cricket.svg"
+    },
+    {
+      "name": "West Indies - Caribbean Premier League",
+      "source": "thesportsdb (Caribbean Premier League)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/5mjjnj1645179844.png",
+      "file": "cricket_league_logos\\West_Indies_Caribbean_Premier_League.png"
+    },
+    {
+      "name": "Zimbabwe - Domestic T20",
+      "source": "thesportsdb (Zimbabwean Domestic Twenty20)",
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/08bzc91734421922.png",
+      "file": "cricket_league_logos\\Zimbabwe_Domestic_T20.png"
+    }
+  ],
+  "not_found": [
+    "ACC - Asia Cup Women",
+    "Australia - Big Bash League Women",
+    "Australia - Marsh One Day Cup",
+    "Australia - WNCL",
+    "Bangladesh - Dhaka Premier Division",
+    "Bangladesh - NCL T20",
+    "England - Charlotte Edwards Cup",
+    "England - One Day Cup",
+    "England - One Day Cup Women",
+    "England - RHF Trophy",
+    "England - T20 Blast Women",
+    "England - The Hundred",
+    "England - The Hundred Women",
+    "ICC - CWC Challenge League",
+    "ICC - CWC Challenge League 2",
+    "ICC - T20 World Cup Qualifiers",
+    "ICC - Test Championship",
+    "India - Ranji Trophy",
+    "India - SMA Trophy",
+    "India - Tamil Nadu Premier League",
+    "India - Vijay Hazare Trophy",
+    "International - List A Tours",
+    "International - Tours",
+    "International - Tours Women",
+    "New Zealand - Ford Trophy",
+    "New Zealand - Super Smash Women",
+    "Pakistan - National T20 Cup",
+    "South Africa - CSA Four Day",
+    "South Africa - CSA One Day",
+    "South Africa - CSA Pro20 Women",
+    "Sri Lanka - Premier Trophy",
+    "Sri Lanka - Super League Four Day",
+    "Sri Lanka - T20 Major Clubs",
+    "West Indies - 4Day Championship",
+    "West Indies - Caribbean Premier League Women",
+    "Zimbabwe - Logan Cup",
+    "Zimbabwe - Pro50"
+  ]
+}

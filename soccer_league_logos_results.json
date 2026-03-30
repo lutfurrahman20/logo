@@ -1,0 +1,296 @@
+[
+  {
+    "name": "English Premier League",
+    "slug": "eng.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "file": "soccer_league_logos\\English_Premier_League.png"
+  },
+  {
+    "name": "English Championship",
+    "slug": "eng.2",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/24.png",
+    "file": "soccer_league_logos\\English_Championship.png"
+  },
+  {
+    "name": "English League One",
+    "slug": "eng.3",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/25.png",
+    "file": "soccer_league_logos\\English_League_One.png"
+  },
+  {
+    "name": "English League Two",
+    "slug": "eng.4",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/26.png",
+    "file": "soccer_league_logos\\English_League_Two.png"
+  },
+  {
+    "name": "English FA Cup",
+    "slug": "eng.fa",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+    "file": "soccer_league_logos\\English_FA_Cup.png"
+  },
+  {
+    "name": "English League Cup",
+    "slug": "eng.league_cup",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
+    "file": "soccer_league_logos\\English_League_Cup.png"
+  },
+  {
+    "name": "Spanish La Liga",
+    "slug": "esp.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "file": "soccer_league_logos\\Spanish_La_Liga.png"
+  },
+  {
+    "name": "Spanish La Liga 2",
+    "slug": "esp.2",
+    "logo_url": "http://a.espncdn.com/i/leaguelogos/soccer/500/107.png",
+    "file": "soccer_league_logos\\Spanish_La_Liga_2.png"
+  },
+  {
+    "name": "German Bundesliga",
+    "slug": "ger.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+    "file": "soccer_league_logos\\German_Bundesliga.png"
+  },
+  {
+    "name": "German 2. Bundesliga",
+    "slug": "ger.2",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png",
+    "file": "soccer_league_logos\\German_2_Bundesliga.png"
+  },
+  {
+    "name": "Italian Serie A",
+    "slug": "ita.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+    "file": "soccer_league_logos\\Italian_Serie_A.png"
+  },
+  {
+    "name": "Italian Serie B",
+    "slug": "ita.2",
+    "logo_url": "http://a.espncdn.com/i/leaguelogos/soccer/500/99.png",
+    "file": "soccer_league_logos\\Italian_Serie_B.png"
+  },
+  {
+    "name": "French Ligue 1",
+    "slug": "fra.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "file": "soccer_league_logos\\French_Ligue_1.png"
+  },
+  {
+    "name": "French Ligue 2",
+    "slug": "fra.2",
+    "logo_url": "http://a.espncdn.com/i/leaguelogos/soccer/500/96.png",
+    "file": "soccer_league_logos\\French_Ligue_2.png"
+  },
+  {
+    "name": "Dutch Eredivisie",
+    "slug": "ned.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "file": "soccer_league_logos\\Dutch_Eredivisie.png"
+  },
+  {
+    "name": "Dutch Eerste Divisie",
+    "slug": "ned.2",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/105.png",
+    "file": "soccer_league_logos\\Dutch_Eerste_Divisie.png"
+  },
+  {
+    "name": "Portuguese Primeira Liga",
+    "slug": "por.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "file": "soccer_league_logos\\Portuguese_Primeira_Liga.png"
+  },
+  {
+    "name": "Scottish Premiership",
+    "slug": "sco.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
+    "file": "soccer_league_logos\\Scottish_Premiership.png"
+  },
+  {
+    "name": "Scottish Championship",
+    "slug": "sco.2",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Scottish_Championship.png"
+  },
+  {
+    "name": "UEFA Champions League",
+    "slug": "uefa.champions",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+    "file": "soccer_league_logos\\UEFA_Champions_League.png"
+  },
+  {
+    "name": "UEFA Europa League",
+    "slug": "uefa.europa",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+    "file": "soccer_league_logos\\UEFA_Europa_League.png"
+  },
+  {
+    "name": "UEFA Conference League",
+    "slug": "uefa.europa.conf",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/20296.png",
+    "file": "soccer_league_logos\\UEFA_Conference_League.png"
+  },
+  {
+    "name": "Turkish Super Lig",
+    "slug": "tur.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
+    "file": "soccer_league_logos\\Turkish_Super_Lig.png"
+  },
+  {
+    "name": "Belgian Pro League",
+    "slug": "bel.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/6.png",
+    "file": "soccer_league_logos\\Belgian_Pro_League.png"
+  },
+  {
+    "name": "Greek Super League",
+    "slug": "gre.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/98.png",
+    "file": "soccer_league_logos\\Greek_Super_League.png"
+  },
+  {
+    "name": "Russian Premier League",
+    "slug": "rus.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/106.png",
+    "file": "soccer_league_logos\\Russian_Premier_League.png"
+  },
+  {
+    "name": "Swiss Super League",
+    "slug": "sui.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/17.png",
+    "file": "soccer_league_logos\\Swiss_Super_League.png"
+  },
+  {
+    "name": "Danish Superliga",
+    "slug": "den.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Danish_Superliga.png"
+  },
+  {
+    "name": "Norwegian Eliteserien",
+    "slug": "nor.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Norwegian_Eliteserien.png"
+  },
+  {
+    "name": "Swedish Allsvenskan",
+    "slug": "swe.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/16.png",
+    "file": "soccer_league_logos\\Swedish_Allsvenskan.png"
+  },
+  {
+    "name": "Czech First League",
+    "slug": "cze.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Czech_First_League.png"
+  },
+  {
+    "name": "Romanian Liga I",
+    "slug": "rou.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Romanian_Liga_I.png"
+  },
+  {
+    "name": "MLS",
+    "slug": "usa.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "file": "soccer_league_logos\\MLS.png"
+  },
+  {
+    "name": "Mexican Liga MX",
+    "slug": "mex.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
+    "file": "soccer_league_logos\\Mexican_Liga_MX.png"
+  },
+  {
+    "name": "Argentine Primera Division",
+    "slug": "arg.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1.png",
+    "file": "soccer_league_logos\\Argentine_Primera_Division.png"
+  },
+  {
+    "name": "Brazilian Serie A",
+    "slug": "bra.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+    "file": "soccer_league_logos\\Brazilian_Serie_A.png"
+  },
+  {
+    "name": "Brazilian Serie B",
+    "slug": "bra.2",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+    "file": "soccer_league_logos\\Brazilian_Serie_B.png"
+  },
+  {
+    "name": "Chilean Primera Division",
+    "slug": "chi.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/86.png",
+    "file": "soccer_league_logos\\Chilean_Primera_Division.png"
+  },
+  {
+    "name": "Colombian Primera A",
+    "slug": "col.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1543.png",
+    "file": "soccer_league_logos\\Colombian_Primera_A.png"
+  },
+  {
+    "name": "Ecuadorian Serie A",
+    "slug": "ecu.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1944.png",
+    "file": "soccer_league_logos\\Ecuadorian_Serie_A.png"
+  },
+  {
+    "name": "Peruvian Primera Division",
+    "slug": "per.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1813.png",
+    "file": "soccer_league_logos\\Peruvian_Primera_Division.png"
+  },
+  {
+    "name": "Uruguayan Primera Division",
+    "slug": "uru.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1592.png",
+    "file": "soccer_league_logos\\Uruguayan_Primera_Division.png"
+  },
+  {
+    "name": "Japanese J League",
+    "slug": "jpn.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2199.png",
+    "file": "soccer_league_logos\\Japanese_J_League.png"
+  },
+  {
+    "name": "Chinese Super League",
+    "slug": "chn.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2350.png",
+    "file": "soccer_league_logos\\Chinese_Super_League.png"
+  },
+  {
+    "name": "Indian Super League",
+    "slug": "ind.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2334.png",
+    "file": "soccer_league_logos\\Indian_Super_League.png"
+  },
+  {
+    "name": "Thai Premier League",
+    "slug": "tha.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2341.png",
+    "file": "soccer_league_logos\\Thai_Premier_League.png"
+  },
+  {
+    "name": "Australian A-League",
+    "slug": "aus.1",
+    "logo_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/1308.png",
+    "file": "soccer_league_logos\\Australian_A_League.png"
+  },
+  {
+    "name": "South African Premier League",
+    "slug": "rsa.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\South_African_Premier_League.png"
+  },
+  {
+    "name": "Nigerian Premier League",
+    "slug": "nga.1",
+    "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "file": "soccer_league_logos\\Nigerian_Premier_League.png"
+  }
+]

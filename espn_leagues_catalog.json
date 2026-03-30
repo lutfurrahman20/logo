@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "fifa.world?lang=en&region=us",
+    "slug": "fifa.world",
+    "name": "FIFA World Cup",
+    "displayName": "World Cup",
+    "shortName": "",
+    "abbreviation": "FIFA World Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png"
+  },
+  {
+    "id": "fifa.wwc?lang=en&region=us",
+    "slug": "fifa.wwc",
+    "name": "FIFA Women's World Cup",
+    "displayName": "Women's World Cup",
+    "shortName": "",
+    "abbreviation": "FIFA Women's World Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/60.png"
+  },
+  {
+    "id": "uefa.champions?lang=en&region=us",
+    "slug": "uefa.champions",
+    "name": "UEFA Champions League",
+    "displayName": "UEFA Champions League",
+    "shortName": "",
+    "abbreviation": "UEFA Champions League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png"
+  },
+  {
+    "id": "eng.1?lang=en&region=us",
+    "slug": "eng.1",
+    "name": "English Premier League",
+    "displayName": "Premier League",
+    "shortName": "",
+    "abbreviation": "Premier League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png"
+  },
+  {
+    "id": "eng.fa?lang=en&region=us",
+    "slug": "eng.fa",
+    "name": "English FA Cup",
+    "displayName": "English FA Cup",
+    "shortName": "",
+    "abbreviation": "English FA Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png"
+  },
+  {
+    "id": "eng.league_cup?lang=en&region=us",
+    "slug": "eng.league_cup",
+    "name": "English Carabao Cup",
+    "displayName": "English Carabao Cup",
+    "shortName": "",
+    "abbreviation": "Carabao Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png"
+  },
+  {
+    "id": "esp.1?lang=en&region=us",
+    "slug": "esp.1",
+    "name": "Spanish LALIGA",
+    "displayName": "LALIGA",
+    "shortName": "",
+    "abbreviation": "LALIGA",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png"
+  },
+  {
+    "id": "esp.super_cup?lang=en&region=us",
+    "slug": "esp.super_cup",
+    "name": "Spanish Supercopa",
+    "displayName": "Spanish Super Cup",
+    "shortName": "",
+    "abbreviation": "Spanish Supercopa",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/431.png"
+  },
+  {
+    "id": "esp.copa_del_rey?lang=en&region=us",
+    "slug": "esp.copa_del_rey",
+    "name": "Spanish Copa del Rey",
+    "displayName": "Spanish Copa del Rey",
+    "shortName": "",
+    "abbreviation": "Copa del Rey",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/80.png"
+  },
+  {
+    "id": "ger.1?lang=en&region=us",
+    "slug": "ger.1",
+    "name": "German Bundesliga",
+    "displayName": "Bundesliga",
+    "shortName": "",
+    "abbreviation": "Bundesliga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png"
+  },
+  {
+    "id": "ger.dfb_pokal?lang=en&region=us",
+    "slug": "ger.dfb_pokal",
+    "name": "German Cup",
+    "displayName": "German DFB Pokal",
+    "shortName": "",
+    "abbreviation": "German Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png"
+  },
+  {
+    "id": "usa.1?lang=en&region=us",
+    "slug": "usa.1",
+    "name": "MLS",
+    "displayName": "MLS",
+    "shortName": "",
+    "abbreviation": "MLS",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png"
+  },
+  {
+    "id": "concacaf.leagues.cup?lang=en&region=us",
+    "slug": "concacaf.leagues.cup",
+    "name": "Leagues Cup",
+    "displayName": "Leagues Cup",
+    "shortName": "",
+    "abbreviation": "Leagues Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png"
+  },
+  {
+    "id": "campeones.cup?lang=en&region=us",
+    "slug": "campeones.cup",
+    "name": "Campeones Cup",
+    "displayName": "Campeones Cup",
+    "shortName": "",
+    "abbreviation": "Campeones Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "fifa.shebelieves?lang=en&region=us",
+    "slug": "fifa.shebelieves",
+    "name": "SheBelieves Cup",
+    "displayName": "SheBelieves Cup",
+    "shortName": "",
+    "abbreviation": "SheBelieves Cup",
+    "logo": null
+  },
+  {
+    "id": "fifa.w.champions_cup?lang=en&region=us",
+    "slug": "fifa.w.champions_cup",
+    "name": "FIFA Women's Champions Cup",
+    "displayName": "Women's Champions Cup",
+    "shortName": "",
+    "abbreviation": "Women's Champions Cup",
+    "logo": null
+  },
+  {
+    "id": "uefa.wchampions?lang=en&region=us",
+    "slug": "uefa.wchampions",
+    "name": "UEFA Women's Champions League",
+    "displayName": "UEFA Women's Champions League",
+    "shortName": "",
+    "abbreviation": "UEFA Women's Champions League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2408.png"
+  },
+  {
+    "id": "usa.nwsl?lang=en&region=us",
+    "slug": "usa.nwsl",
+    "name": "NWSL",
+    "displayName": "NWSL",
+    "shortName": "",
+    "abbreviation": "NWSL",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2323.png"
+  },
+  {
+    "id": "usa.nwsl.cup?lang=en&region=us",
+    "slug": "usa.nwsl.cup",
+    "name": "NWSL Challenge Cup",
+    "displayName": "NWSL Challenge Cup",
+    "shortName": "",
+    "abbreviation": "NWSL Challenge Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2445.png"
+  },
+  {
+    "id": "uefa.europa?lang=en&region=us",
+    "slug": "uefa.europa",
+    "name": "UEFA Europa League",
+    "displayName": "UEFA Europa League",
+    "shortName": "",
+    "abbreviation": "UEFA Europa League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png"
+  },
+  {
+    "id": "uefa.europa.conf?lang=en&region=us",
+    "slug": "uefa.europa.conf",
+    "name": "UEFA Conference League",
+    "displayName": "UEFA Europa Conference",
+    "shortName": "",
+    "abbreviation": "UEFA Conference League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/20296.png"
+  },
+  {
+    "id": "mex.1?lang=en&region=us",
+    "slug": "mex.1",
+    "name": "Mexican Liga BBVA MX",
+    "displayName": "Mexican Liga MX",
+    "shortName": "",
+    "abbreviation": "Liga MX",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png"
+  },
+  {
+    "id": "ita.1?lang=en&region=us",
+    "slug": "ita.1",
+    "name": "Italian Serie A",
+    "displayName": "Italian Serie A",
+    "shortName": "",
+    "abbreviation": "Serie A",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png"
+  },
+  {
+    "id": "ita.coppa_italia?lang=en&region=us",
+    "slug": "ita.coppa_italia",
+    "name": "Coppa Italia",
+    "displayName": "Italian Coppa Italia",
+    "shortName": "",
+    "abbreviation": "Coppa Italia",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2192.png"
+  },
+  {
+    "id": "fra.1?lang=en&region=us",
+    "slug": "fra.1",
+    "name": "French Ligue 1",
+    "displayName": "French Ligue 1",
+    "shortName": "",
+    "abbreviation": "Ligue 1",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png"
+  },
+  {
+    "id": "fra.super_cup?lang=en&region=us",
+    "slug": "fra.super_cup",
+    "name": "French Trophee des Champions",
+    "displayName": "French Super Cup",
+    "shortName": "",
+    "abbreviation": "Trophee des Champions",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ita.super_cup?lang=en&region=us",
+    "slug": "ita.super_cup",
+    "name": "Italian Supercoppa",
+    "displayName": "Italian Super Cup",
+    "shortName": "",
+    "abbreviation": "Italian Supercoppa",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ger.super_cup?lang=en&region=us",
+    "slug": "ger.super_cup",
+    "name": "German Supercup",
+    "displayName": "German SuperCup",
+    "shortName": "",
+    "abbreviation": "German SuperCup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "eng.w.1?lang=en&region=us",
+    "slug": "eng.w.1",
+    "name": "English Women's Super League",
+    "displayName": "FA Women's Super League",
+    "shortName": "",
+    "abbreviation": "Women's Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2314.png"
+  },
+  {
+    "id": "eng.2?lang=en&region=us",
+    "slug": "eng.2",
+    "name": "English League Championship",
+    "displayName": "English League Championship",
+    "shortName": "",
+    "abbreviation": "EFL Championship",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/24.png"
+  },
+  {
+    "id": "eng.charity?lang=en&region=us",
+    "slug": "eng.charity",
+    "name": "English FA Community Shield",
+    "displayName": "English FA Community Shield",
+    "shortName": "",
+    "abbreviation": "Community Shield",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ned.1?lang=en&region=us",
+    "slug": "ned.1",
+    "name": "Dutch Eredivisie",
+    "displayName": "Dutch Eredivisie",
+    "shortName": "",
+    "abbreviation": "Eredivisie",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
+  },
+  {
+    "id": "por.1?lang=en&region=us",
+    "slug": "por.1",
+    "name": "Portuguese Primeira Liga",
+    "displayName": "Portuguese Liga",
+    "shortName": "",
+    "abbreviation": "Portuguese Liga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png"
+  },
+  {
+    "id": "fra.coupe_de_france?lang=en&region=us",
+    "slug": "fra.coupe_de_france",
+    "name": "Coupe de France",
+    "displayName": "French Coupe de France",
+    "shortName": "",
+    "abbreviation": "Coupe de France",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/182.png"
+  },
+  {
+    "id": "ksa.1?lang=en&region=us",
+    "slug": "ksa.1",
+    "name": "Saudi Pro League",
+    "displayName": "Saudi Pro League",
+    "shortName": "",
+    "abbreviation": "Saudi Pro League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2488.png"
+  },
+  {
+    "id": "conmebol.libertadores?lang=en&region=us",
+    "slug": "conmebol.libertadores",
+    "name": "CONMEBOL Libertadores",
+    "displayName": "CONMEBOL Libertadores",
+    "shortName": "",
+    "abbreviation": "CONMEBOL Libertadores",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png"
+  },
+  {
+    "id": "concacaf.champions?lang=en&region=us",
+    "slug": "concacaf.champions",
+    "name": "Concacaf Champions Cup",
+    "displayName": "Concacaf Champions Cup",
+    "shortName": "",
+    "abbreviation": "Concacaf Champions Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2298.png"
+  },
+  {
+    "id": "fifa.wcq.ply?lang=en&region=us",
+    "slug": "fifa.wcq.ply",
+    "name": "FIFA World Cup Qualifying - Playoff Tournament",
+    "displayName": "WCQ - Playoff Tournament",
+    "shortName": "",
+    "abbreviation": "WCQ - Playoff Tournament",
+    "logo": null
+  },
+  {
+    "id": "fifa.worldq.uefa?lang=en&region=us",
+    "slug": "fifa.worldq.uefa",
+    "name": "FIFA World Cup Qualifying - UEFA",
+    "displayName": "World Cup Qualifying - UEFA",
+    "shortName": "",
+    "abbreviation": "WCQ - UEFA",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/67.png"
+  },
+  {
+    "id": "fifa.worldq.concacaf?lang=en&region=us",
+    "slug": "fifa.worldq.concacaf",
+    "name": "FIFA World Cup Qualifying - Concacaf",
+    "displayName": "World Cup Qualifying - CONCACAF ",
+    "shortName": "",
+    "abbreviation": "WCQ - Concacaf",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/64.png"
+  },
+  {
+    "id": "fifa.worldq.afc?lang=en&region=us",
+    "slug": "fifa.worldq.afc",
+    "name": "FIFA World Cup Qualifying - AFC",
+    "displayName": "World Cup Qualifying - AFC ",
+    "shortName": "",
+    "abbreviation": "WCQ - AFC",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/62.png"
+  },
+  {
+    "id": "fifa.worldq.caf?lang=en&region=us",
+    "slug": "fifa.worldq.caf",
+    "name": "FIFA World Cup Qualifying - CAF",
+    "displayName": "World Cup Qualifying - CAF ",
+    "shortName": "",
+    "abbreviation": "WCQ - CAF",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/63.png"
+  },
+  {
+    "id": "fifa.worldq.conmebol?lang=en&region=us",
+    "slug": "fifa.worldq.conmebol",
+    "name": "FIFA World Cup Qualifying - CONMEBOL",
+    "displayName": "World Cup Qualifying - CONMEBOL",
+    "shortName": "",
+    "abbreviation": "WCQ - CONMEBOL",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/65.png"
+  },
+  {
+    "id": "fifa.worldq.afc.conmebol?lang=en&region=us",
+    "slug": "fifa.worldq.afc.conmebol",
+    "name": "FIFA World Cup Qualifying - AFC/CONMEBOL Playoff",
+    "displayName": "FIFA World Cup AFC/CONMEBOL Qualifying",
+    "shortName": "",
+    "abbreviation": "WCQ - AFC/CONMEBOL Playoff",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "fifa.worldq.ofc?lang=en&region=us",
+    "slug": "fifa.worldq.ofc",
+    "name": "FIFA World Cup Qualifying - OFC",
+    "displayName": "World Cup Qualifying - OFC ",
+    "shortName": "",
+    "abbreviation": "WCQ - OFC",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/66.png"
+  },
+  {
+    "id": "fifa.worldq.concacaf.ofc?lang=en&region=us",
+    "slug": "fifa.worldq.concacaf.ofc",
+    "name": "FIFA World Cup Qualifying - Concacaf/OFC Playoff",
+    "displayName": "FIFA World Cup CONCACAF/OFC Qualifying",
+    "shortName": "",
+    "abbreviation": "WCQ - Concacaf/OFC Playoff",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "fifa.friendly?lang=en&region=us",
+    "slug": "fifa.friendly",
+    "name": "International Friendly",
+    "displayName": "International Friendly",
+    "shortName": "",
+    "abbreviation": "Men's International Friendly",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/53.png"
+  },
+  {
+    "id": "uefa.nations?lang=en&region=us",
+    "slug": "uefa.nations",
+    "name": "UEFA Nations League",
+    "displayName": "UEFA Nations League",
+    "shortName": "",
+    "abbreviation": "UEFA Nations League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png"
+  },
+  {
+    "id": "fifa.friendly.w?lang=en&region=us",
+    "slug": "fifa.friendly.w",
+    "name": "Women's International Friendly",
+    "displayName": "Women's International Friendly",
+    "shortName": "",
+    "abbreviation": "Women's International Friendly",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/70.png"
+  },
+  {
+    "id": "fifa.wworldq.uefa?lang=en&region=us",
+    "slug": "fifa.wworldq.uefa",
+    "name": "FIFA Women's World Cup Qualifying - UEFA",
+    "displayName": "FIFA Women's World Cup Qualifying - UEFA",
+    "shortName": "",
+    "abbreviation": "WWCQ - UEFA",
+    "logo": null
+  },
+  {
+    "id": "fifa.wwcq.ply?lang=en&region=us",
+    "slug": "fifa.wwcq.ply",
+    "name": "FIFA Women's World Cup Qualifying - Playoff Tournament",
+    "displayName": "WWCQ - Playoff Tournament",
+    "shortName": "",
+    "abbreviation": "WWCQ - Playoff Tournament",
+    "logo": null
+  },
+  {
+    "id": "uefa.w.nations?lang=en&region=us",
+    "slug": "uefa.w.nations",
+    "name": "UEFA Women's Nations League",
+    "displayName": "Women's Nations League",
+    "shortName": "",
+    "abbreviation": "Women's Nations League",
+    "logo": null
+  },
+  {
+    "id": "eng.w.fa?lang=en&region=us",
+    "slug": "eng.w.fa",
+    "name": "English Women's FA Cup",
+    "displayName": "Women's FA Cup",
+    "shortName": "",
+    "abbreviation": "Women's FA Cup",
+    "logo": null
+  },
+  {
+    "id": "eng.w.league_cup?lang=en&region=us",
+    "slug": "eng.w.league_cup",
+    "name": "English Women's League Cup",
+    "displayName": "Women's League Cup",
+    "shortName": "",
+    "abbreviation": "Women's League Cup",
+    "logo": null
+  },
+  {
+    "id": "esp.w.1?lang=en&region=us",
+    "slug": "esp.w.1",
+    "name": "Spanish Liga F",
+    "displayName": "Liga F",
+    "shortName": "",
+    "abbreviation": "Liga F",
+    "logo": null
+  },
+  {
+    "id": "esp.copa_de_la_reina?lang=en&region=us",
+    "slug": "esp.copa_de_la_reina",
+    "name": "Spanish Copa de la Reina",
+    "displayName": "Spanish Copa de la Reina",
+    "shortName": "",
+    "abbreviation": "Copa de la Reina",
+    "logo": null
+  },
+  {
+    "id": "fra.w.1?lang=en&region=us",
+    "slug": "fra.w.1",
+    "name": "French Première Ligue",
+    "displayName": "Division 1 Féminine",
+    "shortName": "",
+    "abbreviation": "Première Ligue",
+    "logo": null
+  },
+  {
+    "id": "usa.nwsl.summer.cup?lang=en&region=us",
+    "slug": "usa.nwsl.summer.cup",
+    "name": "NWSL X Liga MX Femenil Summer Cup",
+    "displayName": "NWSL X Liga MX Femenil Summer Cup",
+    "shortName": "",
+    "abbreviation": "NWSL/Liga MXF Summer Cup",
+    "logo": null
+  },
+  {
+    "id": "usa.w.usl.1?lang=en&region=us",
+    "slug": "usa.w.usl.1",
+    "name": "USL Super League",
+    "displayName": "USL Super League",
+    "shortName": "",
+    "abbreviation": "USL Super League",
+    "logo": null
+  },
+  {
+    "id": "usa.open?lang=en&region=us",
+    "slug": "usa.open",
+    "name": "U.S. Open Cup",
+    "displayName": "U.S. Open Cup",
+    "shortName": "",
+    "abbreviation": "U.S. Open Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/69.png"
+  },
+  {
+    "id": "ned.cup?lang=en&region=us",
+    "slug": "ned.cup",
+    "name": "Dutch KNVB Beker",
+    "displayName": "Dutch Cup",
+    "shortName": "",
+    "abbreviation": "KNVB Beker",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2196.png"
+  },
+  {
+    "id": "sco.1?lang=en&region=us",
+    "slug": "sco.1",
+    "name": "Scottish Premiership",
+    "displayName": "Scottish Premiership",
+    "shortName": "",
+    "abbreviation": "SPFL Premiership",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png"
+  },
+  {
+    "id": "sco.tennents?lang=en&region=us",
+    "slug": "sco.tennents",
+    "name": "Scottish Cup",
+    "displayName": "Scottish Cup",
+    "shortName": "",
+    "abbreviation": "Scottish Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "sco.cis?lang=en&region=us",
+    "slug": "sco.cis",
+    "name": "Scottish League Cup",
+    "displayName": "Scottish Communities League Cup",
+    "shortName": "",
+    "abbreviation": "SLC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "aus.1?lang=en&region=us",
+    "slug": "aus.1",
+    "name": "Australian A-League Men",
+    "displayName": "Australian A-League",
+    "shortName": "",
+    "abbreviation": "A-League Men",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1308.png"
+  },
+  {
+    "id": "aus.w.1?lang=en&region=us",
+    "slug": "aus.w.1",
+    "name": "Australian A-League Women",
+    "displayName": "Women's Australian League",
+    "shortName": "",
+    "abbreviation": "A-League Women",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/2402.png"
+  },
+  {
+    "id": "ksa.kings.cup?lang=en&region=us",
+    "slug": "ksa.kings.cup",
+    "name": "Saudi King's Cup",
+    "displayName": "Saudi King's Cup",
+    "shortName": "",
+    "abbreviation": "Saudi King's Cup",
+    "logo": null
+  },
+  {
+    "id": "por.taca.portugal?lang=en&region=us",
+    "slug": "por.taca.portugal",
+    "name": "Taca de Portugal",
+    "displayName": "Taca de Portugal",
+    "shortName": "",
+    "abbreviation": "Taca de Portugal",
+    "logo": null
+  },
+  {
+    "id": "tur.1?lang=en&region=us",
+    "slug": "tur.1",
+    "name": "Turkish Super Lig",
+    "displayName": "Turkish Super Lig",
+    "shortName": "",
+    "abbreviation": "Turkish Super Lig",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png"
+  },
+  {
+    "id": "caf.nations?lang=en&region=us",
+    "slug": "caf.nations",
+    "name": "Africa Cup of Nations",
+    "displayName": "Africa Cup of Nations",
+    "shortName": "",
+    "abbreviation": "Africa Cup of Nations",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/76.png"
+  },
+  {
+    "id": "afc.champions?lang=en&region=us",
+    "slug": "afc.champions",
+    "name": "AFC Champions League Elite",
+    "displayName": "AFC Champions League",
+    "shortName": "",
+    "abbreviation": "AFC Champions League Elite",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2200.png"
+  },
+  {
+    "id": "afc.cup?lang=en&region=us",
+    "slug": "afc.cup",
+    "name": "AFC Champions League Two",
+    "displayName": "AFC Champions League Two",
+    "shortName": "",
+    "abbreviation": "AFC Champions League Two",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2243.png"
+  },
+  {
+    "id": "fifa.cwc?lang=en&region=us",
+    "slug": "fifa.cwc",
+    "name": "FIFA Club World Cup",
+    "displayName": "FIFA Club World Cup",
+    "shortName": "",
+    "abbreviation": "Club World Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1932.png"
+  },
+  {
+    "id": "fifa.olympics?lang=en&region=us",
+    "slug": "fifa.olympics",
+    "name": "Men's Olympic Soccer Tournament",
+    "displayName": "Men's Olympic Soccer Tournament",
+    "shortName": "",
+    "abbreviation": "Men's Olympic Soccer Tournament",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/71.png"
+  },
+  {
+    "id": "fifa.w.olympics?lang=en&region=us",
+    "slug": "fifa.w.olympics",
+    "name": "Women's Olympic Soccer Tournament",
+    "displayName": "Women's Olympic Soccer Tournament",
+    "shortName": "",
+    "abbreviation": "Women's Olympic Soccer Tournament",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/84.png"
+  },
+  {
+    "id": "concacaf.gold?lang=en&region=us",
+    "slug": "concacaf.gold",
+    "name": "Concacaf Gold Cup",
+    "displayName": "CONCACAF Gold Cup",
+    "shortName": "",
+    "abbreviation": "Gold Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/59.png"
+  },
+  {
+    "id": "concacaf.gold_qual?lang=en&region=us",
+    "slug": "concacaf.gold_qual",
+    "name": "Concacaf Gold Cup Qualifying",
+    "displayName": "Gold Cup Qualifying",
+    "shortName": "",
+    "abbreviation": "Gold Cup Qualifying",
+    "logo": null
+  },
+  {
+    "id": "concacaf.w.gold?lang=en&region=us",
+    "slug": "concacaf.w.gold",
+    "name": "Concacaf W Gold Cup",
+    "displayName": "W Gold Cup",
+    "shortName": "",
+    "abbreviation": "W Gold Cup",
+    "logo": null
+  },
+  {
+    "id": "concacaf.nations.league?lang=en&region=us",
+    "slug": "concacaf.nations.league",
+    "name": "Concacaf Nations League",
+    "displayName": "Concacaf Nations League",
+    "shortName": "",
+    "abbreviation": "Concacaf Nations League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2406.png"
+  },
+  {
+    "id": "concacaf.confederations_playoff?lang=en&region=us",
+    "slug": "concacaf.confederations_playoff",
+    "name": "Concacaf Cup",
+    "displayName": "Confederations Cup Playoff",
+    "shortName": "",
+    "abbreviation": "Conf Pl",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "concacaf.w.champions_cup?lang=en&region=us",
+    "slug": "concacaf.w.champions_cup",
+    "name": "Concacaf W Champions Cup",
+    "displayName": "W Champions Cup",
+    "shortName": "",
+    "abbreviation": "W Champions Cup",
+    "logo": null
+  },
+  {
+    "id": "concacaf.womens.championship?lang=en&region=us",
+    "slug": "concacaf.womens.championship",
+    "name": "Concacaf W Championship",
+    "displayName": "concacaf.womens.championship",
+    "shortName": "",
+    "abbreviation": "Concacaf W Championship",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/18969.png"
+  },
+  {
+    "id": "global.champs_cup?lang=en&region=us",
+    "slug": "global.champs_cup",
+    "name": "International Champions Cup",
+    "displayName": "International Champions Cup",
+    "shortName": "",
+    "abbreviation": "Champions Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2326.png"
+  },
+  {
+    "id": "global.wchamps_cup?lang=en&region=us",
+    "slug": "global.wchamps_cup",
+    "name": "Women's International Champions Cup",
+    "displayName": "Women's International Champions Cup",
+    "shortName": "",
+    "abbreviation": "Women's ICC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "uefa.euro?lang=en&region=us",
+    "slug": "uefa.euro",
+    "name": "UEFA European Championship",
+    "displayName": "European Championship",
+    "shortName": "",
+    "abbreviation": "EURO",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/74.png"
+  },
+  {
+    "id": "uefa.euroq?lang=en&region=us",
+    "slug": "uefa.euroq",
+    "name": "UEFA European Championship Qualifying",
+    "displayName": "European Championship Qualifying",
+    "shortName": "",
+    "abbreviation": "EURO Qualifying",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png"
+  },
+  {
+    "id": "uefa.weuro?lang=en&region=us",
+    "slug": "uefa.weuro",
+    "name": "UEFA Women's European Championship",
+    "displayName": "UEFA Women's European Championship",
+    "shortName": "",
+    "abbreviation": "Women's EURO",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2381.png"
+  },
+  {
+    "id": "uefa.euro_u21?lang=en&region=us",
+    "slug": "uefa.euro_u21",
+    "name": "UEFA European Under-21 Championship",
+    "displayName": "European Under-21 Championship",
+    "shortName": "",
+    "abbreviation": "EURO Under-21",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/2284.png"
+  },
+  {
+    "id": "global.finalissima?lang=en&region=us",
+    "slug": "global.finalissima",
+    "name": "CONMEBOL-UEFA Cup of Champions",
+    "displayName": "CONMEBOL-UEFA Cup of Champions",
+    "shortName": "",
+    "abbreviation": "Men's Finalissima",
+    "logo": null
+  },
+  {
+    "id": "global.u20.intercontinental_cup?lang=en&region=us",
+    "slug": "global.u20.intercontinental_cup",
+    "name": "CONMEBOL-UEFA U20 Intercontinental Cup",
+    "displayName": "U20 Intercontinental Cup",
+    "shortName": "",
+    "abbreviation": "U20 Intercontinental Cup",
+    "logo": null
+  },
+  {
+    "id": "global.w.finalissima?lang=en&region=us",
+    "slug": "global.w.finalissima",
+    "name": "CONMEBOL-UEFA Women's Cup of Champions",
+    "displayName": "Women's Finalissima",
+    "shortName": "",
+    "abbreviation": "Women's Finalissima",
+    "logo": null
+  },
+  {
+    "id": "fifa.world.u20?lang=en&region=us",
+    "slug": "fifa.world.u20",
+    "name": "FIFA Under-20 World Cup",
+    "displayName": "U-20 World Cup",
+    "shortName": "",
+    "abbreviation": "FIFA U-20 World Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2285.png"
+  },
+  {
+    "id": "conmebol.america?lang=en&region=us",
+    "slug": "conmebol.america",
+    "name": "Copa América",
+    "displayName": "Copa América",
+    "shortName": "",
+    "abbreviation": "Copa América",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/83.png"
+  },
+  {
+    "id": "conmebol.america.femenina?lang=en&region=us",
+    "slug": "conmebol.america.femenina",
+    "name": "Copa América Femenina",
+    "displayName": "Copa América Femenina",
+    "shortName": "",
+    "abbreviation": "Copa América Femenina",
+    "logo": null
+  },
+  {
+    "id": "afc.asian.cup?lang=en&region=us",
+    "slug": "afc.asian.cup",
+    "name": "AFC Asian Cup",
+    "displayName": "AFC Asian Cup",
+    "shortName": "",
+    "abbreviation": "AFC Asian Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2243.png"
+  },
+  {
+    "id": "afc.w.asian.cup?lang=en&region=us",
+    "slug": "afc.w.asian.cup",
+    "name": "AFC Women's Asian Cup",
+    "displayName": "AFC Women's Asian Cup",
+    "shortName": "",
+    "abbreviation": "AFC Women's Asian Cup",
+    "logo": null
+  },
+  {
+    "id": "afc.cupq?lang=en&region=us",
+    "slug": "afc.cupq",
+    "name": "AFC Asian Cup Qualifiers",
+    "displayName": "AFC Asian Cup Qualifiers",
+    "shortName": "",
+    "abbreviation": "AFC Cup Qualifying",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/2246.png"
+  },
+  {
+    "id": "aff.championship?lang=en&region=us",
+    "slug": "aff.championship",
+    "name": "ASEAN Championship",
+    "displayName": "AFF Cup",
+    "shortName": "",
+    "abbreviation": "ASEAN Champ",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2261.png"
+  },
+  {
+    "id": "caf.nations_qual?lang=en&region=us",
+    "slug": "caf.nations_qual",
+    "name": "Africa Cup of Nations Qualifying",
+    "displayName": "African Nations Cup Qualifying",
+    "shortName": "",
+    "abbreviation": "AFCON Qualifying",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "caf.w.nations?lang=en&region=us",
+    "slug": "caf.w.nations",
+    "name": "Women's Africa Cup of Nations",
+    "displayName": "Women's Africa Cup of Nations",
+    "shortName": "",
+    "abbreviation": "Women's Africa Cup of Nations",
+    "logo": null
+  },
+  {
+    "id": "caf.championship?lang=en&region=us",
+    "slug": "caf.championship",
+    "name": "African Nations Championship",
+    "displayName": "African Nations Championship",
+    "shortName": "",
+    "abbreviation": "CHAN",
+    "logo": null
+  },
+  {
+    "id": "caf.championship_qual?lang=en&region=us",
+    "slug": "caf.championship_qual",
+    "name": "African Nations Championship Qualifying",
+    "displayName": "African Nations Championship Qualifying",
+    "shortName": "",
+    "abbreviation": "CHAN Qualifying",
+    "logo": null
+  },
+  {
+    "id": "usa.usl.1?lang=en&region=us",
+    "slug": "usa.usl.1",
+    "name": "USL Championship",
+    "displayName": "USL Championship",
+    "shortName": "",
+    "abbreviation": "USL Championship",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2292.png"
+  },
+  {
+    "id": "usa.usl.l1?lang=en&region=us",
+    "slug": "usa.usl.l1",
+    "name": "USL League One",
+    "displayName": "USL League One",
+    "shortName": "",
+    "abbreviation": "USL League One",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2452.png"
+  },
+  {
+    "id": "usa.usl.l1.cup?lang=en&region=us",
+    "slug": "usa.usl.l1.cup",
+    "name": "USL Cup",
+    "displayName": "USL Cup",
+    "shortName": "",
+    "abbreviation": "USL Cup",
+    "logo": null
+  },
+  {
+    "id": "mex.2?lang=en&region=us",
+    "slug": "mex.2",
+    "name": "Mexican Liga de Expansión MX",
+    "displayName": "Mexican Ascenso MX",
+    "shortName": "",
+    "abbreviation": "Liga de Expansión MX",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2306.png"
+  },
+  {
+    "id": "can.w.nsl?lang=en&region=us",
+    "slug": "can.w.nsl",
+    "name": "Northern Super League",
+    "displayName": "Northern Super League",
+    "shortName": "",
+    "abbreviation": "Northern Super League",
+    "logo": null
+  },
+  {
+    "id": "uefa.champions_qual?lang=en&region=us",
+    "slug": "uefa.champions_qual",
+    "name": "UEFA Champions League Qualifying",
+    "displayName": "UEFA Champions League Qualifying",
+    "shortName": "",
+    "abbreviation": "UEFA Champions League Qualifying",
+    "logo": null
+  },
+  {
+    "id": "uefa.europa_qual?lang=en&region=us",
+    "slug": "uefa.europa_qual",
+    "name": "UEFA Europa League Qualifying",
+    "displayName": "Europa League Qualfiying",
+    "shortName": "",
+    "abbreviation": "UEFA Europa League Qualfiying",
+    "logo": null
+  },
+  {
+    "id": "uefa.europa.conf_qual?lang=en&region=us",
+    "slug": "uefa.europa.conf_qual",
+    "name": "UEFA Conference League Qualifying",
+    "displayName": "UEFA Conference Qualifying",
+    "shortName": "",
+    "abbreviation": "UEFA Conference Qualifying",
+    "logo": null
+  },
+  {
+    "id": "uefa.w.europa?lang=en&region=us",
+    "slug": "uefa.w.europa",
+    "name": "UEFA Women's Europa Cup",
+    "displayName": "Women's Europa Cup",
+    "shortName": "",
+    "abbreviation": "Women's Europa Cup",
+    "logo": null
+  },
+  {
+    "id": "uefa.super_cup?lang=en&region=us",
+    "slug": "uefa.super_cup",
+    "name": "UEFA Super Cup",
+    "displayName": "UEFA Super Cup",
+    "shortName": "",
+    "abbreviation": "UEFA Super Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1272.png"
+  },
+  {
+    "id": "fifa.intercontinental_cup?lang=en&region=us",
+    "slug": "fifa.intercontinental_cup",
+    "name": "FIFA Intercontinental Cup",
+    "displayName": "Intercontinental Cup",
+    "shortName": "",
+    "abbreviation": "Intercontinental Cup",
+    "logo": null
+  },
+  {
+    "id": "nonfifa?lang=en&region=us",
+    "slug": "nonfifa",
+    "name": "Non-FIFA Friendly",
+    "displayName": "Non-FIFA Friendly",
+    "shortName": "",
+    "abbreviation": "Non-FIFA Friendly",
+    "logo": null
+  },
+  {
+    "id": "rus.1?lang=en&region=us",
+    "slug": "rus.1",
+    "name": "Russian Premier League",
+    "displayName": "Russian Premier League",
+    "shortName": "",
+    "abbreviation": "Russian Premier League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/106.png"
+  },
+  {
+    "id": "rus.1.promotion.relegation?lang=en&region=us",
+    "slug": "rus.1.promotion.relegation",
+    "name": "Russian Premier League Relegation/Promotion Play-offs",
+    "displayName": "Russian Premier League Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Russian Premier League Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "bel.1?lang=en&region=us",
+    "slug": "bel.1",
+    "name": "Belgian Pro League",
+    "displayName": "Belgian Pro League",
+    "shortName": "",
+    "abbreviation": "Belgian Pro League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/6.png"
+  },
+  {
+    "id": "bel.promotion.relegation?lang=en&region=us",
+    "slug": "bel.promotion.relegation",
+    "name": "Belgian Pro League Promotion/Relegation Playoffs",
+    "displayName": "Belgian Pro League Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Belgian Pro League Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "esp.2?lang=en&region=us",
+    "slug": "esp.2",
+    "name": "Spanish LALIGA 2",
+    "displayName": "Spanish LALIGA 2",
+    "shortName": "",
+    "abbreviation": "LALIGA 2",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/107.png"
+  },
+  {
+    "id": "ger.playoff.relegation?lang=en&region=us",
+    "slug": "ger.playoff.relegation",
+    "name": "German Bundesliga Promotion/Relegation Playoff",
+    "displayName": "Bundesliga Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Bundesliga Pro/Rel",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ger.2?lang=en&region=us",
+    "slug": "ger.2",
+    "name": "German 2. Bundesliga",
+    "displayName": "German 2. Bundesliga",
+    "shortName": "",
+    "abbreviation": "2. Bundesliga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
+  },
+  {
+    "id": "ita.2?lang=en&region=us",
+    "slug": "ita.2",
+    "name": "Italian Serie B",
+    "displayName": "Italian Serie B",
+    "shortName": "",
+    "abbreviation": "Italian Serie B",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/99.png"
+  },
+  {
+    "id": "fra.1.promotion.relegation?lang=en&region=us",
+    "slug": "fra.1.promotion.relegation",
+    "name": "French Ligue 1 Promotion/Relegation Playoffs",
+    "displayName": "French Ligue 1 Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "Ligue 1 Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "fra.2?lang=en&region=us",
+    "slug": "fra.2",
+    "name": "French Ligue 2",
+    "displayName": "French Ligue 2",
+    "shortName": "",
+    "abbreviation": "Ligue 2",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/96.png"
+  },
+  {
+    "id": "por.1.promotion.relegation?lang=en&region=us",
+    "slug": "por.1.promotion.relegation",
+    "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
+    "displayName": "Portuguese Liga Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Portuguese Liga Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "aut.1?lang=en&region=us",
+    "slug": "aut.1",
+    "name": "Austrian Bundesliga",
+    "displayName": "Austrian Bundesliga",
+    "shortName": "",
+    "abbreviation": "Austrian Bundesliga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/5.png"
+  },
+  {
+    "id": "gre.1?lang=en&region=us",
+    "slug": "gre.1",
+    "name": "Greek Super League",
+    "displayName": "Greek Super League",
+    "shortName": "",
+    "abbreviation": "Greek Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/98.png"
+  },
+  {
+    "id": "chn.1?lang=en&region=us",
+    "slug": "chn.1",
+    "name": "Chinese Super League",
+    "displayName": "Chinese Super League",
+    "shortName": "",
+    "abbreviation": "Chinese Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2350.png"
+  },
+  {
+    "id": "global.club_challenge?lang=en&region=us",
+    "slug": "global.club_challenge",
+    "name": "CONMEBOL-UEFA Club Challenge",
+    "displayName": "CONMEBOL-UEFA Club Challenge",
+    "shortName": "",
+    "abbreviation": "CONMEBOL-UEFA Club Challenge",
+    "logo": null
+  },
+  {
+    "id": "ned.supercup?lang=en&region=us",
+    "slug": "ned.supercup",
+    "name": "Dutch Johan Cruyff Shield",
+    "displayName": "Dutch Johan Cruyff Shield",
+    "shortName": "",
+    "abbreviation": "Johan Cruyff Shield",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "club.friendly?lang=en&region=us",
+    "slug": "club.friendly",
+    "name": "Club Friendly",
+    "displayName": "Club Friendly",
+    "shortName": "",
+    "abbreviation": "Club Friendly",
+    "logo": null
+  },
+  {
+    "id": "global.pinatar_cup?lang=en&region=us",
+    "slug": "global.pinatar_cup",
+    "name": "Pinatar Cup",
+    "displayName": "Pinatar Cup",
+    "shortName": "",
+    "abbreviation": "Pinatar Cup",
+    "logo": null
+  },
+  {
+    "id": "friendly.emirates_cup?lang=en&region=us",
+    "slug": "friendly.emirates_cup",
+    "name": "Emirates Cup",
+    "displayName": "Emirates Cup",
+    "shortName": "",
+    "abbreviation": "Emirates Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "esp.joan_gamper?lang=en&region=us",
+    "slug": "esp.joan_gamper",
+    "name": "Trofeo Joan Gamper",
+    "displayName": "Trofeo Joan Gamper",
+    "shortName": "",
+    "abbreviation": "Trofeo Joan Gamper",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "jpn.world_challenge?lang=en&region=us",
+    "slug": "jpn.world_challenge",
+    "name": "Japanese J.League World Challenge",
+    "displayName": "Japanese J.League World Challenge",
+    "shortName": "",
+    "abbreviation": "J.League World Challenge",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "euroamericana.supercopa?lang=en&region=us",
+    "slug": "euroamericana.supercopa",
+    "name": "SuperCopa Euroamericana",
+    "displayName": "SuperCopa Euroamericana",
+    "shortName": "",
+    "abbreviation": "SC EA",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "global.arnold.clark_cup?lang=en&region=us",
+    "slug": "global.arnold.clark_cup",
+    "name": "Arnold Clark Cup",
+    "displayName": "Arnold Clark Cup",
+    "shortName": "",
+    "abbreviation": "Arnold Clark Cup",
+    "logo": null
+  },
+  {
+    "id": "fifa.conmebol.olympicsq?lang=en&region=us",
+    "slug": "fifa.conmebol.olympicsq",
+    "name": "CONMEBOL Pre-Olympic Tournament",
+    "displayName": "CONMEBOL Pre-Olympic Tournament",
+    "shortName": "",
+    "abbreviation": "CONMEBOL Pre-Olympic Tournament",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19727.png"
+  },
+  {
+    "id": "fifa.concacaf.olympicsq?lang=en&region=us",
+    "slug": "fifa.concacaf.olympicsq",
+    "name": "Men's Olympic Qualifying Playoff",
+    "displayName": "Men's Olympic Qualifying Playoff",
+    "shortName": "",
+    "abbreviation": "Men's Olympic Qualifying Playoff",
+    "logo": null
+  },
+  {
+    "id": "fifa.w.concacaf.olympicsq?lang=en&region=us",
+    "slug": "fifa.w.concacaf.olympicsq",
+    "name": "Concacaf Women's Olympic Qualifying",
+    "displayName": "Concacaf Women's Olympic Qualifying",
+    "shortName": "",
+    "abbreviation": "Concacaf Women's Olympic Qualifying",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "fifa.world.u17?lang=en&region=us",
+    "slug": "fifa.world.u17",
+    "name": "FIFA Under-17 World Cup",
+    "displayName": "U-17 World Cup",
+    "shortName": "",
+    "abbreviation": "FIFA U-17 World Cup",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2288.png"
+  },
+  {
+    "id": "fifa.wworld.u17?lang=en&region=us",
+    "slug": "fifa.wworld.u17",
+    "name": "FIFA Under-17 Women's World Cup",
+    "displayName": "FIFA Under-17 Women's World Cup",
+    "shortName": "",
+    "abbreviation": "FIFA U-17 Women's World Cup",
+    "logo": null
+  },
+  {
+    "id": "uefa.euro_u21_qual?lang=en&region=us",
+    "slug": "uefa.euro_u21_qual",
+    "name": "UEFA European Under-21 Championship Qualifying",
+    "displayName": "UEFA European Under-21 Championship Qualifying",
+    "shortName": "",
+    "abbreviation": "EURO U-21 Qualifying",
+    "logo": null
+  },
+  {
+    "id": "uefa.euro.u19?lang=en&region=us",
+    "slug": "uefa.euro.u19",
+    "name": "UEFA European Under-19 Championship",
+    "displayName": "European Under-19 Championship",
+    "shortName": "",
+    "abbreviation": "EURO Under-19",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/2297.png"
+  },
+  {
+    "id": "global.toulon?lang=en&region=us",
+    "slug": "global.toulon",
+    "name": "Maurice Revello Tournament",
+    "displayName": "Tournoi Maurice Revello",
+    "shortName": "",
+    "abbreviation": "Maurice Revello Tournament",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "fifa.friendly_u21?lang=en&region=us",
+    "slug": "fifa.friendly_u21",
+    "name": "Under-21 International Friendly",
+    "displayName": "Men's U-21 Friendly",
+    "shortName": "",
+    "abbreviation": "Men's U-21 Friendly",
+    "logo": null
+  },
+  {
+    "id": "ger.2.promotion.relegation?lang=en&region=us",
+    "slug": "ger.2.promotion.relegation",
+    "name": "German Bundesliga 2 Promotion/Relegation Playoffs",
+    "displayName": "2. Bundesliga Pro/Rel",
+    "shortName": "",
+    "abbreviation": "2. Bundesliga Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "eng.trophy?lang=en&region=us",
+    "slug": "eng.trophy",
+    "name": "English EFL Trophy",
+    "displayName": "Johnstone's Paint Trophy",
+    "shortName": "",
+    "abbreviation": "EFL Trophy",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/42.png"
+  },
+  {
+    "id": "eng.3?lang=en&region=us",
+    "slug": "eng.3",
+    "name": "English League One",
+    "displayName": "English League One",
+    "shortName": "",
+    "abbreviation": "EFL League One",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/25.png"
+  },
+  {
+    "id": "eng.4?lang=en&region=us",
+    "slug": "eng.4",
+    "name": "English League Two",
+    "displayName": "English League Two",
+    "shortName": "",
+    "abbreviation": "EFL League Two",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/26.png"
+  },
+  {
+    "id": "eng.5?lang=en&region=us",
+    "slug": "eng.5",
+    "name": "English National League",
+    "displayName": "English Conference",
+    "shortName": "",
+    "abbreviation": "National League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "sco.1.promotion.relegation?lang=en&region=us",
+    "slug": "sco.1.promotion.relegation",
+    "name": "Scottish Premiership Promotion/Relegation Playoffs",
+    "displayName": "SPFL Premiership Pro/Rel",
+    "shortName": "",
+    "abbreviation": "SPFL Premiership Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "sco.2?lang=en&region=us",
+    "slug": "sco.2",
+    "name": "Scottish Championship",
+    "displayName": "Scottish Championship",
+    "shortName": "",
+    "abbreviation": "SPFL Championship",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "sco.2.promotion.relegation?lang=en&region=us",
+    "slug": "sco.2.promotion.relegation",
+    "name": "Scottish Championship Promotion/Relegation Playoffs",
+    "displayName": "Scottish Championship Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "SPFL Championship Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "sco.challenge?lang=en&region=us",
+    "slug": "sco.challenge",
+    "name": "Scottish League Challenge Cup",
+    "displayName": "Scottish League Challenge Cup",
+    "shortName": "",
+    "abbreviation": "SPFL Challenge Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ned.w.eredivisie_cup?lang=en&region=us",
+    "slug": "ned.w.eredivisie_cup",
+    "name": "Dutch Eredivisie Cup",
+    "displayName": "Dutch Eredivisie Cup",
+    "shortName": "",
+    "abbreviation": "Dutch Eredivisie Cup",
+    "logo": null
+  },
+  {
+    "id": "ned.playoff.relegation?lang=en&region=us",
+    "slug": "ned.playoff.relegation",
+    "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
+    "displayName": "Eredivisie Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Eredivisie Pro/Rel",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ned.2?lang=en&region=us",
+    "slug": "ned.2",
+    "name": "Dutch Keuken Kampioen Divisie",
+    "displayName": "Dutch Eerste Divisie",
+    "shortName": "",
+    "abbreviation": "Keuken Kampioen Divisie",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/105.png"
+  },
+  {
+    "id": "ned.3?lang=en&region=us",
+    "slug": "ned.3",
+    "name": "Dutch Tweede Divisie",
+    "displayName": "Dutch Tweede Divisie",
+    "shortName": "",
+    "abbreviation": "Dutch Tweede Divisie",
+    "logo": null
+  },
+  {
+    "id": "ned.3.promotion.relegation?lang=en&region=us",
+    "slug": "ned.3.promotion.relegation",
+    "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+    "displayName": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "Dutch Playoffs 3/4",
+    "logo": null
+  },
+  {
+    "id": "ned.w.knvb_cup?lang=en&region=us",
+    "slug": "ned.w.knvb_cup",
+    "name": "Dutch KNVB Beker Vrouwen",
+    "displayName": "Dutch KNVB Beker Vrouwen",
+    "shortName": "",
+    "abbreviation": "Dutch Vrouwen KNVB Beker",
+    "logo": null
+  },
+  {
+    "id": "ned.w.1?lang=en&region=us",
+    "slug": "ned.w.1",
+    "name": "Dutch Vrouwen Eredivisie",
+    "displayName": "Dutch Vrouwen Eredivisie",
+    "shortName": "",
+    "abbreviation": "Dutch Vrouwen Eredivisie",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2453.png"
+  },
+  {
+    "id": "swe.1?lang=en&region=us",
+    "slug": "swe.1",
+    "name": "Swedish Allsvenskan",
+    "displayName": "Swedish Allsvenskanliga",
+    "shortName": "",
+    "abbreviation": "Swedish Allsvenskan",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/16.png"
+  },
+  {
+    "id": "swe.1.promotion.relegation?lang=en&region=us",
+    "slug": "swe.1.promotion.relegation",
+    "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
+    "displayName": "Swedish Allsvenskan Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Swedish Allsvenskan Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "den.1?lang=en&region=us",
+    "slug": "den.1",
+    "name": "Danish Superliga",
+    "displayName": "Danish SAS-Ligaen",
+    "shortName": "",
+    "abbreviation": "Danish Superliga",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "nor.1.promotion.relegation?lang=en&region=us",
+    "slug": "nor.1.promotion.relegation",
+    "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+    "displayName": "Norwegian Eliteserien Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Norwegian Eliteserien Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "nor.1?lang=en&region=us",
+    "slug": "nor.1",
+    "name": "Norwegian Eliteserien",
+    "displayName": "Norwegian Tippeligaen",
+    "shortName": "",
+    "abbreviation": "Norwegian Eliteserien",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "cyp.1?lang=en&region=us",
+    "slug": "cyp.1",
+    "name": "Cypriot First Division",
+    "displayName": "Cypriot First Division",
+    "shortName": "",
+    "abbreviation": "Cypriot First Division",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "ir1.1.promotion.relegation?lang=en&region=us",
+    "slug": "ir1.1.promotion.relegation",
+    "name": "Irish Premier Division Promotion/Relegation Playoffs",
+    "displayName": "Irish Premier Division Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "Irish Premier Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "irl.1?lang=en&region=us",
+    "slug": "irl.1",
+    "name": "Irish Premier Division",
+    "displayName": "League of Ireland Premier Division",
+    "shortName": "",
+    "abbreviation": "Irish Premier Division",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/116.png"
+  },
+  {
+    "id": "conmebol.sudamericana?lang=en&region=us",
+    "slug": "conmebol.sudamericana",
+    "name": "CONMEBOL Sudamericana",
+    "displayName": "CONMEBOL Sudamericana",
+    "shortName": "",
+    "abbreviation": "CONMEBOL Sudamericana",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png"
+  },
+  {
+    "id": "conmebol.recopa?lang=en&region=us",
+    "slug": "conmebol.recopa",
+    "name": "CONMEBOL Recopa",
+    "displayName": "Recopa Sudamericana",
+    "shortName": "",
+    "abbreviation": "CONMEBOL Recopa",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2335.png"
+  },
+  {
+    "id": "arg.1?lang=en&region=us",
+    "slug": "arg.1",
+    "name": "Argentine Liga Profesional de Fútbol",
+    "displayName": "Argentine Primera División",
+    "shortName": "",
+    "abbreviation": "Argentine LPF",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1.png"
+  },
+  {
+    "id": "arg.copa?lang=en&region=us",
+    "slug": "arg.copa",
+    "name": "Copa Argentina",
+    "displayName": "Copa Argentina",
+    "shortName": "",
+    "abbreviation": "Copa Argentina",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2320.png"
+  },
+  {
+    "id": "arg.copa_de_la_superliga?lang=en&region=us",
+    "slug": "arg.copa_de_la_superliga",
+    "name": "Argentine Copa de la Superliga",
+    "displayName": "Copa Superliga de Argentina",
+    "shortName": "",
+    "abbreviation": "ASUPERPLIGA",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2407.png"
+  },
+  {
+    "id": "arg.trofeo_de_la_campeones?lang=en&region=us",
+    "slug": "arg.trofeo_de_la_campeones",
+    "name": "Argentine Trofeo de Campeones",
+    "displayName": "Argentine Trofeo de Campeones",
+    "shortName": "",
+    "abbreviation": "Argentine Trofeo de Campeones",
+    "logo": null
+  },
+  {
+    "id": "arg.2?lang=en&region=us",
+    "slug": "arg.2",
+    "name": "Argentine Nacional B",
+    "displayName": "Nacional B de Argentina",
+    "shortName": "",
+    "abbreviation": "Argentine Nacional B",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2294.png"
+  },
+  {
+    "id": "arg.supercopa?lang=en&region=us",
+    "slug": "arg.supercopa",
+    "name": "Argentine Supercopa",
+    "displayName": "Supercopa Argentina",
+    "shortName": "",
+    "abbreviation": "Argentine Supercopa",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2343.png"
+  },
+  {
+    "id": "arg.supercopa.internacional?lang=en&region=us",
+    "slug": "arg.supercopa.internacional",
+    "name": "Argentine Supercopa Internacional",
+    "displayName": "Supercopa Internacional",
+    "shortName": "",
+    "abbreviation": "Supercopa Internacional",
+    "logo": null
+  },
+  {
+    "id": "arg.3?lang=en&region=us",
+    "slug": "arg.3",
+    "name": "Argentine Primera B",
+    "displayName": "Primera División B de Argentina",
+    "shortName": "",
+    "abbreviation": "Argentine Primera B",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2308.png"
+  },
+  {
+    "id": "arg.4?lang=en&region=us",
+    "slug": "arg.4",
+    "name": "Argentine Primera C",
+    "displayName": "Primera División C de Argentina",
+    "shortName": "",
+    "abbreviation": "Argentine Primera C",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2301.png"
+  },
+  {
+    "id": "bra.supercopa_do_brazil?lang=en&region=us",
+    "slug": "bra.supercopa_do_brazil",
+    "name": "Brazilian Supercopa Rei",
+    "displayName": "SDB",
+    "shortName": "",
+    "abbreviation": "Supercopa Rei",
+    "logo": null
+  },
+  {
+    "id": "bra.1?lang=en&region=us",
+    "slug": "bra.1",
+    "name": "Brazilian Serie A",
+    "displayName": "Brazilian Futebol",
+    "shortName": "",
+    "abbreviation": "Brazil Serie A",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png"
+  },
+  {
+    "id": "bra.2?lang=en&region=us",
+    "slug": "bra.2",
+    "name": "Brazilian Serie B",
+    "displayName": "Brasileirao B",
+    "shortName": "",
+    "abbreviation": "Brazil Serie B",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png"
+  },
+  {
+    "id": "bra.3?lang=en&region=us",
+    "slug": "bra.3",
+    "name": "Brazilian Serie C",
+    "displayName": "Brasileirao C",
+    "shortName": "",
+    "abbreviation": "Brazil Serie C",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "bra.copa_do_brazil?lang=en&region=us",
+    "slug": "bra.copa_do_brazil",
+    "name": "Copa do Brasil",
+    "displayName": "Copa Do Brazil",
+    "shortName": "",
+    "abbreviation": "Copa do Brazil",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png"
+  },
+  {
+    "id": "bra.copa_do_nordeste?lang=en&region=us",
+    "slug": "bra.copa_do_nordeste",
+    "name": "Copa do Nordeste",
+    "displayName": "Copa Do Nordeste",
+    "shortName": "",
+    "abbreviation": "Copa do Nordeste",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "bra.camp.carioca?lang=en&region=us",
+    "slug": "bra.camp.carioca",
+    "name": "Brazilian Campeonato Carioca",
+    "displayName": "Campeonato Carioca",
+    "shortName": "",
+    "abbreviation": "Brazil Carioca",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2265.png"
+  },
+  {
+    "id": "bra.camp.paulista?lang=en&region=us",
+    "slug": "bra.camp.paulista",
+    "name": "Brazilian Campeonato Paulista",
+    "displayName": "Campeonato Paulista",
+    "shortName": "",
+    "abbreviation": "Brazil Paulista",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2322.png"
+  },
+  {
+    "id": "bra.camp.gaucho?lang=en&region=us",
+    "slug": "bra.camp.gaucho",
+    "name": "Brazilian Campeonato Gaucho",
+    "displayName": "Campeonato Gaucho",
+    "shortName": "",
+    "abbreviation": "Brazil Gaucho",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2272.png"
+  },
+  {
+    "id": "bra.camp.mineiro?lang=en&region=us",
+    "slug": "bra.camp.mineiro",
+    "name": "Brazilian Campeonato Mineiro",
+    "displayName": "Campeonato Mineiro",
+    "shortName": "",
+    "abbreviation": "Brazil Mineiro",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2360.png"
+  },
+  {
+    "id": "chi.super_cup?lang=en&region=us",
+    "slug": "chi.super_cup",
+    "name": "Chilean Supercopa",
+    "displayName": "Chilean Supercopa",
+    "shortName": "",
+    "abbreviation": "Chilean Supercopa",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "chi.1?lang=en&region=us",
+    "slug": "chi.1",
+    "name": "Chilean Primera División",
+    "displayName": "Chilean Primera División",
+    "shortName": "",
+    "abbreviation": "Chilean Primera",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/86.png"
+  },
+  {
+    "id": "chi.1.promotion.relegation?lang=en&region=us",
+    "slug": "chi.1.promotion.relegation",
+    "name": "Chilean Primera División Promotion/Relegation Playoffs",
+    "displayName": "Chilean Pro/Rel",
+    "shortName": "",
+    "abbreviation": "Chilean Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "chi.copa_chi?lang=en&region=us",
+    "slug": "chi.copa_chi",
+    "name": "Copa Chile",
+    "displayName": "Copa Chile",
+    "shortName": "",
+    "abbreviation": "Copa Chile",
+    "logo": "http://a.espncdn.com/i/leaguelogos/soccer/500/2331.png"
+  },
+  {
+    "id": "chi.2?lang=en&region=us",
+    "slug": "chi.2",
+    "name": "Segunda División de Chile",
+    "displayName": "Segunda División",
+    "shortName": "",
+    "abbreviation": "Seg",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "uru.1?lang=en&region=us",
+    "slug": "uru.1",
+    "name": "Liga AUF Uruguaya",
+    "displayName": "Liga AUF Uruguaya",
+    "shortName": "",
+    "abbreviation": "Liga AUF Uruguaya",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1592.png"
+  },
+  {
+    "id": "uru.2?lang=en&region=us",
+    "slug": "uru.2",
+    "name": "Segunda División de Uruguay",
+    "displayName": "URU2",
+    "shortName": "",
+    "abbreviation": "Seg",
+    "logo": null
+  },
+  {
+    "id": "col.superliga?lang=en&region=us",
+    "slug": "col.superliga",
+    "name": "Colombian Superliga",
+    "displayName": "Colombian Superliga",
+    "shortName": "",
+    "abbreviation": "Colombian Superliga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/2405.png"
+  },
+  {
+    "id": "col.1?lang=en&region=us",
+    "slug": "col.1",
+    "name": "Colombian Primera A",
+    "displayName": "Colombian Fútbol Profesional",
+    "shortName": "",
+    "abbreviation": "Colombian Primera A",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1543.png"
+  },
+  {
+    "id": "col.copa?lang=en&region=us",
+    "slug": "col.copa",
+    "name": "Copa Colombia",
+    "displayName": "Copa Águila",
+    "shortName": "",
+    "abbreviation": "Copa Colombia",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2332.png"
+  },
+  {
+    "id": "col.2?lang=en&region=us",
+    "slug": "col.2",
+    "name": "Colombian Primera B",
+    "displayName": "Colombia Segunda División",
+    "shortName": "",
+    "abbreviation": "Colombian Primera B",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2295.png"
+  },
+  {
+    "id": "per.1?lang=en&region=us",
+    "slug": "per.1",
+    "name": "Peruvian Liga 1",
+    "displayName": "Peruvian Primera Profesional",
+    "shortName": "",
+    "abbreviation": "Peru Liga 1",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1813.png"
+  },
+  {
+    "id": "par.1?lang=en&region=us",
+    "slug": "par.1",
+    "name": "Paraguayan Primera División",
+    "displayName": "Primera División de Paraguay",
+    "shortName": "",
+    "abbreviation": "Paraguayan Primera",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1892.png"
+  },
+  {
+    "id": "par.1.supercopa?lang=en&region=us",
+    "slug": "par.1.supercopa",
+    "name": "Paraguayan Supercopa",
+    "displayName": "Paraguayan Supercopa",
+    "shortName": "",
+    "abbreviation": "Paraguayan Supercopa",
+    "logo": null
+  },
+  {
+    "id": "ecu.1?lang=en&region=us",
+    "slug": "ecu.1",
+    "name": "LigaPro Ecuador",
+    "displayName": "Ecuadoran Primera A",
+    "shortName": "",
+    "abbreviation": "LigaPro Ecuador",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1944.png"
+  },
+  {
+    "id": "ven.1?lang=en&region=us",
+    "slug": "ven.1",
+    "name": "Venezuelan Primera División",
+    "displayName": "Primera División de Venezuela",
+    "shortName": "",
+    "abbreviation": "Liga FUTVE",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1947.png"
+  },
+  {
+    "id": "bol.ply.rel?lang=en&region=us",
+    "slug": "bol.ply.rel",
+    "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
+    "displayName": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "Bolivian Liga Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "bol.copa?lang=en&region=us",
+    "slug": "bol.copa",
+    "name": "Copa Bolivia",
+    "displayName": "Copa Bolivia",
+    "shortName": "",
+    "abbreviation": "Copa Bolivia",
+    "logo": null
+  },
+  {
+    "id": "bol.1?lang=en&region=us",
+    "slug": "bol.1",
+    "name": "Bolivian Liga Profesional",
+    "displayName": "Bolivian Liga Profesional",
+    "shortName": "",
+    "abbreviation": "Bolivian Liga Profesional",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1949.png"
+  },
+  {
+    "id": "jpn.1?lang=en&region=us",
+    "slug": "jpn.1",
+    "name": "Japanese J.League",
+    "displayName": "Japanese J League",
+    "shortName": "",
+    "abbreviation": "Japanese J1 League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2199.png"
+  },
+  {
+    "id": "mex.campeon?lang=en&region=us",
+    "slug": "mex.campeon",
+    "name": "Mexican Campeon de Campeones",
+    "displayName": "Mexican Campeon de Campeones",
+    "shortName": "",
+    "abbreviation": "Campeon de Campeones",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "concacaf.central.american.cup?lang=en&region=us",
+    "slug": "concacaf.central.american.cup",
+    "name": "Concacaf Central American Cup",
+    "displayName": "Central American Cup",
+    "shortName": "",
+    "abbreviation": "Central American Cup",
+    "logo": null
+  },
+  {
+    "id": "concacaf.champions_cup?lang=en&region=us",
+    "slug": "concacaf.champions_cup",
+    "name": "CONCACAF Champions Cup",
+    "displayName": "Champions Cup",
+    "shortName": "",
+    "abbreviation": "Conc CC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "concacaf.u23?lang=en&region=us",
+    "slug": "concacaf.u23",
+    "name": "CONCACAF U23 Tournament",
+    "displayName": "CONCACAF U23 Tournament",
+    "shortName": "",
+    "abbreviation": "Conc U23",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "hon.1?lang=en&region=us",
+    "slug": "hon.1",
+    "name": "Honduran Liga Nacional",
+    "displayName": "Primera División de Honduras",
+    "shortName": "",
+    "abbreviation": "Honduran Liga Nacional",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2247.png"
+  },
+  {
+    "id": "crc.1?lang=en&region=us",
+    "slug": "crc.1",
+    "name": "Costa Rican Primera Division",
+    "displayName": "Primera División de Costa Rica",
+    "shortName": "",
+    "abbreviation": "Liga FPD",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2245.png"
+  },
+  {
+    "id": "gua.1?lang=en&region=us",
+    "slug": "gua.1",
+    "name": "Guatemalan Liga Nacional",
+    "displayName": "Liga Nacional de Guatemala",
+    "shortName": "",
+    "abbreviation": "Guatemalan Liga Nacional",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2248.png"
+  },
+  {
+    "id": "slv.1?lang=en&region=us",
+    "slug": "slv.1",
+    "name": "Salvadoran Primera Division",
+    "displayName": "Primera División de El Salvador",
+    "shortName": "",
+    "abbreviation": "Salvadoran Primera",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2244.png"
+  },
+  {
+    "id": "fifa.intercontinental.cup?lang=en&region=us",
+    "slug": "fifa.intercontinental.cup",
+    "name": "Intercontinental Cup (India)",
+    "displayName": "Intercontinental Cup",
+    "shortName": "",
+    "abbreviation": "Intercontinental Cup (India)",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "afc.saff.championship?lang=en&region=us",
+    "slug": "afc.saff.championship",
+    "name": "SAFF Championship",
+    "displayName": "SAFF Championship",
+    "shortName": "",
+    "abbreviation": "SAFF Championship",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "chn.1.promotion.relegation?lang=en&region=us",
+    "slug": "chn.1.promotion.relegation",
+    "name": "Chinese Super League Promotion/Relegation Playoffs",
+    "displayName": "Chinese Super League Promotion/Relegation Playoffs",
+    "shortName": "",
+    "abbreviation": "Chinese Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "ind.1?lang=en&region=us",
+    "slug": "ind.1",
+    "name": "Indian Super League",
+    "displayName": "Indian Super League",
+    "shortName": "",
+    "abbreviation": "Indian Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2334.png"
+  },
+  {
+    "id": "idn.1?lang=en&region=us",
+    "slug": "idn.1",
+    "name": "Indonesian Super League",
+    "displayName": "Indonesian Super League",
+    "shortName": "",
+    "abbreviation": "Indonesian Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2336.png"
+  },
+  {
+    "id": "ind.2?lang=en&region=us",
+    "slug": "ind.2",
+    "name": "Indian I-League",
+    "displayName": "Indian I-League",
+    "shortName": "",
+    "abbreviation": "Indian I-League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "mys.1?lang=en&region=us",
+    "slug": "mys.1",
+    "name": "Malaysian Super League",
+    "displayName": "Malaysian Super League",
+    "shortName": "",
+    "abbreviation": "Malaysian Super League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2340.png"
+  },
+  {
+    "id": "sgp.1?lang=en&region=us",
+    "slug": "sgp.1",
+    "name": "Singaporean Premier League",
+    "displayName": "Singapore S-League",
+    "shortName": "",
+    "abbreviation": "Singapore Premier League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2338.png"
+  },
+  {
+    "id": "global.gulf_cup?lang=en&region=us",
+    "slug": "global.gulf_cup",
+    "name": "Arabian Gulf Cup",
+    "displayName": "Arabian Gulf Cup",
+    "shortName": "",
+    "abbreviation": "Arabian Gulf Cup",
+    "logo": null
+  },
+  {
+    "id": "tha.1?lang=en&region=us",
+    "slug": "tha.1",
+    "name": "Thai League 1",
+    "displayName": "Thai Premier League",
+    "shortName": "",
+    "abbreviation": "Thai Premier League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2341.png"
+  },
+  {
+    "id": "bangabandhu.cup?lang=en&region=us",
+    "slug": "bangabandhu.cup",
+    "name": "Bangabandhu Cup",
+    "displayName": "Bangabandhu Cup",
+    "shortName": "",
+    "abbreviation": "BGC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "caf.cosafa?lang=en&region=us",
+    "slug": "caf.cosafa",
+    "name": "COSAFA Cup",
+    "displayName": "COSAFA Cup",
+    "shortName": "",
+    "abbreviation": "COSAFA Cup",
+    "logo": null
+  },
+  {
+    "id": "caf.champions?lang=en&region=us",
+    "slug": "caf.champions",
+    "name": "CAF Champions League",
+    "displayName": "CAF Champions League",
+    "shortName": "",
+    "abbreviation": "CAF Champions League",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2391.png"
+  },
+  {
+    "id": "rsa.1.promotion.relegation?lang=en&region=us",
+    "slug": "rsa.1.promotion.relegation",
+    "name": "South African Premiership Promotion/Relegation Playoffs",
+    "displayName": "South African Premier Pro/Rel",
+    "shortName": "",
+    "abbreviation": "South African Premiership Pro/Rel",
+    "logo": null
+  },
+  {
+    "id": "caf.confed?lang=en&region=us",
+    "slug": "caf.confed",
+    "name": "CAF Confederation Cup",
+    "displayName": "CAF Confederation Cup",
+    "shortName": "",
+    "abbreviation": "CAF Confederation Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "rsa.1?lang=en&region=us",
+    "slug": "rsa.1",
+    "name": "South African Premiership",
+    "displayName": "South African Premier",
+    "shortName": "",
+    "abbreviation": "South African Premiership",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "rsa.2?lang=en&region=us",
+    "slug": "rsa.2",
+    "name": "South African First Division",
+    "displayName": "South African National First Division",
+    "shortName": "",
+    "abbreviation": "South African First Division",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "rsa.mtn8?lang=en&region=us",
+    "slug": "rsa.mtn8",
+    "name": "South African MTN 8 Cup",
+    "displayName": "South African MTN 8 Cup",
+    "shortName": "",
+    "abbreviation": "South African MTN 8 Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "nga.1?lang=en&region=us",
+    "slug": "nga.1",
+    "name": "Nigerian Professional League",
+    "displayName": "Nigeria Professional League",
+    "shortName": "",
+    "abbreviation": "Nigerian Pro League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "gha.1?lang=en&region=us",
+    "slug": "gha.1",
+    "name": "Ghanaian Premier League",
+    "displayName": "Ghanaian Premier League",
+    "shortName": "",
+    "abbreviation": "Ghanaian Premier League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "uga.1?lang=en&region=us",
+    "slug": "uga.1",
+    "name": "Ugandan Premier League",
+    "displayName": "Uganda Premier League",
+    "shortName": "",
+    "abbreviation": "Uganda Premier League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "usa.ncaa.m.1?lang=en&region=us",
+    "slug": "usa.ncaa.m.1",
+    "name": "NCAA Men's Soccer",
+    "displayName": "NCAA Men's Soccer",
+    "shortName": "",
+    "abbreviation": "CMSOC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/sports-soccer-solid.png"
+  },
+  {
+    "id": "usa.ncaa.w.1?lang=en&region=us",
+    "slug": "usa.ncaa.w.1",
+    "name": "NCAA Women's Soccer",
+    "displayName": "NCAA Women's Soccer",
+    "shortName": "",
+    "abbreviation": "CWSOC",
+    "logo": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/sports-soccer-solid.png"
+  },
+  {
+    "id": "ken.1?lang=en&region=us",
+    "slug": "ken.1",
+    "name": "Kenyan Premier League",
+    "displayName": "Kenyan Premier League",
+    "shortName": "",
+    "abbreviation": "Kenyan Premier League",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  },
+  {
+    "id": "afc.challenge_cup?lang=en&region=us",
+    "slug": "afc.challenge_cup",
+    "name": "AFC Challenge Cup",
+    "displayName": "AFC Challenge Cup",
+    "shortName": "",
+    "abbreviation": "AFC Challenge Cup",
+    "logo": null
+  },
+  {
+    "id": "fifa.intercontinental_cup_not_used?lang=en&region=us",
+    "slug": "fifa.intercontinental_cup_not_used",
+    "name": "FIFA Intercontinental Cup",
+    "displayName": "Intercontinental Cup",
+    "shortName": "",
+    "abbreviation": "Intercontinental Cup",
+    "logo": null
+  },
+  {
+    "id": "ger.a.bayernliganorth?lang=en&region=us",
+    "slug": "ger.a.bayernliganorth",
+    "name": "German Bayernliga North",
+    "displayName": "Regionalliga North",
+    "shortName": "",
+    "abbreviation": "Regionalliga North",
+    "logo": null
+  },
+  {
+    "id": "bra.carioca.groupa?lang=en&region=us",
+    "slug": "bra.carioca.groupa",
+    "name": "Group A",
+    "displayName": "GROUPA",
+    "shortName": "",
+    "abbreviation": "Group A",
+    "logo": null
+  },
+  {
+    "id": "bra.carioca.groupb?lang=en&region=us",
+    "slug": "bra.carioca.groupb",
+    "name": "Group B",
+    "displayName": "Group B",
+    "shortName": "",
+    "abbreviation": "Group B",
+    "logo": null
+  },
+  {
+    "id": "ven.1?lang=en&region=us",
+    "slug": "ven.1",
+    "name": "Venezuelan Primera División",
+    "displayName": "Primera División de Venezuela",
+    "shortName": "",
+    "abbreviation": "Liga FUTVE",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1947.png"
+  },
+  {
+    "id": "cyp.1?lang=en&region=us",
+    "slug": "cyp.1",
+    "name": "Cypriot First Division",
+    "displayName": "Cypriot First Division",
+    "shortName": "",
+    "abbreviation": "Cypriot First Division",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  }
+]
