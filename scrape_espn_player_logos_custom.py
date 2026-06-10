@@ -40,6 +40,8 @@ ESPN_TO_WP_API = {
     "strasbourg":           "https://www.rcstrasbourgalsace.fr/wp-json/wp/v2/joueurs",
     "rc-strasbourg":        "https://www.rcstrasbourgalsace.fr/wp-json/wp/v2/joueurs",
     "rc-strasbourg-alsace": "https://www.rcstrasbourgalsace.fr/wp-json/wp/v2/joueurs",
+    "stade-de-reims":       "https://www.stade-de-reims.com/wp-json/wp/v2/joueur",
+    "reims":                "https://www.stade-de-reims.com/wp-json/wp/v2/joueur",
 }
 
 # ESPN team slug -> Drupal squad page URL (for clubs using Drupal CMS)
@@ -47,6 +49,12 @@ ESPN_TO_WP_API = {
 ESPN_TO_DRUPAL_SQUAD = {
     "stade-rennais": "https://www.staderennais.com/equipe-pro",
     "rennes":        "https://www.staderennais.com/equipe-pro",
+}
+
+# ESPN team slug -> Nice-style club CDN squad page URL
+ESPN_TO_NICE_CDN = {
+    "nice":    "https://www.ogcnice.com/fr/f/equipes/2025-2026/equipe-pro",
+    "ogc-nice": "https://www.ogcnice.com/fr/f/equipes/2025-2026/equipe-pro",
 }
 
 # ESPN team name -> Bundesliga slug mapping
@@ -96,6 +104,16 @@ TM_NAME_ALIASES: dict[str, str] = {
     "nordan mukiele": "Nordi Mukiele",
     "mousa mohammad mousa sulaiman al ta'mari": "Mousa Tamari",
     "mousa al-tamari": "Mousa Tamari",
+    # Reims — WP uses different name order or given name
+    "zabi gueu": "Patrick Zabi",
+    "ange tia": "Martial Tia",
+}
+
+# Force a specific WP slug for names that can't be fuzzy-matched
+# Maps lowercase player name -> exact WP slug
+WP_SLUG_OVERRIDES: dict[str, str] = {
+    "zabi gueu": "patrick-zabi",   # Reims: ESPN name vs WP name order
+    "ange tia":  "martial-tia",    # Reims: alternate given name
 }
 
 # Known invalid image hashes (placeholders/silhouettes)
@@ -446,6 +464,11 @@ def build_wp_player_map(api_url: str) -> dict[str, str]:
 
 def wp_club_jersey_image(name: str, player_map: dict[str, str]) -> str | None:
     """Fuzzy-match a player name to a WordPress slug and return image URL."""
+    # 0. Check explicit slug overrides first
+    override_slug = WP_SLUG_OVERRIDES.get(name.lower())
+    if override_slug and override_slug in player_map:
+        return player_map[override_slug]
+
     # Normalize name to slug form
     def to_slug(s: str) -> str:
         s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
@@ -506,7 +529,9 @@ def wp_club_jersey_image(name: str, player_map: dict[str, str]) -> str | None:
 def build_drupal_player_map(squad_url: str) -> dict[str, str]:
     """
     Scrape a Drupal-based club squad page (e.g. staderennais.com/equipe-pro).
-    Returns {player-slug: hero_image_url} by pairing ordered slugs with ordered card images.
+    First collects player slugs from the squad page, then fetches each player's
+    individual page to extract the hero_player image URL (with itok token).
+    Returns {player-slug: hero_image_url}.
     """
     player_map: dict[str, str] = {}
     base = re.match(r"(https://[a-zA-Z0-9._-]+)", squad_url)
@@ -515,26 +540,28 @@ def build_drupal_player_map(squad_url: str) -> dict[str, str]:
         r = requests.get(squad_url, headers=HEADERS, timeout=20)
         r.raise_for_status()
         text = r.text
-        # Extract ordered card image paths (small_player_card style)
-        card_paths = re.findall(
-            r"/sites/default/files/styles/small_player_card/private/[^\s\"\'<>?]+\.webp",
-            text,
-        )
         # Extract ordered player slugs from /equipe-pro/{slug} links
         slugs = re.findall(r"/equipe-pro/([a-z][a-z0-9-]+)(?=\")", text)
-        # Deduplicate preserving order
-        seen_paths, seen_slugs = [], []
-        for p in card_paths:
-            if p not in seen_paths:
-                seen_paths.append(p)
+        seen_slugs: list[str] = []
         for s in slugs:
             if s not in seen_slugs:
                 seen_slugs.append(s)
-        # Pair them 1:1 and upgrade to hero_player style
-        for slug, card_path in zip(seen_slugs, seen_paths):
-            hero_path = card_path.replace("/small_player_card/", "/hero_player/")
-            player_map[slug] = base_url + hero_path
-        print(f"  Found {len(player_map)} players with official photos (Drupal squad page)")
+
+        # Fetch each player's individual page to get hero_player URL with itok token
+        hero_pattern = re.compile(
+            r"(https://[^\s\"\'<>)]+/styles/hero_player/private/[^\s\"\'<>)]+\.webp\?itok=[A-Za-z0-9_-]+)"
+        )
+        print(f"  Fetching {len(seen_slugs)} Drupal player pages for jersey images...")
+        for slug in seen_slugs:
+            try:
+                rp = requests.get(f"{base_url}/equipe-pro/{slug}", headers=HEADERS, timeout=12)
+                matches = hero_pattern.findall(rp.text)
+                if matches:
+                    player_map[slug] = matches[0]
+                time.sleep(0.2)
+            except Exception:
+                pass
+        print(f"  Found {len(player_map)} players with official photos (Drupal hero images)")
     except Exception as exc:
         print(f"  WARNING  Drupal squad page failed: {exc}")
     return player_map
@@ -542,6 +569,43 @@ def build_drupal_player_map(squad_url: str) -> dict[str, str]:
 
 # Reuse wp_club_jersey_image fuzzy matching for Drupal maps too
 drupal_jersey_image = wp_club_jersey_image
+
+
+def build_nice_player_map(squad_url: str) -> dict[str, str]:
+    """
+    Scrape OGC Nice squad page and return {player-slug: image_url} using
+    the ogcnice-assets.com CDN (350×500 RGBA jersey photos).
+    """
+    player_map: dict[str, str] = {}
+    try:
+        from bs4 import BeautifulSoup
+        r = requests.get(squad_url, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for a in soup.find_all("a", href=re.compile(r"/fr/fiche/\d+/")):
+            href = a["href"]
+            m = re.search(r"/fr/fiche/\d+/([^/\"\']+)\.html", href)
+            if not m:
+                continue
+            slug = m.group(1)
+            img = a.find("img", src=re.compile(r"350x500"))
+            if not img:
+                parent = a.find_parent()
+                if parent:
+                    img = parent.find("img", src=re.compile(r"350x500"))
+            if img and slug not in player_map:
+                src = img["src"]
+                # Prefer the primary image (not _2 or _8 variants)
+                if not re.search(r"_[28]\.png$", src):
+                    player_map[slug] = src
+        print(f"  Found {len(player_map)} players with official photos (Nice CDN)")
+    except Exception as exc:
+        print(f"  WARNING  Nice CDN squad page failed: {exc}")
+    return player_map
+
+
+# Reuse wp_club_jersey_image fuzzy matching for Nice slug→URL maps too
+nice_jersey_image = wp_club_jersey_image
 
 
 def load_custom_names(filepath: Path) -> list[str]:
@@ -576,11 +640,15 @@ def download_player_logos_custom(custom_names: list[str], team_name: str, output
     if drupal_squad_url:
         drupal_map = build_drupal_player_map(drupal_squad_url)
 
+    # Build Nice CDN map if applicable
+    nice_cdn_url = ESPN_TO_NICE_CDN.get(team_name)
+    nice_map: dict[str, str] = {}
+    if nice_cdn_url:
+        nice_map = build_nice_player_map(nice_cdn_url)
+
     if bundesliga_map:
         sources = "Bundesliga (jersey), Transfermarkt, Wikipedia"
-    elif wp_map:
-        sources = "Club website (jersey), Transfermarkt, Wikipedia"
-    elif drupal_map:
+    elif wp_map or drupal_map or nice_map:
         sources = "Club website (jersey), Transfermarkt, Wikipedia"
     else:
         sources = "Transfermarkt, Wikipedia"
@@ -634,6 +702,16 @@ def download_player_logos_custom(custom_names: list[str], team_name: str, output
                 print(f"           [Club website] -> {filename} ({kb}KB)")
                 downloaded += 1
                 time.sleep(0.3)
+                continue
+
+        # 1d. Try Nice CDN jersey photo
+        if nice_map:
+            n_url = nice_jersey_image(full_name, nice_map)
+            if n_url and download_image(n_url, filepath, hdrs=HEADERS, min_size=5000):
+                kb = filepath.stat().st_size // 1024
+                print(f"           [Club website] -> {filename} ({kb}KB)")
+                downloaded += 1
+                time.sleep(0.2)
                 continue
         
         # 2. Fallback: Transfermarkt (face only)
